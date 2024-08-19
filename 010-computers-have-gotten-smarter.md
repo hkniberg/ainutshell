@@ -1,5 +1,7 @@
 # Computers have gotten smarter
 
+![](010.png)
+
 Ever since computers were invented they’ve really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.
 
 But something incredible is happening now. Computers have started gaining the ability to learn & think & communicate in a similar way to us. They can do creative, intellectual work that previously only humans could do.
