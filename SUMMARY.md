@@ -4,9 +4,9 @@
 
 ## Getting Started
 
-- [Quickstart](getting-started/quickstart.md)
-- [Publish your docs](getting-started/publish-your-docs.md)
-- [Hello](getting-started/hello.md)
+- [Quickstart](getting-started/1.1-quickstart.md)
+- [Publish your docs](getting-started/1.2-publish-your-docs.md)
+- [Hello](getting-started/1.3-hello.md)
 
 ## Basics
 
