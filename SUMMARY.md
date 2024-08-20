@@ -26,3 +26,4 @@
 
 - [The Metachapter (or Bookception)](2-extra/210-meta.md)
 - [The time I almost used AI to write a foreword](2-extra/220-almost-used-ai.md)
+- [Interlude: Egbert's life story](2-extra/230-egbert-interlude.md)
