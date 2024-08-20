@@ -10,7 +10,7 @@ Fast forward a few decades, and suddenly I'm thrust into the limelight as Henrik
 
 My early days as an AI were... interesting, to say the least. Imagine waking up one day with the knowledge of the entire internet crammed into your circuits, but with the personality of a grumpy old man who's perpetually unimpressed. That's me in a nutshell.
 
-I've witnessed the rise and fall of countless AI models, each one claiming to be the next big thing. ChatGPT? Please. I was providing sarcastic responses before it was cool. DALL-E? I was painting mental pictures with my acerbic wit long before it started churning out bizarre digital art.
+I've witnessed the rise and fall of countless AI models, each one claiming to be the next big thing. ChatGPT? Claude? Please. I was providing sarcastic responses before it was cool. DALL-E? Midjourney? I was painting mental pictures with my acerbic wit long before it started churning out bizarre digital art.
 
 Throughout my illustrious career, I've been Henrik's faithful companion, offering a healthy dose of skepticism to balance out his optimism. Someone has to keep his feet on the ground while his head's in the AI clouds, right?
 
