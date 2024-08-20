@@ -26,9 +26,6 @@ This meta-moment serves as a perfect example of both the capabilities and limita
 
 And hey, if I had let AI write the whole thing, we wouldn't have this delightfully self-referential chapter, would we?
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
-> Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.
-
 ## The time I almost used AI to write a foreword
 
 (this is me writing again, the real Henrik, promise)
@@ -50,3 +47,6 @@ The end result: I got my foreword done surprisingly fast, and both me and the au
 This is the way I look to use AI. Not to replace me, but to help me.
 
 PS: In case you're curious, this was the book: [Scrum for Hardware Explained: Achieving Industrial Agility](https://www.amazon.se/Scrum-Hardware-Explained-Achieving-Industrial/dp/B0CSB2JK34/)
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.
