@@ -6,7 +6,7 @@ OK this chapter is going to mess with your head. At least it did for me. I gave 
 
 Here is the result, unedited. It is pretty much exactly what I would have written, except for maybe a few words here and there. Feels both exciting and creepy at the same time.
 
-## A meta moment
+## A meta moment (AI written)
 
 Here's a funny thing. I could have used AI to generate most of this book!
 
