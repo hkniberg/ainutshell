@@ -28,7 +28,7 @@ You can even pick a style.
 
 Or how about an ugly cat in a couch smoking a pipe?
 
-![alt text](../.gitbook/assets/070-ugly-cat-smoking-pipe.png)
+![](../.gitbook/assets/070-ugly-cat-smoking-pipe.png)
 
 ## Image to Image
 
@@ -68,5 +68,5 @@ There are even Text to Video models that generate videos from a prompt. This is 
 
 Sooner or later we’ll have infinite movie series that autogenerate the next episode tailored to your tastes, as you are watching. Kind of scary if you think about it.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![](../.gitbook/assets/egbert-small.png) **Egbert's take**  
 > Ah, perfect! When aliens finally visit Earth, they'll find the remnants of human civilization: skeletons slumped on sofas, eyes fixed on screens. Cause of extinction? Starvation, because no one could tear themselves away from their personalized, never-ending Netflix series.
