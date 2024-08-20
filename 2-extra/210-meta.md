@@ -26,6 +26,5 @@ This meta-moment serves as a perfect example of both the capabilities and limita
 
 And hey, if I had let AI write the whole thing, we wouldn't have this delightfully self-referential chapter, would we?
 
-{% hint style="info" %}
-<img src=".gitbook/assets/egbert.png" alt="Egbert" width="30" style="vertical-align: middle; margin-right: 5px;"> **Egbert's take:** Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.
-{% endhint %}
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.

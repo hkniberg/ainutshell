@@ -1,6 +1,6 @@
 # How it works
 
-![](.gitbook/assets/040-neural-network.png)
+![](../.gitbook/assets/040-neural-network.png)
 
 So how does it actually work?
 
@@ -10,7 +10,7 @@ Neural Networks only deal with numbers. You send in numbers, and depending on ho
 
 So let’s say I write “Dogs are”. When I send that to a large language model, that gets converted to numbers, processed by the neural network, and then the resulting numbers are converted back into text. In this case the word “animals”. “Dogs are animals”. So yeah, this is basically a “guess the next word” machine.
 
-![](.gitbook/assets/040-dogs-are.png)
+![](../.gitbook/assets/040-dogs-are.png)
 
 The interesting part is if we take the output and combine it with the input and send it through the model again, it will continue adding new words.
 

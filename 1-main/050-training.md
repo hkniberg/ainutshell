@@ -1,6 +1,6 @@
 # Training
 
-![](.gitbook/assets/050-training.png)
+![](../.gitbook/assets/050-training.png)
 
 A large language model may have billions or even trillions of parameters. That’s why they are called Large!
 
