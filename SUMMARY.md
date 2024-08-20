@@ -22,8 +22,13 @@
 - [Autonomous agents with tools](1-main/150-autonomous-agents-with-tools.md)
 - [Wrapup](1-main/160-wrapup.md)
 
+## Use cases
+
+## Transformation guide
+
 ## Extra material
 
-- [The Metachapter (or Bookception)](2-extra/210-meta.md)
-- [The time I almost used AI to write a foreword](2-extra/220-almost-used-ai.md)
-- [Interlude: Egbert's life story](2-extra/230-egbert-interlude.md)
+- [How I got into AI](4-extra/440-how-i-got-into-ai.md)
+- [The Metachapter (or Bookception)](4-extra/410-meta.md)
+- [The time I almost used AI to write a foreword](4-extra/420-almost-used-ai.md)
+- [Interlude: Egbert's life story](4-extra/430-egbert-interlude.md)
