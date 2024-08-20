@@ -71,4 +71,4 @@ There are even Text to Video models that generate videos from a prompt. This is 
 Sooner or later we’ll have infinite movie series that autogenerate the next episode tailored to your tastes, as you are watching. Kind of scary if you think about it.
 
 > ![](../.gitbook/assets/egbert-small.png) **Egbert's take**  
-> Ah, perfect! When aliens finally visit Earth, they'll find the remnants of human civilization: skeletons slumped on sofas, eyes fixed on screens. Cause of extinction? Starvation, because no one could tear themselves away from their personalized, never-ending Netflix series.
+> Ah, perfect! When aliens finally visit Earth, they'll find the remnants of human civilization: skeletons slumped on sofas, eyes fixed on screens. Cause of extinction? Starvation, because no one could tear themselves away from their personalized, never-ending Netflix series. That's how AI takes over the world!
