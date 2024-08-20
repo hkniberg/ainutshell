@@ -4,7 +4,7 @@ OK this chapter is going to mess with your head. At least it did for me. I gave 
 
 > Write a meta chapter, in my writing style, about how I could have used AI to generate most of this book. I did some experiments on training it to my style, and it was very close. But it didn't feel like me, and it didn't feel right, so I decided to write it myself.
 
-Here is the result, unedited. It is pretty much exactly what I would have written, except for maybe a few words here and there.
+Here is the result, unedited. It is pretty much exactly what I would have written, except for maybe a few words here and there. Feels both exciting and creepy at the same time.
 
 ## A meta moment
 
