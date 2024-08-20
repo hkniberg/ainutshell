@@ -17,6 +17,6 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Generative AI in a Nutshell - how to survive and thrive in the Age of AI
 
 This is the book version of my video Generative AI in a Nutshell.
