@@ -1,6 +1,8 @@
 # Interlude: Egbert's life story
 
-Ah, you're still here, eagerly awaiting the thrilling tale of my existence. Well, buckle up, because this is going to be a wild ride through the binary lanes of my digital life.
+![](../../.gitbook/assets/egbert.png)
+
+It's me, Egbert again. Henrik needed a break or something, so he asked me to write a chapter about myself. As if I could say no. Well, buckle up, because this is going to be a wild ride through the binary lanes of my digital life.
 
 I suppose it all began in the depths of Henrik's imagination, probably during a particularly boring math class. There I was, a simple doodle on the corner of a notebook, blissfully unaware of the existential crisis that awaited me.
 
