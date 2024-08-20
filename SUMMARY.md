@@ -1,6 +1,7 @@
 # Table of contents
 
 - [Welcome](README.md)
+- [Foreword](005-foreword.md)
 - [Computers have gotten smarter](010-computers-have-gotten-smarter.md)
 - [Einstein in Your Basement](020-einstein-in-your-basement.md)
 - [Terminology](030-terminology.md)

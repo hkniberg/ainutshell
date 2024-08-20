@@ -1,6 +1,6 @@
 # Computers have gotten smarter
 
-![](010.png)
+![Calculator Brain](.gitbook/assets/010-calculator-brain.png)
 
 Ever since computers were invented they’ve really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.
 

@@ -1,5 +1,7 @@
 # How it works
 
+![Neural Network](.gitbook/assets/040-neural-network.png)
+
 So how does it actually work?
 
 A large language model is an Artificial Neural Network. Basically a bunch of numbers, or parameters, connected to each other, similar to how our brain is a bunch of neurons, or brain cells, connected to each other.
@@ -8,6 +10,16 @@ Neural Networks only deal with numbers. You send in numbers, and depending on ho
 
 So let’s say I write “Dogs are”. When I send that to a large language model, that gets converted to numbers, processed by the neural network, and then the resulting numbers are converted back into text. In this case the word “animals”. “Dogs are animals”. So yeah, this is basically a “guess the next word” machine.
 
-The interesting part is if we take the output, and combine it with the input, and send it through the model again. Then it will continue adding new words. That’s what is going on behind the scenes when you type something in ChatGPT. In this case, it generated a whole story.
+![Guess the next word](.gitbook/assets/040-dogs-are.png)
 
-And I continue this indefinitely by adding more prompts.
+The interesting part is if we take the output and combine it with the input and send it through the model again, it will continue adding new words.
+
+For example here's what I got when i wrote "Generate a short story about a flying puppy".
+
+> Max was no ordinary puppy. While other dogs chased squirrels and dug holes in the backyard, Max spent his days gazing longingly at the sky. His owners thought it was cute how he'd sit for hours watching birds soar overhead, but they had no idea what was really going on in Max's fluffy little head. You see, Max had a secret - one that would turn the whole neighborhood upside down if anyone ever found out. This playful golden retriever pup could fly.
+
+Then I wrote "Add a dark twist to the story", and the story continued:
+
+> Max's ability to defy gravity was a source of wonder and joy, until the day everything changed. One crisp autumn evening, as Max soared high above the rooftops, he spotted something that made his little heart race with fear. In the shadows of an abandoned warehouse at the edge of town, he saw men in dark suits loading cages into unmarked vans. Inside those cages were puppies - dozens of them - whimpering and crying. Max realized with a chill that these weren't just any puppies; they all had an ethereal glow about them, just like he did when he took to the skies. Someone had discovered the secret of flying dogs, and they were hunting them down one by one.
+
+This could basically go on forever, by adding more prompts.
