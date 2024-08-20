@@ -38,7 +38,7 @@ Image to Image models can do things like transforming or combining images. Let's
 
 ## Image to Text
 
-Image to Text models can be used to classify images ("does this contain a cat"), or describt the contents of a given image. I was surprised that an AI model managed to recognize the contents of the merged image above...
+Image to Text models can be used to classify images ("does this contain a cat"), or describe the contents of a given image. I was surprised that an AI model managed to recognize the contents of the merged image above...
 
 ![alt text](../.gitbook/assets/070-image-to-text.png)
 
@@ -46,7 +46,9 @@ OK that was the last cat picture, I promise!
 
 ## Audio to text
 
-Audio to text models (sometimes called speech to text) can do things like voice transcriptions and meeting notes, which is very useful. When writing this book, I used speech to text all the time, to capture my thoughts while I was out walking. Speech to text models have been around for a long time, but when OpenAI released their Whisper model, it suddenly became incredibly good at understanding speech, even in noisy environments.
+Audio to text models (sometimes called speech to text) can do things like voice transcriptions and meeting notes, which is very useful. When writing this book, I used speech to text all the time, to capture my thoughts while I was out walking.
+
+Speech to text models have been around for a long time. But when OpenAI released their Whisper model, it raised the bar significantly. That model is incredibly good at understanding speech, even in noisy environments, and in multiple languages.
 
 ![](../.gitbook/assets/070-audio-to-text.png)
 
