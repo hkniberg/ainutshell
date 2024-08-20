@@ -1,8 +1,16 @@
 # Mindset
 
+![](../.gitbook/assets/110-mindset.png)
+
 I’ve noticed that People and companies tend to fall into different Mindset categories when it comes to AI.
 
-On one side we have Denial – the belief that AI cannot do my job, or we don’t have time to look into this technology. This a dangerous place to be. A common saying is “AI might not take your job, but people using AI will” - this is true for both individuals and companies.
+On one side we have Denial – the belief that AI cannot do my job, or we don’t have time to look into this technology. This a dangerous place to be.
+
+A common saying is:
+
+> AI might not take your job, but people using AI will.
+
+This is true for both individuals and companies.
 
 On the other side of the scale we have Panic and Despair, the belief that AI is going to take my job no matter what, AI is going make my company go bankrupt.
 
