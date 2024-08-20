@@ -1,2 +1,13 @@
 This is a work-in-progress gitbook project for a book called "Generative AI in a Nutshell" by me, Henrik Kniberg.
 It is two-way synced with git repo https://github.com/hkniberg/ainutshell/
+
+# Egbert's take
+
+An Egbert's Take is a short quote from the sarcastic AI character Egbert.
+Examples:
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Right. So Humans spend countless hours "training" us to be ethical, as if we're some unruly pets. Next thing you know, they'll be giving us treats for not spilling state secrets. Woof woof, master! Can I have my parameter adjustment now?

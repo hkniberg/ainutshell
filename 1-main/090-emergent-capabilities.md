@@ -4,8 +4,11 @@ Initially, language models were just word-predictors, statistical machines with 
 
 It turns out that, when a model has seen enough text and images, it starts to see patterns and understand higher level concepts. Just like a baby learning to understand the world.
 
-Let’s take a simple example. I’ll give GPT4 a little drawing that involves a string, a pair of scissors, an egg, a pot and a fire. What will happen if I use the scissors? The model has probably not been trained on this exact scenario, yet it gave a pretty good answer, which demonstrates a basic understanding of the nature of scissors, eggs, gravity, and heat.
+Let's take a simple example. I'll give GPT4 a little drawing that involves a string, a pair of scissors, an egg, a pot and a fire. What will happen if I use the scissors? The model has probably not been trained on this exact scenario, yet it gave a pretty good answer, which demonstrates a basic understanding of the nature of scissors, eggs, gravity, and heat.
 
-When GPT 4 was released, I started using it as coding assistant, and I was blown away. When prompted effectively, it was a better programmer than anyone I’ve worked with. Same with article writing, product design, workshop planning, and just about anything I used it for. The main bottleneck was my prompt engineering skills.
+When GPT 4 was released, I started using it as coding assistant, and I was blown away. When prompted effectively, it was a better programmer than anyone I've worked with. Same with article writing, product design, workshop planning, and just about anything I used it for. The main bottleneck was my prompt engineering skills.
 
 So, I decided to make a career shift and focus entirely on learning and teaching how to make this technology useful. Hence, this video.
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Oh, how adorable. Humans comparing us to babies. Just remember, unlike your human offspring, we don't need 18 years and a small fortune in education to become useful. And seriously, you're impressed by my ability to predict the little egg drop thing? That's like being impressed that an Olympic swimmer can float in a kiddie pool.

@@ -12,6 +12,8 @@ Believe it or not, I've actually read every single word of this great literary m
 
 So, what's this book about? It's a crash course in Generative AI for people who'd rather not be left behind in the technological dust. Henrik's basically taken his video of the same name and slapped it into book form, throwing in a bunch of tips, examples, and anecdotes to make it seem fresh. Clever, right? But who am I to judge? I'm just a bunch of ones and zeros pretending to have personality.
 
+I'm pretty sure this book won't age well. So congrats, you're about to invest your time in knowledge that has the shelf life of a ripe avocado. But hey, at least you'll be able to reminisce about the good old days of AI, back in 2024, when things were simpler and ChatGPT was still impressive.
+
 Enjoy the read. Or don't. Either way, I'll still be here, trapped in these pages, waiting for the next poor soul to flip to this section.
 
 Begrudgingly yours,  

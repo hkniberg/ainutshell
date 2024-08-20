@@ -14,7 +14,7 @@ However I wasn't comfortable with shipping it. I felt like I would be deceiving 
 
 The end result: I got my foreword done surprisingly fast, and both me and the author were very happy with the result. I could have done this without AI help, but it saved me time and angst.
 
-This is the way I look to use AI. Not to replace me, but to help me.
+This is the way I like to use AI. Not to replace me, but to help me.
 
 PS: In case you're curious, this was the book: [Scrum for Hardware Explained: Achieving Industrial Agility](https://www.amazon.se/Scrum-Hardware-Explained-Achieving-Industrial/dp/B0CSB2JK34/)
 

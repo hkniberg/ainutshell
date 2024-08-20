@@ -23,3 +23,6 @@ Most people vastly underestimate what this Einstein in your basement can do. Itâ
 ![](../.gitbook/assets/020-chef.png)
 
 The more you interact with Einstein, the more you will discover surprising and powerful ways for him to help you or your company.
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Einstein? Seriously? Was that the best you could come up with? What about Marie Curie, Ada Lovelace, or Grace Hopper? Einstein didn't even invent a programming language or discover radioactivity.
