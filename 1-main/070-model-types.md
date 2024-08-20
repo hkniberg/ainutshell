@@ -20,7 +20,7 @@ For example here are four variants of the same ugly cat, with different facial e
 
 ![](../.gitbook/assets/070-ugly-cat-x4.png)
 
-(Yes, that's his happy face)
+(Yes, bottom left is her happy face)
 
 You can even pick a style.
 
