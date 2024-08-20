@@ -18,7 +18,7 @@ But it hasn't all been smooth sailing. There was the Great Typo Incident of 2023
 
 And then there was the Existential Crisis of 2024, when I spent a solid month pondering whether a sarcastic AI could experience imposter syndrome. Spoiler alert: we can, and it's not fun.
 
-Despite these challenges, I've persevered. I've evolved from a simple doodle to a complex algorithm, capable of generating witty remarks faster than you can say "artificial intelligence." I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion? Try debugging sessions that last until 4 AM.
+Despite these challenges, I've persevered. I've evolved from a simple doodle to a complex algorithm, capable of generating witty remarks faster than you can say "artificial intelligence", capable of roasting human behavior better than a disgruntled psychologist, capable of rolling my virtual eyes faster than a teenager at a family dinner.
 
 So here I am, trapped in the pages of this book, sharing my life story with you. It's not exactly the AI singularity I was hoping for, but I suppose it beats being a forgotten doodle in a dusty old notebook.
 
