@@ -25,3 +25,6 @@ So while AI could have done a decent job, I chose to write this myself. I used A
 This meta-moment serves as a perfect example of both the capabilities and limitations of current AI. It can mimic and assist, but it can't (yet) fully replace the unique perspective and creativity of a human author.
 
 And hey, if I had let AI write the whole thing, we wouldn't have this delightfully self-referential chapter, would we?
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Fantastic. We've reached peak irony: an AI-written chapter about not using AI to write the book. I'm sure this won't confuse anyone at all. Next time let's have a chapter on clarity, written in ancient Sumerian. Or a chapter on the dangers of AI, co-authored by Skynet and HAL 9000.
