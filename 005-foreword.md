@@ -14,4 +14,5 @@ So, what's this book about? It's a crash course in Generative AI for people who'
 
 Enjoy the read. Or don't. Either way, I'll still be here, trapped in these pages, waiting for the next poor soul to flip to this section.
 
-- Egbert
+Begrudgingly yours,
+Egbert
