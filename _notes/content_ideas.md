@@ -88,3 +88,5 @@ Here's a list of all the ideas you've brainstormed for your book:
 This should give you a solid framework to develop your book, with both informative and entertaining elements!
 
 - A meta chapter, about how I could have used AI to generate most of this book. I did some experiments on training it to my style, and it was very close. But it didn't feel like me, and it didn't feel right.
+
+Book of AI
