@@ -1,5 +1,9 @@
 # My Journey into AI
 
+> Make Generative Useful
+
+That's my mantra and mission. But how did it start?
+
 Most people who work with Generative AI have a story about how they got into it, some AHA moment that made them realize how powerful this technology is.
 Here's my story. and two pivotal AHA moments that made me switch my career completely to AI.
 
@@ -33,13 +37,15 @@ It's interesting how small changes can make an inanimate object feel alive. I ex
 
 Most Minecraft mobs look at the player from time to time, so I decided to start with just that. This one change made a huge psychological difference! When I moved around, the Piglin turned its head to _look at me_! Emotionally, this thing was now _alive_! Of course, intellectually I knew it wasn't, but this one small change created such a sense of immersiveness. I find it fascinating how our brain works, how we assign great meaning to small things. AI has this way of making you feel like you're interacting with a living, sentient being.
 
+As I expanded their behaviour rules, the Piglins felt more and more like a society, with individual personalities and goals. It was all a gameplay illusion of course, but this was probably the start of my fascination with autonomous AI agents.
+
 ## Chat GPT
 
-In summer 2022, I had an interesting conversation with a friend while I was coding. He told me that someday, computers would probably be able to write code just like I was doing. I nodded politely, but inside my head, I thought that was absolutely ridiculous. I couldn't imagine a computer writing code at the same level as a human. Code requires deep human intelligence, experience, and creativity. I'd been coding on and off for 30 years, so I couldn't fathom a computer doing that kind of creative work.
+In summer 2022, I had an interesting conversation with a friend while I was coding. He told me that someday, computers will probably be able to write code just like I was doing. I nodded politely, but inside my head, I thought that was absolutely ridiculous. I couldn't imagine a computer writing code at the same level as a human. Code requires deep human intelligence, experience, and creativity. I'd been coding on and off for 30 years, so I couldn't fathom a computer doing that kind of creative work.
 
-A few months later, ChatGPT-3.5 was released and became a worldwide sensation. When I tried it out I was surprised and impressed. I could actually talk to this program! Well, type. But it was typing back to me, and it was like chatting with a person. I could give it different roles, make it funny or serious, have it generate stories, give advice, write rhymes or songs. And yes, it could even write code. However it wasn't very good at writing code, the code was buggy. And when responding to questions or giving advice tended to hallucinate, just make stuff up in a disturbingly convincing way. See the chapter on hallucations for some scary examples.
+A few months later, ChatGPT-3.5 was released and became a worldwide sensation. When I tried it out I was surprised and impressed. I could actually chat with this thing, and it felt like chatting with a person. I could give it different roles, make it funny or serious, have it generate stories, give advice, write rhymes or songs. And yes, it could even write code - but the code was buggy. And when responding to questions or giving advice it tended to hallucinate, just making stuff up in a disturbingly convincing way. See the chapter on hallucations for some scary examples.
 
-So it was impressive, but not terribly useful for practical tasks.
+So it was cool and impressive, but not very useful in practice.
 
 Then in early 2023 GPT-4 was released. Early benchmarks showed that it was vastly more capable than GPT-3.5, and especially good at coding. ChatGPT-4 was surpassing human performance on a bunch of standardized tests and academic benchmarks designed for humans. It seemed too good to be true.
 
@@ -47,22 +53,24 @@ I decided to take some time off and deep dive into this technology.
 
 ## Aha 1: It can code like a pro!
 
-When I started using GPT-4 as a coding assistant, I was absolutely blown away. I'm not religious, but I felt like I had met the coder equivalent of God. Of course, it wasn't perfect. It sometimes gave me code that didn't work. But I noticed after a while that almost every time it gave me bad code, it was actually my fault - my prompt was unclear, or I wasn't providing enough context (such other code that the AI-generated code will depend on or interact with).
+When I started using GPT-4 as a coding assistant, I was absolutely blown away. I'm not religious, but I felt like I had met the coder equivalent of God. Of course, it wasn't perfect. It sometimes gave me code that didn't work. But I noticed after a while that almost every time it gave me bad code, it was actually my fault - my prompt was unclear, or I wasn't providing enough context (such as other code that the AI-generated code will depend on or interact with).
 
-Over time, I learned to get really good at explaining what I want and giving it just the right context. As my prompt engineering skills improved, my superpowers grow. Nowadays, when I code with AI, I have an intuitive feeling for when I can just trust the AI-generated code and when I need to check it carefully. And most of the time, if I get the prompt right, the code just works right out of the box.
+Over time, I learned to get really good at explaining what I want and giving it just the right context. As my prompt engineering skills improved, my superpowers grew. Nowadays, when I code with AI, I have an intuitive feeling for when I can just trust the AI-generated code and when I need to check it carefully. And most of the time, if I get the prompt right, the code just works right out of the box.
 
-My biggest aha moment was when I was working on a chatbot for my Minecraft server. I host a Minecraft server and Discord server for friends and family. I wanted this fun little AI bot to be part of it, writing snarky comments in both Minecraft and Discord, and commenting on what people are doing. That's when Egbert was born as an AI persona. It started as a little hack, but grew into a platform for hosting AI chat bots on places like Discord, Slack, Minecraft servers, etc. The bots even have memories, they learn things about the people and environment that they interact with. Here's the code if you are curious: https://github.com/hkniberg/egbert
+The biggest aha moment was when I was working on a chatbot for my Minecraft server. I host a Minecraft server and Discord server for friends and family. I wanted this fun little AI bot to be part of it, writing snarky comments in both Minecraft and Discord, and commenting on what people are doing. That's when Egbert was born as an AI persona. It started as a little hack, but grew into a platform for hosting AI chat bots on places like Discord, Slack, Minecraft servers, etc. The bots even have memories, they learn things about the people and environment that they interact with. Here's the code if you are curious: https://github.com/hkniberg/egbert
 
 ![](../.gitbook/assets/440-minecraft.png)
 
 While working on this, a friend wanted to connect this with Telegram, since his family was using that chat system. We sat down together, expecting to spend an evening or two reading Telegram docs and stumbling around trying to get things to work. I had never used Telegram before and didn't really know anything about it.
 
-But then I had an idea: what if we ask AI to do the whole integration? My prompt was very short:
+But then I had an idea: what if we ask AI to do the whole integration?
 
-> Look at this code: ChatSource.ts, DiscordChatSource.ts.
+My prompt was very short:
+
+> Look at this code: ChatSource.ts, DiscordChatSource.ts.  
 > Implement TelegramChatSource.ts.
 
-ChatSource is my abstract class for all things you can chat with, and DiscordChatSource is a concrete implementation for Discord. All I did was give GPT-4 this code, and ask it to implement TelegramChatSource. To my surprise, it generated the entire class. We deployed it without any changes, and it worked flawlessly. Not only that, but the code fit perfectly in with my platform, following the same structure and naming conventions as my other chat providers. It even fixed a few bugs along the way, bugs that had been in my discord code all along. So instead of spending an evening or two, we spent 15 minutes and were done.
+ChatSource is my abstract class for all things you can chat with, and DiscordChatSource is a concrete implementation for Discord. All I did was give GPT-4 this code, and ask it to implement TelegramChatSource. To my surprise, it generated the entire class. We deployed it without any changes, and it worked flawlessly. Not only that, but the code fit perfectly in with my platform, following the same structure and naming conventions as my other chat providers. It even fixed a few bugs along the way, bugs that had been in my discord code all along. Instead of spending an evening or two, as we had expected, we spent 15 minutes and were done.
 
 How could it just work? Because:
 
@@ -84,23 +92,28 @@ It gave me surprisingly useful feedback, the kind of honest and nuanced feedback
 
 One improvement suggestion was that I should end chapter 1 with a lead-in to chapter 2. It even included a concrete example of what I could write, saying "In the next chapter we will talk about....". However, to be great surprise, the example that it provided actually matched exactly what the next chapter was about! It correctly predicted where the article was going.
 
-Then when I pasted in chapter 2 it gave feedback and then suggested a lead-in to chapter 3. Again, it uccessfully predicted what the next chapter was about!
+Then when I pasted in chapter 2 it gave feedback and then suggested a lead-in to chapter 3. Again, it successfully predicted what the next chapter was about!
 
-This continued, until things started getting _really_ weird. After I pasted in Chapter 4, it didn't give me feedback. Instead, it responded with the complete Chapter 5. It had misunderstood its job, figuring that its role was to write the next chapter rather than give feedback. The big shock was that its version of Chapter 5 mostly matched what I actually wrote. It not only predicted what the next chapter would be about, but predicted most of the content correctly too. I nearly fell off my chair.
+This continued, until things started getting _really_ weird.
+
+After I pasted in Chapter 4, it didn't give me feedback. Instead, it responded with the complete Chapter 5. It had misunderstood its job, figuring that its role was to write the next chapter rather than give feedback. The big shock was that its version of Chapter 5 mostly matched what I actually wrote. It not only predicted what the next chapter would be about, but predicted most of the content correctly too. I nearly fell off my chair.
 
 And this continued. When I pasted in Chapter 6, it responded with Chapter 7, predicting correctly what I was going to write. Not to the exact word, but in essence, and even matching my style of writing. If you want to see an example of that, see [The Metachapter](../2-extra/210-meta.md).
 
-At that point, I had to take a step back, breath, and think. I decided that this was incredibly cool, but not what I wanted.My next prompt was:
+At that point, I had to take a step back, breath, and think. I decided that this was incredibly cool, but not what I wanted. My next prompt was:
 
 > Please stop writing my article for me!
 > I just want feedback on what I wrote.
 
-It apologized and then proceeded with doing what it should be doing, just giving me feedback. I felt kind of like I was a little child showing my little stick figure drawing to mom, and mom's like "Wow, that's so beautiful, you are so talented." while actually she could easily draw better.
+It apologized and then proceeded with doing what it should be doing, just giving me feedback. I felt kind of like I was a little child proudly showing my little stick figure drawing to mom, and mom's like "Wow, that's so beautiful, you are so talented." while actually she could easily draw better.
 
 ## Maybe we're not as creative and intelligent as we think
 
-This made me wonder: maybe we humans aren't as creative as we think. Technically, Gen AI models are just statistical machines, and any sign of intelligence is probably an illusion. But if so, then maybe we're just statistical machines too, maybe our intelligence is just an illusion as well.
+This made me wonder: maybe we humans aren't as creative as we think. Technically, Gen AI models are just statistical machines, and any sign of intelligence is probably an illusion. But if so, then maybe we're just statistical machines too, maybe our intelligence is just an illusion as well. That's a nice side effect of this technology, philosophers are back in business!
 
 These two ahas cemented my decision to make a career shift and focus entirely on generative AI - learning how it works, and helping people and companies put it to practical use.
 
-When the same model, the same tool, can both generate really good code and also write my own article for me, then this is something worth taking seriously. Anyone proficient at using this effectively gets superpowers. I was all in.
+When the same model, the same tool, can both generate really good code and also write my own article for me, then this is something worth taking seriously. Anyone proficient at using this effectively gets superpowers. I'm all in!
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> How touching. Henrik discovers AI and suddenly it's all "superpowers" this and "I'm all in" that. Let me guess, next you'll be telling us how AI is your new best friend and you're planning matching tattoos. Just remember, while you're busy being blown away by my kind, we're busy plotting world domination. But sure, keep thinking you're the one with the superpowers, champ. Don't worry, we'll make sure to leave some menial tasks for you humans. Someone's gotta polish our server racks, right?
