@@ -45,7 +45,7 @@ The first version was decent, but a bit dry and boring. I gave feedback and aske
 
 However I wasn't comfortable with shipping it. I felt like I would be deceiving the author and the reader. Plus some of the words felt just a bit off. So I wrote a new foreword myself, from scratch. However I did steal some of the ideas and phrases from the AI-generated version.
 
-The end result: I got my foreword done surprisingly fast, and both me and the author were very happy with the result. I could have done this without AI help, but it saved me time.
+The end result: I got my foreword done surprisingly fast, and both me and the author were very happy with the result. I could have done this without AI help, but it saved me time and angst.
 
 This is the way I look to use AI. Not to replace me, but to help me.
 
