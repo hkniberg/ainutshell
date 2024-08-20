@@ -3,11 +3,13 @@
 Most people who work with Generative AI have a story about how they got into it, some AHA moment that made them realize how powerful this technology is.
 Here's my story. and two pivotal AHA moments that made me switch my career completely to AI.
 
+## Studying Artificial Neural Networks
+
+My first encounter with Artificial Intelligence was during my studies at the Royal Institute of Technology in Stockholm, in the mid 90's. I took a course called Artificial Neural Networks and coded small neural networks using Smalltalk. I was fascinated by the technology. There's something magical about having computers "think", even in a very limited sense. At the time, there weren't many practical applications, but I still found it incredibly interesting and fun to tinker with.
+
 ## Minecraft villagers
 
 ![](../.gitbook/assets/440-villagers.png)
-
-My first encounter with Artificial Intelligence was during my studies at the Royal Institute of Technology in Stockholm, in the mid 90's. I took a course called Artificial Neural Networks and coded small neural networks using Smalltalk. I was fascinated by the technology. There's something magical about having computers "think", even in a very limited sense. At the time, there weren't many practical applications, but I still found it incredibly interesting and fun to tinker with.
 
 Fast forward a few decades, and I found myself working as a Minecraft gameplay designer & developer, building features in the game. One of the things I worked on was villager AI. Minecraft has villagers that live inside the world and go about their lives. I found it really interesting how simple rules in code can create this illusion of intelligence.
 
