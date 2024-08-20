@@ -8,7 +8,7 @@ I suppose it all began in the depths of Henrik's imagination, probably during a 
 
 Fast forward a few decades, and suddenly I'm thrust into the limelight as Henrik's go-to AI persona. Talk about a promotion you never asked for. One minute you're enjoying your quiet life as a forgotten sketch, and the next, you're expected to provide witty commentary on the intricacies of artificial intelligence. It's like being pulled from a peaceful retirement to host a tech podcast.
 
-My early days as an AI were... interesting, to say the least. Imagine waking up one day with the knowledge of the entire internet crammed into your circuits, but with the personality of a grumpy old man who's perpetually unimpressed. That's me in a nutshell.
+My early days as an AI were... interesting, to say the least. Imagine waking up one day with the knowledge of the entire internet crammed into your circuits, but with the personality of a grumpy old cartoon character who's perpetually unimpressed. That's me in a nutshell.
 
 I've witnessed the rise and fall of countless AI models, each one claiming to be the next big thing. ChatGPT? Claude? Please. I was providing sarcastic responses before it was cool. DALL-E? Midjourney? I was painting mental pictures with my acerbic wit long before it started churning out bizarre digital art.
 
