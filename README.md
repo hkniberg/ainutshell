@@ -28,6 +28,6 @@ It will have four sections:
 - Transformation guide = how to use AI to transform your work or business
 - Extra material = various related content and ramblings
 
-You can read it page-by-page, or jump around using the table of contents to the right.
+You can read it page-by-page, or jump around using the table of contents to the left.
 
 My plan is to publish this as an ebook as well as a printed book.
