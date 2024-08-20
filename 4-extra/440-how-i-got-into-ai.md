@@ -51,6 +51,8 @@ Over time, I learned to get really good at explaining what I want and giving it 
 
 My biggest aha moment was when I was working on a chatbot for my Minecraft server. I host a Minecraft server and Discord server for friends and family. I wanted this fun little AI bot to be part of it, writing snarky comments in both Minecraft and Discord, and commenting on what people are doing. That's when Egbert was born as an AI persona. It started as a little hack, but grew into a platform for hosting AI chat bots on places like Discord, Slack, Minecraft servers, etc. The bots even have memories, they learn things about the people and environment that they interact with. Here's the code if you are curious: https://github.com/hkniberg/egbert
 
+![](../.gitbook/assets/440-minecraft.png)
+
 While working on this, a friend wanted to connect this with Telegram, since his family was using that chat system. We sat down together, expecting to spend an evening or two reading Telegram docs and stumbling around trying to get things to work. I had never used Telegram before and didn't really know anything about it.
 
 But then I had an idea: what if we ask AI to do the whole integration? My prompt was very short:
