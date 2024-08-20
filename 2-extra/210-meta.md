@@ -6,7 +6,7 @@ OK this chapter is going to mess with your head. At least it did for me. I gave 
 
 Here is the result, unedited:
 
-# A meta moment
+## A meta moment
 
 Here's a funny thing. I could have used AI to generate most of this book!
 
