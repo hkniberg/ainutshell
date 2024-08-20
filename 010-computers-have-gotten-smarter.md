@@ -1,6 +1,6 @@
 # Computers have gotten smarter
 
-![Calculator Brain](.gitbook/assets/010-calculator-brain.png)
+![](.gitbook/assets/010-calculator-brain.png)
 
 Ever since computers were invented they’ve really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.
 
@@ -12,4 +12,4 @@ Basically, intelligence is now available as a service, like a giant brain floati
 
 This is a big deal. It’s going to affect just about every person and company on this planet, positively or negatively.
 
-This video is here to help you understand what Generative AI is all about, in practical terms, beyond the hype. The better you understand this technology, and how to make use of it, as a person, team, or company, the better equipped you will be to survive and thrive in the age of AI.
+This book is here to help you understand what Generative AI is all about, in practical terms, beyond the hype. The better you understand this technology, and how to make use of it, as a person, team, or company, the better equipped you will be to survive and thrive in the age of AI.

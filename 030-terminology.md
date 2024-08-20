@@ -1,6 +1,6 @@
 # Terminology
 
-![Terminology](.gitbook/assets/030-terminology.png)
+![](.gitbook/assets/030-terminology.png)
 
 OK enough fluffy metaphors, let’s clarify some terms.
 
