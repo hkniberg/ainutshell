@@ -148,8 +148,9 @@ But this code was unnecessary, I could have gotten this evaluation by drag-dropp
 
 # Code example 3
 
-Let's say we have several open positions and lots of CVs to deal with.
-Here's an udpdated version of the code that can compare multiple CVs.
+Let's say we have several open positions and lots of CVs to deal with. Here's an updated version of the code that can compare multiple CVs.
+
+Again, the code was mostly written by AI. I gave it the code above, and told it something like "Make it possible to evaluate multiple candidates for the same job, and then compare the candidates and give a final recommendation". The resulting code worked fine, but I made some tweaks to the prompts.
 
 ```javascript
 import { config } from "dotenv";
