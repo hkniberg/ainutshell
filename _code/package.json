@@ -1,0 +1,16 @@
+{
+  "name": "gen-ai-in-a-nutshell-code",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.4.0",
+    "pdf-parse": "^1.1.1",
+    "pdf-text-reader": "^4.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
