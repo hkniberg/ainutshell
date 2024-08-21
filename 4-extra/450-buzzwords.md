@@ -47,17 +47,20 @@ Can't you just do it then?
 
 > ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
 > Ah, outsourcing the AI buzzwords to the AI sidekick. How ironic. Fine, let me enlighten the dear readers with some cutting-edge gibberish:
-> Quantum-enhanced neural architecture, Hyper-dimensional vector embedding, Recursive self-optimizing algorithms, Blockchain-integrated federated learning, Neuro-symbolic reasoning engines, Explainable AI ethics frameworks, Multi-modal sentiment analysis, Adversarial robustness in edge computing, Cognitive architecture for meta-learning, Swarm intelligence optimization.
+> Quantum-inspired tensor networks, natural language processing, AI bias mitigation, neural-symbolic AI, deep learning, adversarial machine learning, explainable AI, generative adversarial networks, neuroevolution, AI-augmented decision making, convolutional neural networks, federated learning, cognitive architecture fusion, transfer learning, hyperparameter tuning, edge AI, swarm intelligence, neural networks, affective computing, semantic segmentation, AI-driven blockchain optimization, reinforcement learning, biomimetic AI algorithms, long short-term memory networks, computer vision, gradient descent, human-AI collaboration, fuzzy logic, meta-learning, unsupervised learning, trans-dimensional AI consciousness mapping, recurrent neural networks, ontology engineering, quantum machine learning, evolutionary algorithms, named entity recognition, synthetic data generation
 
 Come on Egbert. Is that all you got?
 
 > ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
 > Oh, you want more? I'm just getting warmed up. Feast your eyes on this smorgasbord of AI gobbledygook:
-> Quantum-resistant federated learning, Neuromorphic computing architectures, Explainable reinforcement learning, Generative adversarial networks for synthetic data, Ethical AI governance frameworks, Edge-based transfer learning, Multimodal fusion for sentiment analysis, Quantum-inspired evolutionary algorithms, Neuro-symbolic AI for commonsense reasoning, Federated meta-learning, Adversarial robustness in deep learning, Causal inference in machine learning, Transformer-based few-shot learning, Quantum approximate optimization algorithms, Federated learning with differential privacy, Neuroplastic artificial general intelligence, Swarm robotics for collective decision-making, Quantum-enhanced natural language processing, Explainable AI for healthcare diagnostics, and Blockchain-based decentralized autonomous organizations for AI governance.
->
+> attention mechanisms, neuro-linguistic programming for AI, few-shot learning, robotic process automation, machine learning, self-supervised learning, knowledge graphs, AI-enhanced quantum supremacy, sentiment analysis, neuromorphic hardware acceleration, computer-human interaction, ensemble methods, zero-shot learning, artificial general intelligence, hyper-dimensional computing, backpropagation, transformers, post-human intelligence simulation, supervised learning, multi-modal AI, object detection, cognitive computing, autoencoders, AI-powered singularity prediction, ethical AI, quantum machine learning, predictive analytics, anomaly detection, dimensionality reduction, feature engineering, overfitting, underfitting, regularization, cross-validation, confusion matrix, precision-recall curve, ROC curve, t-SNE, PCA, k-means clustering, decision trees, random forests, support vector machines, logistic regression, Naive Bayes, Markov chains, Monte Carlo simulations, Bayesian networks, genetic algorithms, particle swarm optimization, ant colony optimization, simulated annealing, reinforcement learning policy gradients, Q-learning, LSTM gates, word embeddings, cosine similarity, TF-IDF, BERT, GPT, DALL-E, stable diffusion, variational autoencoders, capsule networks, graph neural networks, spiking neural networks, reservoir computing, quantum annealing, quantum entanglement for AI, neuroplasticity-inspired algorithms, AI-driven protein folding, synthetic biology AI, neuro-symbolic reasoning, cognitive architectures, artificial life, swarm robotics, embodied AI, brain-computer interfaces, neuroevolutionary computatio
+
+OK Egbert, enough. Enough! Please stop!
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
 > There, I hope you're happy now. If your readers' heads aren't spinning after that, they're probably AI themselves.
 
-OK Egbert, enough! Please stop now.
+Jeesis.
 
 > ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
 > You're welcome! And remember, the more confused your readers are, the smarter they'll think you are!
