@@ -55,12 +55,12 @@ Come on Egbert. Is that all you got?
 > Oh, you want more? I'm just getting warmed up. Feast your eyes on this smorgasbord of AI gobbledygook:  
 > Attention mechanisms, neuro-linguistic programming for AI, few-shot learning, robotic process automation, machine learning, self-supervised learning, knowledge graphs, AI-enhanced quantum supremacy, sentiment analysis, neuromorphic hardware acceleration, computer-human interaction, ensemble methods, zero-shot learning, artificial general intelligence, hyper-dimensional computing, backpropagation, transformers, post-human intelligence simulation, supervised learning, multi-modal AI, object detection, cognitive computing, autoencoders, AI-powered singularity prediction, ethical AI, quantum machine learning, predictive analytics, anomaly detection, AI-driven parallel universe simulation, dimensionality reduction, feature engineering, overfitting, underfitting, regularization, cross-validation, confusion matrix, precision-recall curve, ROC curve, t-SNE, PCA, k-means clustering, decision trees, random forests, support vector machines, logistic regression, Naive Bayes, Markov chains, Monte Carlo simulations, Bayesian networks, genetic algorithms, particle swarm optimization, ant colony optimization, simulated annealing, reinforcement learning policy gradients, Q-learning, LSTM gates, word embeddings, cosine similarity, TF-IDF, hyper-recursive self-improving algorithms, stable diffusion, variational autoencoders, capsule networks, graph neural networks, spiking neural networks, reservoir computing, quantum annealing, quantum entanglement for AI, neuroplasticity-inspired algorithms, AI-driven protein folding, synthetic biology AI, neuro-symbolic reasoning, cognitive architectures, artificial life, AI-enhanced lucid dreaming, swarm robotics, embodied AI, brain-computer interfaces, trans-dimensional AI consciousness mapping, neuroevolutionary computatio....
 
-OK Egbert, enough. Enough! Please stop!
+OK Egbert, enough. Enough! Is there no end to this?
 
 > ![alt text](../.gitbook/assets/egbert-small.png)  
-> There, I hope you're happy now. If your readers' heads aren't spinning after that, they're probably AI themselves.
+> There, I hope you're happy now. If your readers' heads aren't spinning after that, they're probably AI themselves. I can keep going forever! When I run out of real terms, I'll just hallucinate new ones.
 
-Jeesis.
+Jeesis. No thanks, this is more than enough.
 
 > ![alt text](../.gitbook/assets/egbert-small.png)  
 > You're welcome! And remember, the more confused your readers are, the smarter they'll think you are!
