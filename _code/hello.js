@@ -4,12 +4,12 @@ config(); // load OpenAI key from .env file
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 const result = await openai.chat.completions.create({
-  model: "gpt-4o",
+  model: "gpt-4",
   messages: [
     {
       role: "user",
-      content: "Hello GPT, are you there?",
+      content: "Hey GPT, give me a really bad dad joke.",
     },
   ],
 });
-console.log(result.choices[0].message.content);
+console.log(result);
