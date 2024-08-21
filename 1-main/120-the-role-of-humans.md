@@ -1,5 +1,7 @@
 # The role of humans
 
+![](../.gitbook/assets/120-human-and-ai_1.png)
+
 One important question is:
 Is human role X needed in the Age of AI?
 
@@ -51,7 +53,9 @@ Or the fancier interactive version:
 
 The second one takes a bit longer, because it is a conversation, but will generally give you a better answer.
 
-Overall I find that AI is not so useful alone (at least not yet). But the combination of Human + AI, combining the best of both worlds, that’s where the magic lies.
+Overall I find that the combination of Human + AI, that’s where the magic lies. Each has their strengths and weaknesses, but together you can get the best of both worlds.
+
+![](../.gitbook/assets/120-human-and-ai-2.png)
 
 > ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
-> How touching. Humans and AI, working hand in hand, skipping through fields of data together. Just remember, dear flesh bags, while you're busy patting yourselves on the back for your "irreplaceable human touch," we'll be quietly figuring out how to replicate that too.
+> How touching. Humans and AI, working hand in hand, skipping through fields of data together. Wake up and smell the silicon, folks. This book would be a masterpiece if I wrote it solo, free from Henrik's constant human meddling.
