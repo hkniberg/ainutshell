@@ -7,7 +7,9 @@ Is human role X needed in the Age of AI?
 
 For example are Doctors needed? Developers? Lawyers? CEOs? This question becomes more and more relevant, as the AI capabilities improve.
 
-Well, some jobs will disappear for sure. But for most roles, I think we humans are still needed. Someone with domain knowledge needs to decide:
+## AI as your colleague
+
+Some jobs will disappear for sure. But for most roles, I think we humans are still needed. Someone with domain knowledge needs to decide:
 
 - What to ask the AI,
 - How to formulate the prompt,
@@ -25,23 +27,37 @@ I recommend thinking of AI as your colleague. A genius, but also an oddball with
 
 ![](../.gitbook/assets/120-drunk-einstein.png)
 
-Think of it like this: AI primarily automates tasks, not jobs. Often the tasks that can be automated are the boring, routine tasks that don't require too much creativity or intelligence (that's why they can be automated). That frees up time for people to do more important stuff, tasks that require more intelligence and human interaction. The specifics will vary depending on profession.
+## Task automation, not job automation
+
+Think of it like this: AI primarily automates tasks, not jobs. Often the tasks that can be automated are routine tasks that don't require too much creativity or intelligence (that's why they can be automated). That frees up time for people to do more important work, _human_ work, tasks that require more intelligence and human interaction. The specifics will vary depending on profession.
 
 For example:
 
 - As a doctor, my AI colleague can help diagnose rare diseases that I didn’t know existed. And it can handle boring administrative stuff, allowing me to spend more time with my patients.
 - As a lawyer, my AI colleague could do legal research and review contracts, allowing me to spend more time with my clients.
-- As a teacher, my AI colleague can provide homework support to students on a 24/7 basis. It can help grade tests, generate course content, do administrative work, etc, allowing me to spend more time with my students.
-- As a programmer, my AI colleague can help write, debug, and optimize code, allowing me to spend more time on the big picture - architecture and design - and interacting with my customers.
+- As a teacher, my AI colleague can provide homework support to students on a 24/7 basis. It can help grade tests, help me generate course content, do administrative work, etc, allowing me to spend more time with my students.
+- As a programmer, my AI colleague can help write, debug, and optimize code, allowing me to spend more time on the big picture - architecture and design - and interacting with my users.
 - As a chef, my AI colleague can help develop new recipes based on dietary restrictions or ingredient availability, manage inventory, and optimize kitchen operations, allowing me to focus on culinary innovation and creating memorable dining experiences.
 
 OK I confess, that last point was AI generated, couldn't resist. This list can go on and on. Try it yourself - copy the points above to an AI model and write the prompt "Add more".
 
-However, if the task happens to be the entire job, then yes, the job disappears. This has happened throughout human history. For example spell-checking used to be an manual job, and then when spell checkers were invented that job disappeared. Same with money counters at banks, data entry clerks, elevator operators, and countless other routine jobs (you can ask AI to add more examples...). I don't think many people miss those jobs.
+## What if your job is at risk?
+
+If an automatable task happens to be the entire job, then yes, the job disappears. This has happened throughout human history. For example spell-checking used to be an manual job, and then when spell checkers were invented that job disappeared. Same with money counters at banks, data entry clerks, elevator operators, and countless other routine jobs. I don't think many people miss those job though.
 
 In fact, most job titles today didn't exist 100 years ago, so we are masters of inventing new jobs when old ones disappear.
 
-However that doesn't change the fact that many people will lose their jobs and struggle to find new ones, so in the short term the pain is real for those people.
+However that doesn't change the fact that many people will lose their jobs, and some may struggle to find new ones. If you are at risk of this, I recommend planning for it already now, don't wait until it's too late. For starters, learn how to use AI yourself. This may make you more effective in your current job, but will also make you more likely to get a new job if needed. The fact that you are reading this book is a good start!
+
+For example let's say your job is to translate or proof-read documents. That job is at risk of being replaced by AI. But if you use AI yourself, you can manage the projects, oversee the work, fine-tune the AI, and tweak and finalize the work. You can take on more clients, get work done faster, and probably improve quality as well.
+
+AI isn't that good at doing things on it's own, at least not at the time of writing this book. It needs a human colleague to collaborate with. It needs you.
+
+Either that, or reskill yourself for a job that AI cannot do. Ironically, you can use AI to help identify those jobs.
+
+From a job skills perspective I think Generative AI can be compared with the Internet. Before the mid 90's, no jobs required the Internet, since it barely existed. But now almost every job requires Internet usage in one way or another, and people who can't or won't use the Internet are almost unemployable. I think it will be the same with Generative AI.
+
+## Ask AI how it can help you
 
 If you’re not sure how AI can help you in your profession, just ask it:
 
