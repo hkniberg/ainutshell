@@ -32,3 +32,4 @@
 - [The Metachapter (or Bookception)](4-extra/410-meta.md)
 - [The time I almost used AI to write a foreword](4-extra/420-almost-used-ai.md)
 - [Interlude: Egbert's life story](4-extra/430-egbert-interlude.md)
+- [Buzzwords](4-extra/450-buzzwords.md)
