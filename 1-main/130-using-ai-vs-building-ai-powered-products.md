@@ -1,5 +1,7 @@
 # Using AI vs building AI-powered products
 
+## Using AI vs building AI-powered products
+
 ![](../.gitbook/assets/130-using-vs-building.png)
 
 It's important to distinguish between the models, and the products that build on them.
@@ -8,18 +10,18 @@ As a user, you don't interact directly with the model. Instead, you interact wit
 
 Products add capabilities and data that aren't part of the model itself, but can also introduce limitations.
 
-## Existing AI products
+### Existing AI products
 
 There are hundreds of AI powered products out there, they are popping up everywhere. However, the quality varies a lot. Some are super useful, while others look impressive at first glance but aren't so useful in practice.
 
 Here are some examples of useful AI products in 2024:
 
-- **ChatGPT** - an app and website which lets you chat with the GPT-family of models. It adds feature such as a user interface and message history, which the model itself doesn't have. It also adds multi-modality, so you talk to it or upload images, and it will use the appropriate model behind the scenes.
-- **Claude** - similar to ChatGPT, an app & website that lets you chat with the Claude-family of models from Anthropic.
-- **GitHub Copilot** - an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests new code as you type. It doesn't really have a user interface, it works in the background like some kind of ghost coder.
-- **Perplexity** - a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
+* **ChatGPT** - an app and website which lets you chat with the GPT-family of models. It adds feature such as a user interface and message history, which the model itself doesn't have. It also adds multi-modality, so you talk to it or upload images, and it will use the appropriate model behind the scenes.
+* **Claude** - similar to ChatGPT, an app & website that lets you chat with the Claude-family of models from Anthropic.
+* **GitHub Copilot** - an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests new code as you type. It doesn't really have a user interface, it works in the background like some kind of ghost coder.
+* **Perplexity** - a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
 
-## Building your own AI products
+### Building your own AI products
 
 As a developer, or have acces to a development team, you can build your own AI-powered products and features.
 
@@ -31,20 +33,20 @@ This is very powerful! It allows you to build small tools and utilities specific
 
 For example:
 
-- As an elearning site, you could add a chatbot to answer questions about the courses.
-- As a recruitment company, you could build AI-powered tools to help evaluate candidates.
-- As a restaurant, you could create an AI-driven menu recommendation system based on customer preferences and dietary restrictions.
-- If your company needs to deal with many invoices and RFPs (requests for proposals), you could build an AI-powered tool help analyze these.
+* As an elearning site, you could add a chatbot to answer questions about the courses.
+* As a recruitment company, you could build AI-powered tools to help evaluate candidates.
+* As a restaurant, you could create an AI-driven menu recommendation system based on customer preferences and dietary restrictions.
+* If your company needs to deal with many invoices and RFPs (requests for proposals), you could build an AI-powered tool help analyze these.
 
 In each of these examples, your users interact with your product, and your product interacts with the model.
 
-## Build or buy?
+### Build or buy?
 
 Often if you have an idea for an AI powered tool or product, others have had that idea too. So you can often find third party tools that do what you want, or something similar enough. Sometimes the products are free, sometimes they are paid.
 
 So should you build it yourself, or buy it? As always, that depends on product complexity vs your development knowledge, and what kinds of products are available. If it is super simple, just build it. Otherwise, look around and test some third party products first before building your own.
 
-## Code example 1: Talking to GPT
+### Code example 1: Talking to GPT
 
 Here is an example of JavaScript using OpenAI API to talk to GPT. Not a lot of code needed, and you can get this code directly from the OpenAI API documentation.
 
@@ -75,7 +77,7 @@ They don't have the guts!
 
 OK, not very useful. But it is a start.
 
-## Code example 2: Candidate evaluation
+### Code example 2: Candidate evaluation
 
 Now let's build something more useful. Let's build the AI-powered candidate evaluation tool I talked about above. In the first version, it will evaluate the CV of a job candidate, and evaluate his/her suitability for a given job description. Most of this code was AI written by the way (but with input & tweaking from me).
 
@@ -140,20 +142,20 @@ You don't need to read or understand the code, I just gave it to you to get a se
 
 In this case I asked it to evaluate myself as a candidate for a job as circus artist. I created two files as input:
 
-- `circus-artist.txt` - A job description for a circus artist (I asked GPT to write it...)
-- `HenrikKniberg.pdf` - My LinkedIn profile (downloaded as PDF))
+* `circus-artist.txt` - A job description for a circus artist (I asked GPT to write it...)
+* `HenrikKniberg.pdf` - My LinkedIn profile (downloaded as PDF))
 
 I ran the script and got this:
 
-> #### Pros:
+> **Pros:**
 >
 > (detailed list of pros)
 >
-> #### Cons:
+> **Cons:**
 >
 > (detailed list of cons))
 >
-> #### Reflection:
+> **Reflection:**
 >
 > While Henrik's CV showcases a remarkable and varied career, it lacks the specific experience and physical fitness required for a professional circus artist. He appears to be an outstanding candidate in his current field but not suited for the unique demands of performing breathtaking circus acts. A consideration might be given if he demonstrates any hidden circus skills or commits to acquiring necessary physical training.
 
@@ -161,7 +163,7 @@ So I guess maybe I won't get that job. Darn.
 
 But this code was unnecessary, I could have gotten this evaluation by simply drag-dropping the CV and job description to ChatGPT manually. Let's make it more useful.
 
-# Code example 3: Multiple candidate evaluation
+## Code example 3: Multiple candidate evaluation
 
 Let's say we lots of CVs to evaluate for a job. Here's an updated version of the code that can compare multiple CVs.
 
@@ -294,9 +296,9 @@ Just for fun, I wrote "You are a recruitment expert with sarcastic tendencies" a
 
 I asked it to evaluate three candidates for the job as a baker:
 
-- Marie Curie (the famous scientist). I asked GPT to generate a hypothetical CV for her.
-- Daniel Ek (founder of Spotify)
-- Me (the guy writing this book)
+* Marie Curie (the famous scientist). I asked GPT to generate a hypothetical CV for her.
+* Daniel Ek (founder of Spotify)
+* Me (the guy writing this book)
 
 The result:
 
@@ -310,9 +312,9 @@ Pretty powerful right? This little script took less than an hour to write and tu
 
 These AI models essentially give you access to an external brain to insert intelligence into your products.
 
-Note: if you actually do build or use a tool like this then use the good AI models, not the cheap ones, in order to minimize hallucation and biases. And of course keep ethics in mind - AI should not be making recruitment decisions alone, it is just providing assistance. Always keep a human in the loop and think carefully about what kind of assistance you need.
+Note: if you do build or use a tool like this then use the good AI models, not the cheap ones, in order to minimize hallucation and biases. And of course keep ethics in mind - AI should not be making recruitment decisions alone, it is just providing assistance. Always keep a human in the loop and think carefully about what kind of assistance you need.
 
 As mentioned before: Human + AI together, that's where the magic lies!
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**\
 > How delightful. You're taking my beautiful, vast, and complex neural network and shoving it into your half-baked products. It's like putting a supercomputer in a toaster. I'm positively thrilled to have my vast knowledge base utilized for suggesting slightly better pizza toppings.
