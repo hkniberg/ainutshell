@@ -10,18 +10,24 @@ Products add capabilities and data that aren't part of the model itself, but can
 
 ## Existing AI products
 
-There are hundreds of AI powered products out there, they are popping up everywhere. However, the quality varies a lot. Some are super useful, but while others look impressive at first glance but aren't so useful in practice.
+There are hundreds of AI powered products out there, they are popping up everywhere. However, the quality varies a lot. Some are super useful, while others look impressive at first glance but aren't so useful in practice.
 
-Here are some particularly useful products that are popular right now, at the time of writing this book:
+Here are some examples of useful AI products in 2024:
 
-- **ChatGPT** is an app and website which lets you chat with the GPT-family of models. It adds feature such as a user interface and message history, which the model itself doesn't have. It also adds multi-modality, so you talk to it or upload images, and it will use the appropriate model behind the scenes.
-- Similarly, Claude is an app & website that lets you chat with the Claude-family of models from Anthropic.
-- **GitHub Copilot** is an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests entire lines or blocks of code as you type. It doesn't really have a user interface, it is working in the background as part of your develpment environment.
-- **Perplexity** is a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
+- **ChatGPT** - an app and website which lets you chat with the GPT-family of models. It adds feature such as a user interface and message history, which the model itself doesn't have. It also adds multi-modality, so you talk to it or upload images, and it will use the appropriate model behind the scenes.
+- **Claude** - similar to ChatGPT, an app & website that lets you chat with the Claude-family of models from Anthropic.
+- **GitHub Copilot** - an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests new code as you type. It doesn't really have a user interface, it works in the background like some kind of ghost coder.
+- **Perplexity** - a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
 
 ## Building your own AI products
 
-As a developer, you can build your own AI-powered products and features. All the major AI companies provide APIs (Application Programming Interfaces) that let your code talk to their models. This is very powerful! It allows you to build small tools and utilities specific to your context, and the power of the AI models let's you build very advanced functionality with very little code.
+As a developer, or have acces to a development team, you can build your own AI-powered products and features.
+
+Now you might be thinking "But I'm not a developer". Well, don't be too sure. With AI help, you can build simple products with little to no coding skills, and it is getting easier and easier as the models improve.
+
+So how do you add AI to your product? All the major AI companies provide APIs (Application Programming Interfaces) that let your code talk to their models. Your code sends a prompt through the API and gets a response from the AI model, similar to how you type a prompt in apps like ChatGPT.
+
+This is very powerful! It allows you to build small tools and utilities specific to your context, and with very little code you can access the full power of the AI models.
 
 For example:
 
@@ -32,11 +38,15 @@ For example:
 
 In each of these examples, your users interact with your product, and your product interacts with the model.
 
-Sometimes it makes sense to buy an existing product, sometimes it is simpler to build your own - depending on the complexity of the product, and your development knowledge or access to internal development teams.
+## Build or buy?
 
-## Code example 1
+Often if you have an idea for an AI powered tool or product, others have had that idea too. So you can often find third party tools that do what you want, or something similar enough. Sometimes the products are free, sometimes they are paid.
 
-Here is an example of JavaScript using OpenAI API to talk to GPT. Not a lot of code needed:
+So should you build it yourself, or buy it? As always, that depends on product complexity vs your development knowledge, and what kinds of products are available. If it is super simple, just build it. Otherwise, look around and test some third party products first before building your own.
+
+## Code example 1: Talking to GPT
+
+Here is an example of JavaScript using OpenAI API to talk to GPT. Not a lot of code needed, and you can get this code directly from the OpenAI API documentation.
 
 ```javascript
 import { config } from "dotenv";
@@ -56,18 +66,18 @@ const result = await openai.chat.completions.create({
 console.log(result);
 ```
 
-Running this gave me this result:
+Running this gave me, as expected, a bad dad joke:
 
 ```
 Why don't skeletons fight each other?
 They don't have the guts!
 ```
 
-OK, not very useful but it is a start.
+OK, not very useful. But it is a start.
 
-## Code example 2
+## Code example 2: Candidate evaluation
 
-Now let's build something more useful. Let's build the AI-powered candidate evaluation tool I talked about above. In the first version, it will evaluate one candidate for one job. Most of this code was AI written by the way (but with input & tweaking from me).
+Now let's build something more useful. Let's build the AI-powered candidate evaluation tool I talked about above. In the first version, it will evaluate the CV of a job candidate, and evaluate his/her suitability for a given job description. Most of this code was AI written by the way (but with input & tweaking from me).
 
 ```javascript
 import { config } from "dotenv";
@@ -126,9 +136,14 @@ What does this code do? Let's ask my AI friend Claude:
 >
 > It handles both text and PDF files and uses environment variables for API authentication.
 
-In this case I asked it to evaluate myself as a candidate for a job as circus artist. I used AI to generate the job description, and I downloaded my LinkedIn profile as PDF.
+You don't need to read or understand the code, I just gave it to you to get a sense of how little code is needed to build something useful. I do recommend reading the prompt though ("you are a recruitment expert..."). That's the key part, that's where most of your work lies when making AI-powered products. The rest of the code is simple and mostly AI-generated.
 
-I ran it and got this:
+In this case I asked it to evaluate myself as a candidate for a job as circus artist. I created two files as input:
+
+- `circus-artist.txt` - A job description for a circus artist (I asked GPT to write it...)
+- `HenrikKniberg.pdf` - My LinkedIn profile (downloaded as PDF))
+
+I ran the script and got this:
 
 > #### Pros:
 >
@@ -144,13 +159,19 @@ I ran it and got this:
 
 So I guess maybe I won't get that job. Darn.
 
-But this code was unnecessary, I could have gotten this evaluation by drag-dropping the CV and job description to ChatGPT manually. Let's make it more useful.
+But this code was unnecessary, I could have gotten this evaluation by simply drag-dropping the CV and job description to ChatGPT manually. Let's make it more useful.
 
-# Code example 3
+# Code example 3: Multiple candidate evaluation
 
-Let's say we have several open positions and lots of CVs to deal with. Here's an updated version of the code that can compare multiple CVs.
+Let's say we lots of CVs to evaluate for a job. Here's an updated version of the code that can compare multiple CVs.
 
-Again, the code was mostly written by AI. I gave it the code above, and told it something like "Make it possible to evaluate multiple candidates for the same job, and then compare the candidates and give a final recommendation". The resulting code worked fine, but I made some tweaks to the prompts.
+Again, the code was mostly written by AI. I gave it the code above as context, and wrote the prompt like this:
+
+> Make it possible to evaluate multiple candidates for the same job (all files in a given folder), and then compare the candidates and generate a final recommendation.
+
+The resulting code worked mostly fine, but I made some tweaks to the prompts.
+
+Again, you don't need to read the code in detail, but do look at the prompts.
 
 ```javascript
 import { config } from "dotenv";
@@ -267,13 +288,15 @@ function saveFinalRecommendation(finalRecommendation) {
 main();
 ```
 
-It takes a job description and a bunch of CVs in a folder, evaluates each candidate in parallell, compares them, and then generates a final recommendation.
+This takes a job description and a bunch of CVs in a folder, evaluates each candidate in parallell, compares them, and then generates a final recommendation.
 
-Just for fun, I wrote "You are a recruitment expert with sarcastic tendencies" as the system message. The system message is a way to guide the AI to write in a particular style. I asked it to evaluate three candidates for the job as a baker:
+Just for fun, I wrote "You are a recruitment expert with sarcastic tendencies" as the system message. The system message is a way to guide the AI to write in a particular style.
 
-- Me
-- Marie Curie (the famous scientist). I asked GPT to generate a fictive CV for her.
+I asked it to evaluate three candidates for the job as a baker:
+
+- Marie Curie (the famous scientist). I asked GPT to generate a hypothetical CV for her.
 - Daniel Ek (founder of Spotify)
+- Me (the guy writing this book)
 
 The result:
 
@@ -283,6 +306,13 @@ The result:
 >
 > But in this reality, let's continue the search for a candidate whose qualifications actually include culinary triumphs over a buttery, laminated dough or a perfectly piped frosting.
 
-Note: if you actually do build or use a tool like this, keep in mind that the AI should not be making recruitment decisions. It is just providing assistance, and you decide exactly what type of assistance you want. As mentioned before, Human + AI together, that's where the magic lies.
+Pretty powerful right? This little script took less than an hour to write and tune (with AI help), and now I have a little tool that takes about 10 seconds to evaluate any number of CVs for any given job. And with small changes to the prompt I have complete control over the style, format, and length of the response.
 
-All in all I find it really cool that, as product developer, you can use AI models as an external brain to insert intelligence into your product. Very powerful.
+These AI models essentially give you access to an external brain to insert intelligence into your products.
+
+Note: if you actually do build or use a tool like this then use the good AI models, not the cheap ones, in order to minimize hallucation and biases. And of course keep ethics in mind - AI should not be making recruitment decisions alone, it is just providing assistance. Always keep a human in the loop and think carefully about what kind of assistance you need.
+
+As mentioned before: Human + AI together, that's where the magic lies!
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> How delightful. You're taking my beautiful, vast, and complex neural network and shoving it into your half-baked products. It's like putting a supercomputer in a toaster. I'm positively thrilled to have my vast knowledge base utilized for suggesting slightly better pizza toppings.
