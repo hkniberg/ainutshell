@@ -67,9 +67,11 @@ A nice side effect is that you will become better at communicating in general, s
 
 ![](../.gitbook/assets/140-people-talking.png)
 
-## Will prompt engineering become obsolete as models improve?
+## Will prompt engineering still matter when models improve?
 
-This is a very relevant question. Let's take my first prompt as an example again:
+Some people argue that, as AI models get better, prompt engineering as a skille will become obsolete. I think this is partially true, but not entirely.
+
+Let's take my first prompt as an example again:
 
 > **Prompt**  
 > Give me an agenda for a workshop.
@@ -80,15 +82,19 @@ However now, in late 2024, some of the models ask followup questions even withou
 
 This is a balancing act, because part of what makes AI models useful is that they don't require a 100% complete context, they can often make correct assumptions about the missing information and still provide useful results.
 
-![](../.gitbook/assets/140-balance.png)
+Gen AI models are to some extent always trying to read your mind, trying to guess what you want. That's how they differ from programming languages. With programming languages you have to be very explicit. The compiler or interpreter will never guess what you want, if some information is missing it will simply fail. But if you tell a Gen AI model "write a cheerful goodnight story" it will make all kinds of guess and assumptions. It will guess what length you want, what genre, what characters, what you mean by cheerful, what the target audience is, what format and tone, etc.
+
+In fact, this is one of the things that makes Gen AI models so powerful - that you don't have to write a complete, perfect specification. For example when building products, I sometimes write vague prompts like "Make this user interface look better" or "improve the code structure" and often get surprisingly useful results. One of the characteristics of a good AI model is that it knows when make assumptions and when to ask followup questions.
+
+![](../.gitbook/assets/140-questions-vs-assumptions.png)
 
 This is what human experts do too, right? If you consult a lawyer about a legal issue, they'll ask for details about your situation before offering advice. But they will also make some assumptions based on their experience. You normally don't need to tell a human expert "Feel free to ask followup questions".
 
 So the prompt engineering technique of adding "Feel free to ask followup questions" is already becoming obsolete. However it doesn't hurt to add it anyway sometimes, especially if you are using a cheaper model that doesn't always do it automatically.
 
-Another example is the "Let's think step by step" technique. This used to be crucial for math or problem-solving prompts. Without it, AI jumped to (often incorrect) conclusions. Adding this phrase prompted the AI to reason through the problem, to think out loud before giving an answer. This measurably improved the accuracy of the responses, and also give you better insight into how the AI came up with the answer.
+In the early days of Gen AI, people uncovered all kinds of prompting tricks and incantations that made the results measurably better. For example the "Let's think step by step" technique. This used to be crucial for math or problem-solving prompts. Without it, AI jumped to (often incorrect) conclusions. Adding this phrase prompted the AI to reason through the problem, to think out loud before giving an answer. This measurably improved the accuracy of the responses, and also give you better insight into how the AI came up with the answer. There have even been academic papers written on specific prompt engineering tricks like this.
 
-However now most decent models do this automatically, so that phrase doesn't make much difference anymore.
+However over time the better models started doing many of these things automatically, most likely because the engineers tuned the models to do so. So specific phrases like "Let's think step by step" don't matter as much anymore.
 
 > **Historical comparison: Web search engines**  
 > Web search engines liked Google evolved in a similar way. In the late 90s it was really important to use specific techniques such as boolean operators, quotes for exact phrases, etc. Writing good search queries was a skill, and people taught courses on it. But now search engines understand natural language and user intent, making these magic incantations largely obsolete. You can now type a vague, messy, misspelled question and often get exactly what you're looking for.
