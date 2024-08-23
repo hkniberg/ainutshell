@@ -2,7 +2,7 @@
 
 OK let's dive into some specific prompt engineering techniques. I'm going to assume you've already read the [Prompt Engineering chapter](../1-main/140-prompt-engineering.md) and want more details.
 
-I could write a whole book about prompt engineering techniques, but here I've just selected the most important techniques, things that I think will stay important even as the models improve and don't need as much babysitting.
+I could probably write another whole book about prompt engineering techniques, but here I've just selected the most important techniques, things that I think will stay important even as the models improve and don't need as much babysitting.
 
 ## Technique: Iterating
 
