@@ -43,7 +43,7 @@ Here's another approach.
 
 Instead of giving it a bunch of context upfront, I asked it to interview me to get the context it needs, and then propose a workshop agenda after. So the AI will drive the conversation instead of me.
 
-This will sometimes give even better results, but can take a bit longer. Try it next time!
+This will sometimes give even better results, but can take a bit longer.
 
 I often combine these techniques. I provide a clear question, add a bit of context, and then tell it to ask me if it needs any more info.
 
@@ -69,7 +69,7 @@ A nice side effect is that you will become better at communicating in general, s
 
 ## Will prompt engineering still matter when models improve?
 
-Some people argue that, as AI models get better, prompt engineering as a skille will become obsolete. I think this is partially true, but not entirely.
+Some people argue that, as AI models get better, prompt engineering as a skill will become obsolete. I think this is partially true, but not entirely.
 
 Let's take my first prompt as an example again:
 
@@ -82,7 +82,7 @@ However now, in late 2024, some of the models ask followup questions even withou
 
 This is a balancing act, because part of what makes AI models useful is that they don't require a 100% complete context, they can often make correct assumptions about the missing information and still provide useful results.
 
-Gen AI models are to some extent always trying to read your mind, trying to guess what you want. That's how they differ from programming languages. With programming languages you have to be very explicit. The compiler or interpreter will never guess what you want, if some information is missing it will simply fail. But if you tell a Gen AI model "write a cheerful goodnight story" it will make all kinds of guess and assumptions. It will guess what length you want, what genre, what characters, what you mean by cheerful, what the target audience is, what format and tone, etc.
+Gen AI models are to some extent always trying to read your mind, trying to guess what you want. That's how they differ from programming languages. With programming languages you have to be very explicit. The compiler or interpreter will never guess what you want, if some information is missing it will simply fail. But if you tell a Gen AI model "write a cheerful goodnight story" it will make all kinds of guesses and assumptions. It will guess what length you want, what genre, what characters, what you mean by cheerful, what the target audience is, what format and tone, etc.
 
 In fact, this is one of the things that makes Gen AI models so powerful - that you don't have to write a complete, perfect specification. For example when building products, I sometimes write vague prompts like "Make this user interface look better" or "improve the code structure" and often get surprisingly useful results. One of the characteristics of a good AI model is that it knows when make assumptions and when to ask followup questions.
 
@@ -106,6 +106,6 @@ My take:
 - **High level prompting techniques stay important.** Things like providing a clear goal and context, iterating on the results, applying critical thinking, asking the model to take on a a specific role, etc. This gives the AI model a better understanding of what you want, and will improve the results almost no matter how smart the model is.
 - **Low level prompting techniques become less important** Specific phrases and tricks like "Think step by step", or "Ask followup questions". The trend is that these kinds of things get built into the models, making them less and less important.
 
-So when you find prompt engineering guides and templates and checklists online. some of what you read will be obsolete, especially the low level techniques. But it doesn't hurt to try them out and compare the results. For example try adding "Let's think step by step" to your next prompt, and see if it makes any difference.
+So when you find prompt engineering guides and templates and checklists online, some of what you read will be obsolete, especially the low level techniques. But it doesn't hurt to try them out and compare the results. For example try adding "Let's think step by step" to your next prompt, and see if it makes any difference.
 
 Adding these kinds of phrases _might_ give you better results, and will probably not give you worse results, so when in doubt you can just add them anyway.
