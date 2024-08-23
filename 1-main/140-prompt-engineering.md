@@ -106,6 +106,6 @@ My take:
 - **High level prompting techniques will stay important.** Things like providing a clear goal and context, iterating on the results, applying critical thinking, asking the model to take on a a specific role, etc. This gives the AI model a better understanding of what you want, and will improve the results almost no matter how smart the model is.
 - **Low level prompting techniques will become less important** Specific phrases and tricks like "Think step by step", or "Ask followup questions". These kinds of things will probably keep getting built into the models, making them less and less important for you to write manually.
 
-So when you find prompt engineering guides and templates and checklists online, some of what you read will be obsolete, especially the low level techniques. But it doesn't hurt to try them out and compare the results. For example try adding "Let's think step by step" to your next prompt, and see if it makes any difference.
+So when you find prompt engineering guides and templates and checklists online, some of what you read will be obsolete, especially the very specific phrases and low level techniques. But it doesn't hurt to try them out and compare the results. For example try adding "Let's think step by step" to your next prompt, and see if it makes any difference.
 
 Adding these kinds of phrases _might_ give you better results, and will probably not give you worse results, so when in doubt you can just add them anyway.
