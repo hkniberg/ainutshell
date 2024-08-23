@@ -18,7 +18,7 @@ I modeled Jimbo after some cheerful, cool Australian guy who doesn't take himsel
 - A drunk pirate arguing with an uptight victorian lady
 - A zombie and a vampire discussing the meaning of life
 
-He tracks his ideas and ongoing video projects on a Trello board (a digital collaboratino board). Each card on the board represents one video idea, and it flows from left to right across the board as the video is created.
+He tracks his ideas and ongoing video projects on a Trello board (a digital collaboration board). Each card on the board represents one video idea, and it flows from left to right across the board as the video is created.
 
 ![](../.gitbook/assets/470-trello.png)
 
@@ -41,13 +41,13 @@ For example, here I pulled a card into the "Scenario approved" column, and Jimbo
 
 ![](../.gitbook/assets/470-trello-2.png)
 
-A blueprint is essentially a synopsis and pitch for the video. A short text that includes the characters, the setting, the main idea of the conversation, the target audience, and the purpose of the video (education, humor, inspiration, etc). Here is an example:
+A blueprint is essentially a synopsis and pitch for the video. A short text that includes the characters, the setting, the main idea of the conversation, the target audience, and the purpose of the video (education, humor, inspiration, etc). Jimbo creates the blueprint and writes it on the card. Here is an example:
 
 ![](../.gitbook/assets/470-blueprint.png)
 
 I can give feedback by writing a comment on the card, and then Jimbo will update the script accordingly. For example I might ask him to make it funnier, or shorter, or more educational, etc.
 
-I can also ask Jimbo to review the idea himself, which is kind of interesting. For example here is his self-review of the blueprint above:
+I can also ask Jimbo to review the idea himself, which is kind of interesting. I wrote about self-reflection prompts in [Prompt Engineering Techniques](460-prompt-engineering-techniques.md). For example here is his self-review of the blueprint above:
 
 ![](../.gitbook/assets/470-review.png)
 
