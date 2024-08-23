@@ -2,7 +2,10 @@
 
 In order to use Generative AI effectively, you need to get good at Prompt Engineering.
 
-Prompt Engineering is the art of crafting effective prompts that produce useful results from an AI model. I think Prompt Design would be a better term, but Prompt Engineering seems to have stuck so we'll go with that.
+> **Prompt Engineering**  
+> The art of crafting effective prompts that produce useful results from a Generative AI model.
+
+I prefer the term Prompt Design, but Prompt Engineering seems to have stuck so we'll go with that.
 
 This skill is crucially important, whether you are using an AI product like ChatGPT or building your own AI product.
 
