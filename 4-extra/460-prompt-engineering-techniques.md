@@ -78,7 +78,7 @@ This is an interesting variant of the "Add new prompt" technique. You basically 
 
 For example I tried this prompt:
 
-> **Prompt **  
+> **Prompt**  
 > How many ping-pong balls would fit in the Sydney Opera house?
 
 In response I got a detailed analysis that can be summarized like this:
@@ -89,7 +89,7 @@ In response I got a detailed analysis that can be summarized like this:
 
 Then I added a self-reflection prompt, asking it to evaluate its own result:
 
-> **Self-reflection prompt**
+> **Self-reflection prompt**  
 > Evaluate your result
 
 It started questioning its own assumptions, and realized that you can't pack balls perfectly. So it added:
