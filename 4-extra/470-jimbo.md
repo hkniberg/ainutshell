@@ -51,9 +51,9 @@ I can also ask Jimbo to review the idea himself, which is kind of interesting. I
 
 ![](../.gitbook/assets/470-review.png)
 
-But all this reviewing stuff is optional. As I mentioned, Jimbo will go ahead and make a daily video with or without my input.
+But all this reviewing stuff is optional. As I mentioned, Jimbo will go ahead and upload a daily video with or without my input.
 
-The final product? A published youtube video wuth a few minutes of fun conversation between the two characters, shown as two talking heads bobbing up and down over a background picture. Here is an example of Mozart discussing music production with a modern-day DJ 🙂.
+The final product? A daily youtube video with a few minutes of fun conversation between the two characters, shown as two talking heads bobbing up and down over a background picture. Here is an example of Mozart discussing music production with a modern-day DJ 🙂.
 
 ![](../.gitbook/assets/470-video.png)
 
