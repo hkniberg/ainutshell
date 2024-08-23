@@ -1,6 +1,9 @@
 # Wrapup
 
-OK let’s wrap it up. Here are the key things I hope you will remember.
+Congrats, you've gotten through the most important part of this book!
+You now have an overview of what Generative AI is, and you've gotten a bunch of concrete tips for how to survive and thrive in the Age of AI!
+
+Here are the key things I hope you will remember.
 
 - Generative AI a super useful tool that can help both you, your team, and your company in a big way.
 - The better you understand it, the more likely it is to be an opportunity rather than a threat.
@@ -9,4 +12,4 @@ OK let’s wrap it up. Here are the key things I hope you will remember.
 
 So my best tip is, experiment. Make this part of your day-to-day life, and the learning happens automatically.
 
-Hope this video was helpful, thanks for watching.
+In the rest of this book we'll dive into some more advanced topics, concrete tips and examples, and some silliness. Some may be relevan to you, some not, so I suggest you browse the chapter names and pick and choose what you want to read.
