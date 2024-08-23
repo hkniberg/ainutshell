@@ -1,8 +1,10 @@
 # Jimbo: My First AI Agent
 
+![](../.gitbook/assets/470-jimbo.png)
+
 Let me tell you about Jimbo, my first AI agent. He runs a youtube channel that generates conversations between AI-powered characters.
 
-Here's the channel if you are curious: https://www.youtube.com/@ai-conversations. Can't promise it will still be active by the time you read this though.
+Here's the channel if you are curious: [https://www.youtube.com/@ai-conversations](https://www.youtube.com/@ai-conversations). Can't promise it will still be active by the time you read this though.
 
 Jimbo was a bit of an experiment (like most things I do). I wanted to see how far we could go with letting an AI agent run the whole process from end to end. Very far it turns out!
 
