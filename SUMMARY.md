@@ -30,3 +30,4 @@
 - [Interlude: Egbert's life story](4-extra/430-egbert-interlude.md)
 - [Buzzwords](4-extra/450-buzzwords.md)
 - [Prompt Engineering Techniques](4-extra/460-prompt-engineering-techniques.md)
+- [The story of Jimbo, the AI youtuber](4-extra/470-jimbo.md)
