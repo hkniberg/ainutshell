@@ -46,7 +46,7 @@ Let's say I'm using AI to help plan a team offsite. Here's my abbreviated chat h
 - Prompt 3: OK, tell me more about... (skydiving questions)
 - Response 3: (.... bla bla bla)
 
-Let's say it suggests skydiving for my company offsite. I ask some followup questions about that, and then I conclude that we definitely don't want to do skydiving. I want to discuss other possible activities, and the skydiving discussion history isn't relevant anymore.
+Let's say it suggests skydiving for my team offsite. I ask some followup questions about that, and then I conclude that we definitely don't want to do skydiving. I want to discuss other possible activities, and the skydiving discussion history isn't relevant anymore.
 
 In this case it is better to go back up and edit Prompt 2, essentially cleaning up and revising the chat history.
 
@@ -59,7 +59,7 @@ If we continue the conversation from there, the AI model now has a clean convers
 
 Continuing on this example: Let's say the AI gave us some useful info about escape rooms, and now I have followup questions. In that case it is better to add a followup prompt, since the previous response is still relevant, and we want to build on it.
 
-- Prompt 1: I'm planning a company offsite, and I want to do some cool original activity. Any suggestions? Give me a short list.
+- Prompt 1: I'm planning a team offsite, and I want to do some cool original activity. Any suggestions? Give me a short list.
 - Response 1: Escape Room, Rafting, VR team quest, Parkour workshop, Skydiving (.... and imagine more ideas here...)
 - Prompt 2: How about Escape room?
 - Response 2: (.... Ai responds with lots of info about escape rooms)
