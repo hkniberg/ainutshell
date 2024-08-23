@@ -28,6 +28,7 @@
 - [Sounding board](2-use-cases/220-sounding-board.md)
 - [AI Doctor](2-use-cases/230-doctor.md)
 - [Book editor](2-use-cases/240-editor.md)
+- [Other use cases](2-use-cases/290-other-use-cases.md)
 
 ## Extra material
 
@@ -38,3 +39,4 @@
 - [Buzzwords](4-extra/450-buzzwords.md)
 - [Prompt Engineering Techniques](4-extra/460-prompt-engineering-techniques.md)
 - [The story of Jimbo, the AI youtuber](4-extra/470-jimbo.md)
+- [Energy usage](4-extra/490-energy-usage.md)
