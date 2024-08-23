@@ -13,14 +13,14 @@ Quoting the paper (highlights are mine):
 
 > GPT-4 ranked higher than the majority of physicians in psychiatry, with a median percentile of 74.7% (95% confidence interval [CI] for the percentile, 66.2 to 81.0), and it performed similarly to the median physician in general surgery and internal medicine, displaying median percentiles of 44.4% (95% CI, 38.9 to 55.5) and 56.6% (95% CI, 44.0 to 65.7), respectively. GPT-4 performance was lower in pediatrics and OB/GYN but remained **higher than a considerable fraction of practicing physicians**, with a median score of 17.4% (95% CI, 9.55 to 30.9) and a median score of 23.44% (95% CI, 14.84 to 44.5), respectively. GPT-3.5 did not pass the examination in any discipline and was inferior to the majority of physicians in the five disciplines. Overall, **GPT-4 passed the board residency examination in four of five specialties, revealing a median score higher than the official passing score of 65%.**
 
-I have a personal story to share here. In early 2024 I did a health checkup and got a scary result: something was badly wrong with my kidneys. I went through a series of tests over the next few months, and the results confirmed the problema but also showed another problem: high blood pressure (hypertension), which was likely related. I met several kidney experts along the way, who looked at the data and tried to diagnose the problem. During this process, I gathered all the raw data from the lab tests, and dumped it all into Claude 3.5 Sonnet, unfiltered. Then I wrote this prompt:
+I have a personal story to share here. In early 2024 I did a health checkup and got a scary result: something was badly wrong with my kidneys. I went through a series of tests over the next few months, and the results confirmed the problem but also showed another problem: high blood pressure (hypertension), which was likely related. I met several kidney experts along the way, who looked at the data and tried to diagnose the problem. During this process, I gathered all the raw data from the lab tests, and dumped it all into Claude 3.5 Sonnet, unfiltered. Then I wrote this prompt:
 
 > **Prompt**  
 > Evaluate this medical data, explain what's wrong with me, and explain what I should do about it.
 
 This was pretty simple prompt, but I included A LOT of context, dozens of pages of lab data.
 
-The response was a very detailed analaysis and diagnosis, and concrete advice. And to my surprise it matched exactly what the kidney experts said! This was a jaw dropping moment for me.
+The response was a very detailed analysis and diagnosis, and concrete advice. And to my surprise it matched exactly what the kidney experts said! This was a jaw-dropping moment for me.
 
 The model had "proven" that it knew what it was talking about, so I felt comfortable asking it a lot of followup questions. My access to the kidney experts was limited, but the AI model had infinite time and patience to talk to me, so I could ask it all the stupid questions I wanted. I double-checked some answers via Google, but never saw any sign of hallucination. Hallucination tends to happen when you use a cheap model and don't provide enough context. In this case I used a good model and provided a ton of context.
 
