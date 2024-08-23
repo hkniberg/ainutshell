@@ -55,6 +55,15 @@ I keep seeing this. Whenever I get a bad or mediocre result from an AI, it almos
 
 I've experienced situations where I'm sitting next to a friend or colleague, both of us working on similar things and using AI assistance, and they keep getting mediocre results while I keep getting really good results. At first glance you'd think that I was using a better model, but in fact I was just more experienced with prompt engineering, and better at giving the AI model the info it needs to do a good job. Like most things, it's a skill you build up with practice.
 
+When I was getting started with using generative AI, I made a lot of incorrect assumptions about the limitation of the technology. For example, I noticed that AI models often jump to conclusions if I don't provide enough context. I thought that was in inherent limitation of the technology. But then one day I tried a prompt like this:
+
+> **Prompt**  
+> I have problem with my team. I want you to take on the role of a master coach. Interview me about my problem, one question at a time. Keep asking questions until you start understanding the root cause. Then give me several suggestions, with pros and cons, and recommendation for where to start.
+
+I was amazed by the result. First it asked me a bunch of questions all at once, which was a bit overwhelming, so I added "One question at a time" to the prompt. After that it drove the conversation, interviewed me, and then came up with very useful suggestions, with pros and cons of each, and a recommendation for where to start. Just like a I asked.
+
+So all that time I thought the models were incapable of asking questions or driving a conversation. I thought they were hard-wired to answer questions immediately without asking for more info. But it turned out that that was just the _default behavior_ of the model. And the default behavior could easily be changed by, well, simply asking it!
+
 ## How to learn Prompt Engineering
 
 There are plenty of courses, books, videos, and articles to help you learn this.

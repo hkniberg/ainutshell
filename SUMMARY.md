@@ -22,6 +22,13 @@
 - [Autonomous agents with tools](1-main/150-autonomous-agents-with-tools.md)
 - [Wrapup](1-main/160-wrapup.md)
 
+## Use cases
+
+- [Coding](2-use-cases/210-coding.md)
+- [Sounding board](2-use-cases/220-sounding-board.md)
+- [AI Doctor](2-use-cases/230-doctor.md)
+- [Book editor](2-use-cases/240-editor.md)
+
 ## Extra material
 
 - [How I got into AI](4-extra/440-how-i-got-into-ai.md)

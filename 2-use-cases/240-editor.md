@@ -1,0 +1,10 @@
+# Use case: Book editor
+
+For this book, I've been using this in primarily three ways:
+
+- **Topic brainstorm** I have a dedicated thread in ChatGPT for brainstorm topics. Whenever I have an idea for something to include the book, I say it to the phone, ChatGPT adds it to the thread and says "OK". Then once in a while I say "Summarize the topic ideas so far", and it creates nice bullet list, organized into sections. Sometimes I ask for feedback and what to include in the book and what to skip.
+- **Chapter content** When I'm about to write a chapter, I take a walk and dump my thoughts into the ChatGPT app. Sometimes it is just random ramblings, while other times I know what I'm going to say so it's more like I'm giving lecture. Then when I get back home I grab the transcription and copy it to Claude 3.5 Sonnet (Anthropic's generative AI model, slightly smarter than GPT 4 at the moment, but lacks the voice transcription feature). I ask it to clean up the text and give me a complete draft of the chapter. It puts the text together into a coherent whole, using my words and phrases and writing style, like a professional editor would do. Then I do a ton of tweaking until I'm happy with the result.
+- **Feedback**. When a chapter is done, I ask Claude to read it and give feedback, and suggest improvements. It also fixes grammar and spelling mistakes.
+- **Some content generation**. I've been careful with this because I want this to be a human-written book, not AI generated (we will drown in AI generated books soon enough). But you've probably noticed some comments from my AI sidekick Egbert. I used AI to generate those of course! And I also used AI to generate a list of more use cases at the end of this chapter. I make a special point of labeling AI-generated content, so people don't feel deceived.
+
+Despite all this AI help, I feel like it is still my writing, not AI's writing. Like a good editor, the AI model is just helping me bring it all together, without taking away from my voice.

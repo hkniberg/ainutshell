@@ -103,6 +103,30 @@ Here is a funny example of when GPT-4 did a self-reflection without me asking fo
 
 ![](../.gitbook/assets/460-self-reflection.png)
 
+## Elements of a good prompt
+
+Let's break down what makes a good prompt.
+
+You usually don't need all of these elements, I'd say the first three are the most important. But the other elements are good to keep in mind, especially if you aren't getting the results you want.
+
+1. **Task**: What do you want the AI to do? Be specific. "Make a plan for..." or "Explain..." or "Write a song about..." are good starts.
+
+2. **Goal/motive**: Why are you asking this? Maybe you want to succeed in a project, or become a better person, or reduce stress. The better the AI understands your underlying goal, the better it can help you.
+
+3. **Background/context**: What does the AI need to know to give you a useful response? Things like "I am unemployed", or "I am leading a team of 6 people", or "here is the relevant code...", or "here is the conversation history with my boss...". Context is king!
+
+4. **Role**: What persona should the AI assume? A master chef? A personal assistant? A data scientist? This can dramatically change the flavor of the response. For example if you start with "You are a master chef" you will be more likely to get interesting and useful results when talking about cooking and recipes.
+
+5. **Communication style/target audience**: How should the AI communicate? Maybe you need an explanation for a 5-year-old, or you want something precise, or perhaps sarcastic and funny. Maybe you want to be interviewed. Maybe you want a rap song.
+
+6. **Format**: How do you want the response formatted? Normally you get plain text or markdown, but maybe you want a JSON doc, a table, or Python code, or an Excel doc.
+
+7. **Examples**: Examples are a great way to communicate what you are expecting. You can skip many of the other elements above if you instead include a clear example or two. Let's say you just had a brainstorm with your team. You can pass in the list of ideas you've identified so far (or just a photo of the sticky notes on the wall) and write a very short prompt with bit of context and then the instruction "Generate more ideas".
+
+Just don't get caught up on trying to write the perfect prompt. It's often better to start simple and then iterate.
+
+Crafting good prompts is somewhat of an art. It's like learning to communicate with a brilliant but quirky colleague. The more you practice, the better you'll get at acccessing those AI superpowers!
+
 ## Mind the context window
 
 The context window is the maximum amount of text that a model can accept as input. More expensive models have a larger context window. For example, at the time of writing GPT-4o has a context window of 128,000 tokens, which equates to about 90,000 words, which is about the size of a typical novel. May sound like a lot, but it can still run out!
