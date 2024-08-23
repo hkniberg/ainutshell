@@ -94,7 +94,7 @@ Then I added a self-reflection prompt, asking it to evaluate its own result:
 
 It started questioning its own assumptions, and realized that you can't pack balls perfectly. So it added:
 
-- The estimated packing efficiency of the balls is about 60-70%)
+- The estimated packing efficiency of the balls is about 60-70%
 - Taking this into account, the revised estimate was about 26 billion balls.
 
 Sometimes a good model will do this automatically, sometimes not. So when in doubt, you can always tack on a self-evaluation prompt to see what happens.
@@ -107,7 +107,7 @@ Here is a funny example of when GPT-4 did a self-reflection without me asking fo
 
 The context window is the maximum amount of text that a model can accept as input. More expensive models have a larger context window. For example, at the time of writing GPT-4o has a context window of 128,000 tokens, which equates to about 90,000 words, which is about the size of a typical novel. May sound like a lot, but it can still run out!
 
-Context is very important to keep in mind when working with AI. If you are writing code against an API, you will get an error message if you send more text than the model can handle. However, if you are using an app like Claude or ChatGPT, something more subtle happens when you exceed the context window.
+Context is very important to keep in mind when working with AI. If you are writing code against an API, you will get an error message if you send more text than the model can handle. However, if you are using an app like Claude or ChatGPT, something more subtle happens when the chat history gets long.
 
 When using an AI chat app, you build up a conversation history. Every time you write a prompt, the app will send the full chat history plus your new prompt to the model. That's how the model knows what you've been talking about so far.
 
@@ -121,8 +121,8 @@ But what if your chat history gets so long that it can't fit in the context wind
 
 Something needs to give! The app will do something funky to get around the problem, and it will often be sneaky about it. Exactly what will depend on which app you are using, but some common approaches are:
 
-- **Truncation** - the older messages are simply ignored. That means it will completely forget about them.
-- **Summarization** - the app summarizes older messages in the background. That means it will remember roughly what you were talking about, but lose some details.
+- **Truncation** - the older messages are simply ignored. That means it will completely forget about them. This is pretty bad.
+- **Summarization** - the app summarizes older messages in the background. That means it will remember roughly what you were talking about, but lose some details. This works a bit better.
 
 ![](../.gitbook/assets/460-truncation-summarization.png)
 
