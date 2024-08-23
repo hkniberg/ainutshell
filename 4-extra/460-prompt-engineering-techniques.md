@@ -175,6 +175,6 @@ By default I tend to use the best model available. For shorter dialogs I find th
 >
 > The system had a pre-processing step where we "clean" each email. That is, remove unnecessary information such as formatting, links, images, and other things that aren't needed for AI processing.
 >
-> I tried shifiting that part to GPT-3.5-turbo, a much cheaper model (but less intelligent). It did that job just fine, I compared side-by-side with GPT-4 and there was basically no difference. So cleaning up an email text was a job sufficiently simple that the cheaper model could do it just as well, for a fraction of the cost.
+> I tried shifting that part to GPT-3.5-turbo, a much cheaper model (but less intelligent). It did that job just fine, I compared side-by-side with GPT-4 and there was basically no difference. So cleaning up an email text was a job sufficiently simple that the cheaper model could do it just as well, for a fraction of the cost.
 
 A nice side effect of good prompt engineering skills is that you can get a cheap AI model to behave like an expensive one. So using a cheaper model might not always mean lower quality results, it might just mean spending some more time on the prompt.
