@@ -2,24 +2,24 @@
 
 In order to use Generative AI effectively, you need to get good at Prompt Engineering.
 
-Prompt Engineering is art of crafting effective prompts that produce useful results from an AI model. I think Prompt Design would be a better term, but Prompt Engineering seems to have stuck so we'll go with that.
+Prompt Engineering is the art of crafting effective prompts that produce useful results from an AI model. I think Prompt Design would be a better term, but Prompt Engineering seems to have stuck so we'll go with that.
 
 This skill is crucially important, whether you are using an AI product like ChatGPT or building your own AI product.
 
 # Example - from bad to good prompt
 
-Here’s an example. Let’s say I want help planning a workshop.
+Here's an example. Let's say I want help planning a workshop.
 
 > **Prompt 1**  
 > Give me an agenda for a workshop
 
-This prompt is unlikely to give useful results. No matter how smart the AI is, if it doesn’t know the context of my workshop, it can only give vague, high level recommendations.
+This prompt is unlikely to give useful results. No matter how smart the AI is, if it doesn't know the context of my workshop, it can only give vague, high level recommendations.
 
 Let's improve it.
 
 > **Prompt 2**  
 > Give me an agenda for a workshop.  
-> I'm meeting a leadership team at an aurospace consulting firm. The goal of the workshop is figure out how they can use AI. They are new to this. We have 8 people for 4 hours.
+> I'm meeting a leadership team at an aerospace consulting firm. The goal of the workshop is to figure out how they can use AI. They are new to this. We have 8 people for 4 hours.
 
 This second prompt is better. Now I provided a context. This is normally done iteratively. Write a prompt, look at the result, add a followup prompt to provide more information, or edit the original prompt. Rinse and repeat until you get a good result.
 
@@ -39,7 +39,7 @@ I often combine these techniques. I provide a bit of context, and then tell it t
 
 The biggest limitation is not the AI model, but the quality of your prompts - and hence your prompt engineering skill. I keep seeing this. Whenever I get a bad or mediocre result from an AI, it almost always turns out to be because of a badly phrased prompt, or lack of context. When I fix the prompt, the results improve dramatically.
 
-I've experienced situations where I'm sitting next a colleague, both of us are working on similar things and using AI assistance, and he keeps getting mediocre results while I keep getting really good results. At first glance you'd think that I was using a better model, but in fact I was just more experienced with prompt engineering, and better at providing a clear prompt with the right context.
+I've experienced situations where I'm sitting next to a colleague, both of us are working on similar things and using AI assistance, and he keeps getting mediocre results while I keep getting really good results. At first glance you'd think that I was using a better model, but in fact I was just more experienced with prompt engineering, and better at providing a clear prompt with the right context.
 
 ## How to learn Prompt Engineering
 
