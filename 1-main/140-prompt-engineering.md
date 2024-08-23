@@ -16,7 +16,7 @@ Here's an example of some basic prompt engineering techniques. Let's say you wan
 > **Prompt 1**  
 > Give me an agenda for a workshop
 
-No matter how smart the AI model is, if it doesn't know the context of your workshop, it will be hard to produce a useful result. It will often give you one of the following:
+This is a pretty bad prompt. No matter how smart the AI model is, if it doesn't know the context of your workshop, it will be hard to produce a useful result. A prompt like this will often give you one of the following:
 
 - **A vague, generic high level agenda** that is unlikely to be useful in practice. Maybe if you've never done a workshop before it could serve as a high level template for workshops in general, but that's about it.
 - **A detailed, specific agenda for a made-up workshop context**, with timestamps and concrete agenda items. This can be quite amusing, but also pretty useless since it is has nothing to do with your actual context.
