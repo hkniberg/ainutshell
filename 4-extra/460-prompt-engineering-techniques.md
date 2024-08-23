@@ -203,3 +203,5 @@ Some aspects of Prompt Engineering are important regardless of how good the mode
 While some specific techniques and tricks become less important.
 
 In fact, with good prompt engineering skills you can get a cheap AI model behave like an expensive one.
+
+Use cheaper models sometimes. Example: email cleaner.
