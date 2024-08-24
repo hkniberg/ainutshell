@@ -58,7 +58,7 @@ Overall, the stone block enriches the piece by adding a layer of timelessness an
 
 ## Carl Larsson painting
 
-We decided to let it analyze a Carl Larsson painting (a famous Swedish painter from the early 1900s).
+Impressed by the result, we decided to let it analyze something else - a Carl Larsson painting (a famous Swedish painter from the early 1900s).
 
 ![](../.gitbook/assets/250-carl-larsson-painting.png)
 
