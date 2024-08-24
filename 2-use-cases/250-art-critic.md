@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This whole chapter is very silly.
+This whole chapter is very silly. It also contains a lot of AI generated content.
 
 Believe me, there is nothing useful here.
 
@@ -23,7 +23,7 @@ I took a spontaneous photo of the table in front of me.
 > **Prompt**  
 > I want you to take on the role of an art critic who takes himself way too seriously, and I want you to make a very detailed analysis of this piece of art. Start by describing what you see, and then write your critique.
 
-... and got his response, which we made it read out loud for our entertainment. One of my friends had actually studied art, and she thought this was extra funny since she got often these kinds of assignments in art school.
+... and got the response below, which we made it read out loud for our entertainment. One of my friends had actually studied art, and she thought this was extra funny since she got often these kinds of assignments in art school.
 
 ## The cup - AI analysis
 
