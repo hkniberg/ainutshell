@@ -26,6 +26,8 @@ The model had "proven" that it knew what it was talking about, so I felt comfort
 
 When I met the kidney experts again, I was better equipped to discuss with them, since I had a deeper understanding of the problem. The AI doctor and human doctor both agreed that the immediate remedy was blood pressure meds. Once my blood pressure came down to normal levels, my kidney values improved. Part of the disease is chronic, but the worst of it is over and I'm no longer in immediate danger. Whew.
 
+Another thing I needed to do live a healthier lifestyle - more exercise, better sleep, less stress, and a better diet. AI helped me with that too. The most useful thing was that I built a little AI nutrionist to help me eat right. More on that in the chapter [AI Nutritionist](../2-use-cases/235-nutritionist.md).
+
 ## So should you use AI as your doctor?
 
 Yes and no. I still think a human expert should be in the loop, I don't recommend replacing the human doctor with an AI doctor. If nothing else, the human doctor has eyes, nose, ears, arms, and legs - useful tools which the AI doctor lacks. The human doctor can take tests, the AI doctor cannot (well, who knows, maybe it can by the time you read this). Plus the human connection is nice.
