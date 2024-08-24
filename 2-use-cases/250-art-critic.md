@@ -83,7 +83,7 @@ Overall, this artwork masterfully captures the essence of human connection and t
 
 ## Carl Larsson painting - roast prompt
 
-We couldn't resist adding this....
+And then we couldn't resist adding this....
 
 > **Prompt**  
 > Now I want you to take on the role of another person. You are a very sarcastic and ironic art critic who thinks that painting is horrible. And I want you to write a rant about that painting. Short, sweet, to the point, no holds barred.
