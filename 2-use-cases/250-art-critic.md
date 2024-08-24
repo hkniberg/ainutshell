@@ -39,7 +39,7 @@ Every element in this piece invites reflection: the precarious balance of the up
 
 ## The cup, version 2 - prompt
 
-We then added a stone brick thingie to the table.
+To spice it up a bit, we added a stone brick thingie to the table and asked it to have another go.
 
 ![](../.gitbook/assets/250-cup-with-rock-thing.png)
 
