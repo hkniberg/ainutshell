@@ -29,6 +29,7 @@
 - [AI Doctor](2-use-cases/230-doctor.md)
 - [AI Nutritionist](2-use-cases/235-nutritionist.md)
 - [Book editor](2-use-cases/240-editor.md)
+- [The very serious AI art critic](2-use-cases/250-art-critic.md)
 - [Other use cases](2-use-cases/290-other-use-cases.md)
 
 ## Extra material
@@ -42,4 +43,3 @@
 - [The story of Jimbo, the AI youtuber](4-extra/470-jimbo.md)
 - [The story of Ailex, the AI journalist](4-extra/480-journalist.md)
 - [Energy usage](4-extra/490-energy-usage.md)
-- [The very serious AI art critic](4-extra/495-ai-art.md)
