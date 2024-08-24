@@ -24,19 +24,25 @@ The response was a very detailed analysis and diagnosis, and concrete advice. An
 
 The model had "proven" that it knew what it was talking about, so I felt comfortable asking it a lot of followup questions. My access to the kidney experts was limited, but the AI model had infinite time and patience to talk to me, so I could ask it all the stupid questions I wanted. I double-checked some answers via Google, but never saw any sign of hallucination. Hallucination tends to happen when you use a cheap model and don't provide enough context. In this case I used a good model and provided a ton of context.
 
-When I met the kidney experts again, I was better equipped to discuss with them, since I had a deeper understanding of the problem. The AI doctor and human doctor both agreed that the immediate remedy was blood pressure meds. Using that my blood pressure came down to normal levels, and my kidney values improved. The disease is chronic, but the worst of it is over and I'm no longer in immediate danger. Whew.
+When I met the kidney experts again, I was better equipped to discuss with them, since I had a deeper understanding of the problem. The AI doctor and human doctor both agreed that the immediate remedy was blood pressure meds. Once my blood pressure came down to normal levels, my kidney values improved. Part of the disease is chronic, but the worst of it is over and I'm no longer in immediate danger. Whew.
 
 ## So should you use AI as your doctor?
 
 Yes and no. I still think a human expert should be in the loop, I don't recommend replacing the human doctor with an AI doctor. If nothing else, the human doctor has eyes, nose, ears, arms, and legs - useful tools which the AI doctor lacks. The human doctor can take tests, the AI doctor cannot (well, who knows, maybe it can by the time you read this). Plus the human connection is nice.
 
-However, an AI doctor can _complement_ a human doctor by giving you a second opinion and providing more information. Also, an AI doctor will never be in a hurry, or impatient, or stressed, or in a bad mood, or suffer from lack of sleep. And, the fact that it lacks eyes makes it less likely to discriminate based on gender/race/age/clothing/etc.
+However, an AI doctor can _complement_ a human doctor in several ways:
 
-But what if you don't have access to a human specialist? What if you can't afford it, or have a very rare condition which your doctor doesn't understand?
+- It can give you a second opinion and provide more information.
+- It can be accessed any time of day, without breaks, weekends, holidays, or vacations.
+- It may see patterns or spot rare conditions which the human doctor didn't have any idea about. Since the AI doctor has a much larger knowledge base (through its training data), it has seen vastly more cases than any human doctor.
+- It will never be in a hurry, or impatient, or stressed, or in a bad mood, or suffer from lack of sleep. These things will cloud the judgement of even the best human doctor.
+- It won't discriminate based on visible attributes like gender/race/age/clothing/etc. Not because it doesn't have biases (it does), but because by default it can't see how you look like.
 
-In that case, an AI doctor can be a life saver! With a good AI model and decent prompt engineering skills, an AI doctor will always be better than no doctor at all, or the opinions of your well-intended (but uninformed) friends and family.
+Sometimes a human doctor isn't an option anyway. Maybe you live in a remote area without access to a doctor, or you can't afford it, or you have a rare condition which your doctor doesn't understand. In that case, an AI doctor can be a life saver!
 
-In general, I find it fascinating that it is possible to create a skilled AI doctor using just a simple prompt and a generalist app like Claude or ChatGPT. Good prompt engineering skills pretty much give you superpowers.
+With a good AI model and decent prompt engineering skills, an AI doctor will always be better than no doctor at all, and better than the opinions of your well-intended (but uninformed) friends and family.
+
+In general, I find it fascinating that it is possible to essentially conjure up a skilled AI doctor using just a simple prompt and a generalist app like Claude or ChatGPT. Good prompt engineering skills pretty much give you superpowers.
 
 Just keep in mind: If you do this, make sure you use a good model! The free or cheaper models are more likely to hallucinate or give you incorrect advice, which can be dangerous. Quoting the benchmark:
 

@@ -90,3 +90,5 @@ This should give you a solid framework to develop your book, with both informati
 - A meta chapter, about how I could have used AI to generate most of this book. I did some experiments on training it to my style, and it was very close. But it didn't feel like me, and it didn't feel right.
 
 Book of AI
+
+People still run, even though bike is faster. People still play go, even though AI is better. People will still play music, make art, and movies. Lots of mediocre stuff will still be made, but thats not new. Garage Band etc. Human + AI = more people can make good stuff. NOt limited by talent.
