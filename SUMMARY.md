@@ -32,6 +32,10 @@
 - [The very serious AI art critic](2-use-cases/250-art-critic.md)
 - [Other use cases](2-use-cases/290-other-use-cases.md)
 
+## Transformation guide
+
+- [Intro: What is an AI transformation?](3-transformation/300-intro.md)
+
 ## Extra material
 
 - [How I got into AI](4-extra/440-how-i-got-into-ai.md)

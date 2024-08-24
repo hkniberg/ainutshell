@@ -57,9 +57,30 @@ Either that, or reskill yourself for a job that AI cannot do. Ironically, you ca
 
 From a job skills perspective I think Generative AI can be compared with the Internet. Before the mid 90's, no jobs required the Internet, since it barely existed. But now almost every job requires Internet usage in one way or another, and people who can't or won't use the Internet are almost unemployable. I think it will be the same with Generative AI.
 
+## Recalibrate
+
+I think this famous tweet by my friend Kent Beck sums it up nicely:
+
+![alt text](../.gitbook/assets/120-tweet.png)
+
+We all need to recalibrate, and take a careful look at how we spend our time. Which of your skills have dropped in value? Which remaining skills are more important than ever?
+
+Here's a simple exercise I recommend, either alone or with your team.
+
+1. Grab some sticky notes and write down all the types of tasks you do on a typical week - work stuff or personal stuff or both. Just take a look in your calendar. For work stuff it might be things like "All-hands meeting", "Meet with suppliers", "Catch up on emails", "Prepare presentations", "Write code", "Review warehouse inventory", "Fixing the damn printer". Or something very different, depending on your context.
+2. Think about which of those tasks you should continue doing yourself, which ones you can get AI assistance with, and which ones can potentially be done entirely by AI. Group the notes accordingly. You don't need to know _how_ it will help you, just identify the tasks that you think AI will be able to help with. The _how_ comes later.
+3. Image that you've managed to get AI help with many of these tasks. That will free up time, right? What will you do that the extra time? That's a nice thing to think about.What are the types of tasks you would love to have more time for? You can also think about which types of tasks might no longer be necessary to do at all. Group the notes accordingly.
+4. Take a step back, look at the board, and reflect. Or discuss with your team/boss/spouse/friend/etc.
+5. Decide where to start. Ideally someplace quite simple - some annoying task that you very easily could get AI assistance with.
+6. Experiment with how to get AI assistance with that task. If it turns out to be too difficult, try another one.
+
+![](../.gitbook/assets/120-recalibrate.png)
+
+The key point thing to get started. Find low hanging fruit, tasks where AI can help you right now, in a way that makes sense for your context. Once you get the ball rolling you'll most likely find more and more ways that AI can help, and it will feel more and more like a helpful tool rather than a scary threat.
+
 ## Ask AI how it can help you
 
-If you’re not sure how AI can help you in your profession, just ask it:
+If you’re not sure how AI can help you, just ask it:
 
 > I work as X, how can you help me?
 
