@@ -4,6 +4,8 @@
 
 ![](../.gitbook/assets/130-using-vs-building.png)
 
+(Warning: This chapter contains code. If you don't like code, or are allergic to it, please skip to the next chapter.)
+
 It's important to distinguish between the models, and the products that build on them.
 
 As a user, you don't interact directly with the model. Instead, you interact with a product - for example through a website or mobile app. The product in turn talks to the model behind the scenes.
@@ -16,10 +18,10 @@ There are hundreds of AI powered products out there, they are popping up everywh
 
 Here are some examples of useful AI products in 2024:
 
-* **ChatGPT** - an app and website which lets you chat with the GPT-family of models. It adds feature such as a user interface and message history, which the model itself doesn't have. It also adds multi-modality, so you talk to it or upload images, and it will use the appropriate model behind the scenes.
-* **Claude** - similar to ChatGPT, an app & website that lets you chat with the Claude-family of models from Anthropic.
-* **GitHub Copilot** - an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests new code as you type. It doesn't really have a user interface, it works in the background like some kind of ghost coder.
-* **Perplexity** - a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
+- **ChatGPT** - an app and website which lets you chat with the GPT-family of models. It adds feature such as a user interface and message history, which the model itself doesn't have. It also adds multi-modality, so you talk to it or upload images, and it will use the appropriate model behind the scenes.
+- **Claude** - similar to ChatGPT, an app & website that lets you chat with the Claude-family of models from Anthropic.
+- **GitHub Copilot** - an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests new code as you type. It doesn't really have a user interface, it works in the background like some kind of ghost coder.
+- **Perplexity** - a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
 
 ### Building your own AI products
 
@@ -33,10 +35,10 @@ This is very powerful! It allows you to build small tools and utilities specific
 
 For example:
 
-* As an elearning site, you could add a chatbot to answer questions about the courses.
-* As a recruitment company, you could build AI-powered tools to help evaluate candidates.
-* As a restaurant, you could create an AI-driven menu recommendation system based on customer preferences and dietary restrictions.
-* If your company needs to deal with many invoices and RFPs (requests for proposals), you could build an AI-powered tool help analyze these.
+- As an elearning site, you could add a chatbot to answer questions about the courses.
+- As a recruitment company, you could build AI-powered tools to help evaluate candidates.
+- As a restaurant, you could create an AI-driven menu recommendation system based on customer preferences and dietary restrictions.
+- If your company needs to deal with many invoices and RFPs (requests for proposals), you could build an AI-powered tool help analyze these.
 
 In each of these examples, your users interact with your product, and your product interacts with the model.
 
@@ -142,8 +144,8 @@ You don't need to read or understand the code, I just gave it to you to get a se
 
 In this case I asked it to evaluate myself as a candidate for a job as circus artist. I created two files as input:
 
-* `circus-artist.txt` - A job description for a circus artist (I asked GPT to write it...)
-* `HenrikKniberg.pdf` - My LinkedIn profile (downloaded as PDF))
+- `circus-artist.txt` - A job description for a circus artist (I asked GPT to write it...)
+- `HenrikKniberg.pdf` - My LinkedIn profile (downloaded as PDF))
 
 I ran the script and got this:
 
@@ -296,9 +298,9 @@ Just for fun, I wrote "You are a recruitment expert with sarcastic tendencies" a
 
 I asked it to evaluate three candidates for the job as a baker:
 
-* Marie Curie (the famous scientist). I asked GPT to generate a hypothetical CV for her.
-* Daniel Ek (founder of Spotify)
-* Me (the guy writing this book)
+- Marie Curie (the famous scientist). I asked GPT to generate a hypothetical CV for her.
+- Daniel Ek (founder of Spotify)
+- Me (the guy writing this book)
 
 The result:
 

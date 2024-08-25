@@ -11,7 +11,7 @@ Everything is explained in plain English with Henrik's signature hand-drawn illu
 
 Don't just survive the Age of AI — learn how to thrive in it!
 
-"This book is masterpiece. Henrik has a unique talent for explaining and illustrating complex concepts in simple terms."
+"This book is masterpiece. Henrik has a unique talent for explaining and illustrating complex concepts in simple terms."  
 — xxx
 
 "I read it in one sitting. It's a must-read for anyone looking to understand and harness the power of Generative AI. And entertaining too!"  
