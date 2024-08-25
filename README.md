@@ -26,4 +26,8 @@ The book lives here in gitbook for now while I'm writing and finalizing it, then
 
 My plan is to publish this as an ebook as well as a printed book. Not sure yet if I will use a normal publisher or self-publish.
 
-Any feedback is welcome! Well, I haven't done much spell-checking or grammar-checking, so that kind of feedback is probably not useful. But anything else is welcome!
+Any feedback is welcome! With some caveats:
+
+- I haven't done much spell-checking or grammar-checking, so never mind that.
+- I haven't fiddled with image sizes, so I know that some are way too big.
+- Gitbook doesn't allow for much formatting, so I've kept it simple for now.
