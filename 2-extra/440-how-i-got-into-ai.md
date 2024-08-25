@@ -9,6 +9,8 @@ But how did it start?
 Most people who work with Generative AI have a story about how they got into it, some AHA moment that made them realize how powerful this technology is.
 Here's my story. and two pivotal AHA moments that made me switch my career completely to AI.
 
+Strap in, we'll start way back in time...
+
 ## Studying Artificial Neural Networks
 
 My first encounter with Artificial Intelligence was during my studies at the Royal Institute of Technology in Stockholm, in the mid 90's. I took a course called Artificial Neural Networks and coded small neural networks using Smalltalk. I was fascinated by the technology. There's something magical about having computers "think", even in a very limited sense. At the time, there weren't many practical applications, but I still found it incredibly interesting and fun to tinker with.
