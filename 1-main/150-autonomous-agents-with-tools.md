@@ -14,7 +14,7 @@ I wrote a few chapters showing AI agents in action:
 
 - [Jimbo the Youtuber](../2-extra/470-jimbo.md)
 - [Ailex the AI journalist](../2-extra/480-journalist.md)
-- [Ralph the RFP agent](../2-extra/510-transformation.md#example-rfp-agent) (see the RFP agent section in the AI transformation chapter)
+- Ralph the RFP agent (see the RFP agent section in the [AI transformation](../2-extra/510-transformation.md) chapter)
 
 With autonomous AI agents, prompt engineering becomes even more important. Because your autonomous tool-wielding agent can do a lot of good or a lot of harm depending on how you craft your mission statement and prompts.
 
