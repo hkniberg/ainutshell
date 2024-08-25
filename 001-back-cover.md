@@ -1,6 +1,6 @@
 # Back cover
 
-## (Back cover) Generative AI in a Nutshell - how to survive and thrive in the Age of AI
+## Generative AI in a Nutshell - how to survive and thrive in the Age of AI
 
 Welcome to the strange new world of Generative AI!
 This book is a fast-paced, practical, funny, and (mostly) human-written guide to what the heck is going on, and what you can do about it. It is like an extended version of his viral video with the same name.
