@@ -2,7 +2,7 @@
 
 > Make Generative Useful
 
-That has become somewhat of mantra for me, guiding most of what I do.
+That has become somewhat of a mantra for me, guiding most of what I do.
 
 But how did it start?
 
