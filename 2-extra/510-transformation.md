@@ -376,9 +376,9 @@ But for an AI transformation to be successful, you need to create a culture that
 
 I recommend thinking of AI as a way to boost your people, to give them superpowers. Instead of "we can achieve the same with less people", think "we can achieve more and better with the same people".
 
-## Wrap up
+## Reflection
 
-This is not a comprehensive guide but I hope these tips will help you get your AI transformation going.
+I hope these tips will help you get your AI transformation going.
 
 You might have a panicky feeling that you are behind and your competitors are way ahead of you. But don't worry, it's probably not as bad as you think. At the time of writing, just about everybody is equally confused and lost in the dark, because of the incredible rate of change.
 
