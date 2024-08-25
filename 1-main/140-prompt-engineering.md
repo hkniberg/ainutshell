@@ -9,7 +9,7 @@ I prefer the term Prompt Design, but Prompt Engineering seems to have stuck so w
 
 This skill is crucially important, whether you are using an AI product like ChatGPT or building your own AI product.
 
-# Example - from bad to good prompt
+## Example - from bad to good prompt
 
 Here's an example of some basic prompt engineering techniques. Let's say you want help planning a workshop.
 
