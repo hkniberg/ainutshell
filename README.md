@@ -19,7 +19,7 @@ layout:
 
 ## Generative AI in a Nutshell - how to survive and thrive in the Age of AI
 
-This is work-in-progress book based on my video [Generative AI in a Nutshell - how to survive and thrive in the Age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw).
+This is a work-in-progress book based on my video [Generative AI in a Nutshell - how to survive and thrive in the Age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw).
 
 If you see this README then I've probably sent you this as manuscript, or asked you to read & review the book.
 The book lives here in gitbook for now while I'm writing and finalizing it, then we'll see I need to move it somewhere.
