@@ -1,4 +1,4 @@
-# The AI journalist
+# The AI journalist who became a TV star
 
 Here is an example of a AI agent in action.
 
