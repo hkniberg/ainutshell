@@ -15,7 +15,7 @@ Strap in, we'll start back in the last millenium... (oh boy that makes me feel o
 
 My first encounter with Artificial Intelligence was during my studies at the Royal Institute of Technology in Stockholm, in the mid 90's. I took a course called Artificial Neural Networks and coded small neural networks using Smalltalk. I was fascinated by the technology. There's something magical about having computers "think", even in a very limited sense. At the time, there weren't many practical applications, but I still found it incredibly interesting and fun to tinker with.
 
-## Coding Minecraft villagers
+## Coding Minecraft Villagers
 
 ![](../.gitbook/assets/440-villagers.png)
 
@@ -35,7 +35,7 @@ Later on I added a fourth rule, to balance things out and avoid perpetual chasin
 
 When every kid followed these simple rules, it created the sensation of children running around playing tag, which was really fun and brought life to the village. This is similar to how ant colonies and bee hives demonstrate advanced systemic behavior based on individuals following quite simple rules.
 
-## Minecraft piglins
+## Coding Minecraft Piglins
 
 ![](../.gitbook/assets/440-piglin.png)
 
