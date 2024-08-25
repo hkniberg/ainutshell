@@ -2,7 +2,9 @@
 
 > Make Generative Useful
 
-That's my mantra and mission. But how did it start?
+That has become somewhat of mantra for me, guiding most of what I do.
+
+But how did it start?
 
 Most people who work with Generative AI have a story about how they got into it, some AHA moment that made them realize how powerful this technology is.
 Here's my story. and two pivotal AHA moments that made me switch my career completely to AI.
