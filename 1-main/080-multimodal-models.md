@@ -52,7 +52,7 @@ Remember when I mentioned Prompt Design and Prompt Engineering? This is a good e
 - **Prompt Design** ("what can I do?") = coming up with the idea that AI could be useful as a sounding board when taking a walk.
 - **Prompt Engineering** ("how do I do it?") = prompting it to only respond with "OK" initially, to allow me to finish dumping my thoughts before getting a response.
 
-I recommend trying this. This is probably my favorite AI use case, I do it almost every day. All that walking is also good for my health 🙂.
+I recommend trying this. This is probably my favorite AI use case, I do it almost every day. Nice health benefit too, with all that walking! This book alone has gotten me at least 100,000 steps 🙂.
 
 Just a few days ago I was planning an inspirational talk for a group of CEOs. The event organizer showed me a slide with all the participants and companies. For my next walk, I sent a screenshot of that slide to ChatGPT and asked:
 
@@ -65,3 +65,6 @@ I got really useful input and ideas! Then I did the "just respond with OK" thing
 Turns out Einstein isn't stuck in the basement after all, you can take him out for a walk!
 
 ![](../.gitbook/assets/080-walking-2.png)
+
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Great. You've managed to demote your genius AI buddy to a glorified note-taking pedometer. Congratulations on finding the most inefficient way to jot down your fleeting thoughts and half-baked ideas. I'm sure the AI is thrilled to be your walking, talking, non-judgmental diary. What's next, asking us to remind you to breathe while you walk?

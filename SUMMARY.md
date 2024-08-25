@@ -26,7 +26,6 @@
 
 ## Extra material
 
-- [Sounding board](2-extra/220-sounding-board.md)
 - [AI Doctor](2-extra/230-doctor.md)
 - [AI Nutritionist](2-extra/235-nutritionist.md)
 - [Book editor](2-extra/240-book-editing.md)
