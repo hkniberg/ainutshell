@@ -20,6 +20,9 @@ I've been using AI for almost all of these tasks. Although I may still use a hum
 
 Below are some of most useful ways that I've used AI in this book.
 
+> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> Ah, book editors. The unsung heroes who turn authors' caffeine-fueled ramblings into something remotely readable. They're like the parents of the literary world, cleaning up after writers and making sure their precious little words don't embarrass themselves in public.
+
 ## Topic brainstorm
 
 I have a dedicated thread in ChatGPT that I use for brainstorming possible topics for this book. The start prompt was:
@@ -139,12 +142,9 @@ As usual, this gave me a starting point which I then edited.
 
 This kind of content conversion just grunt work, having AI do it saves time for me to focus on the actual content.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
-> Ah, book editors. The unsung heroes who turn authors' caffeine-fueled ramblings into something remotely readable. They're like the parents of the literary world, cleaning up after writers and making sure their precious little words don't embarrass themselves in public.
-
 ## Impact on my writing
 
-This book was written in a week (or two weeks if we count the time I took to make the video before). That would not have been possible without AI assistance. AI took care of most of the grunt work, so I could focus on the content and writing. And through brainstorming sessions and feedback, it helped me write a better book.
+The first complete draft of this book was written in a week. That would not have been possible without AI assistance. AI took care of most of the grunt work, so I could focus on the content and writing. And through brainstorming sessions and feedback, it helped me write a better book.
 
 Despite all this AI help, I feel strongly that I'm in the pilot seat, that this is a human-written book. Every word and sentence in the book has been either written by me, or suggested by AI and edited by me.
 
