@@ -26,21 +26,21 @@
 
 ## Inspiration and Insights
 
+- [How I got into AI](2-extra/440-how-i-got-into-ai.md)
+- [Prompt Engineering Techniques](2-extra/460-prompt-engineering-techniques.md)
+- [Interlude: Egbert's life story](2-extra/430-egbert-interlude.md)
 - [AI Doctor](2-extra/230-doctor.md)
 - [AI Nutritionist](2-extra/235-nutritionist.md)
 - [Book editor](2-extra/240-book-editing.md)
 - [The very serious AI art critic](2-extra/250-art-critic.md)
 - [Other use cases](2-extra/290-other-use-cases.md)
-- [How I got into AI](2-extra/440-how-i-got-into-ai.md)
 - [The Metachapter (or Bookception)](2-extra/410-meta.md)
 - [The time I almost used AI to write a foreword](2-extra/420-almost-used-ai.md)
-- [Interlude: Egbert's life story](2-extra/430-egbert-interlude.md)
 - [Buzzwords](2-extra/450-buzzwords.md)
-- [Prompt Engineering Techniques](2-extra/460-prompt-engineering-techniques.md)
+- [Whodunit - the AI powered mystery game](2-extra/490-whodunit.md)
 - [Jimbo, the AI youtuber](2-extra/470-jimbo.md)
 - [The AI journalist who became a TV star](2-extra/480-journalist.md)
 - [AI transformation guide](2-extra/510-transformation.md)
-- [Whodunit - the AI powered mystery game](2-extra/490-whodunit.md)
 
 ## Ending
 
