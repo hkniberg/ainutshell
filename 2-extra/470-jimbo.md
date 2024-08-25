@@ -2,9 +2,11 @@
 
 ![](../.gitbook/assets/470-jimbo.png)
 
-Let me tell you about Jimbo, my first AI agent. He runs a youtube channel that generates conversations between AI-powered characters.
+I'm going to tell you the story of Jimbo, my first AI agent. He runs a youtube channel called "AI conversations" that generates conversations between AI-powered characters.
 
-Here's the channel if you are curious: [https://www.youtube.com/@ai-conversations](https://www.youtube.com/@ai-conversations). Can't promise it will still be active by the time you read this though.
+I think this is a good example of what an autonomous AI agent is, and how human + AI can collaborate effectively.
+
+Here's Jimbo's channel if you are curious: [https://www.youtube.com/@ai-conversations](https://www.youtube.com/@ai-conversations). Can't promise it will still be active by the time you read this though.
 
 Jimbo was a bit of an experiment (like most things I do). I wanted to see how far we could go with letting an AI agent run the whole process from end to end. Very far it turns out!
 

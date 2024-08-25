@@ -9,19 +9,21 @@ But how did it start?
 Most people who work with Generative AI have a story about how they got into it, some AHA moment that made them realize how powerful this technology is.
 Here's my story. and two pivotal AHA moments that made me switch my career completely to AI.
 
-Strap in, we'll start back in the last millenium....
+Strap in, we'll start back in the last millenium... (oh boy that makes me feel old)
 
 ## Studying Artificial Neural Networks
 
 My first encounter with Artificial Intelligence was during my studies at the Royal Institute of Technology in Stockholm, in the mid 90's. I took a course called Artificial Neural Networks and coded small neural networks using Smalltalk. I was fascinated by the technology. There's something magical about having computers "think", even in a very limited sense. At the time, there weren't many practical applications, but I still found it incredibly interesting and fun to tinker with.
 
-## Minecraft villagers
+## Coding Minecraft villagers
 
 ![](../.gitbook/assets/440-villagers.png)
 
-Fast forward a few decades, and I found myself working as a Minecraft gameplay designer & developer, building features in the game. One of the things I worked on was villager AI. Minecraft has villagers that live inside the world and go about their lives. I found it really interesting how simple rules in code can create this illusion of intelligence.
+Fast forward a few decades, and I found myself working as a Minecraft gameplay designer & developer, building various features in the game. One of the things I worked on was villager AI.
 
-One of the first things I worked on was villager children. To make the villages feel more alive we wanted villager kids running around jumping in beds and playing tag. After some trial and error, I found a set of behavioural rules that worked really well. Each villager kid followed these rules, in priority order:
+Minecraft has villagers that live inside the world and go about their lives. I found it really interesting how simple rules in code can create this illusion of intelligence.
+
+One of the first features I worked on was villager children. To make the villages feel more alive we wanted villager kids running around jumping in beds and playing tag. After some trial and error, I found a set of behavioural rules that worked really well. Each villager kid followed these rules, in priority order:
 
 1. If you're being chased by another kid, then run away.
 2. If you see another kid being chased, then join the chase.
@@ -61,7 +63,11 @@ When I started using GPT-4 as a coding assistant, I was absolutely blown away. I
 
 Over time, I learned to get really good at explaining what I want and giving it just the right context. As my prompt engineering skills improved, my superpowers grew. Nowadays, when I code with AI, I have an intuitive feeling for when I can just trust the AI-generated code and when I need to check it carefully. And most of the time, if I get the prompt right, the code just works right out of the box.
 
-The biggest aha moment was when I was working on a chatbot for my Minecraft server. I host a Minecraft server and Discord server for friends and family. I wanted this fun little AI bot to be part of it, writing snarky comments in both Minecraft and Discord, and commenting on what people are doing. That's when Egbert was born as an AI persona. It started as a little hack, but grew into a platform for hosting AI chat bots on places like Discord, Slack, Minecraft servers, etc. The bots even have memories, they learn things about the people and environment that they interact with. Here's the code if you are curious: https://github.com/hkniberg/egbert
+The biggest aha moment was when I was working on a chatbot for my Minecraft server. I host a Minecraft server and Discord server for friends and family. I wanted this fun little AI bot to be part of it, writing snarky comments in both Minecraft and Discord, and commenting on what people are doing.
+
+That's when Egbert was born as an AI persona. It started as a little hack, but grew into a platform for hosting AI chat bots on places like Discord, Slack, Minecraft servers, etc. The bots even have memories, they learn things about the people and environment that they interact with. Here's the code if you are curious: [https://github.com/hkniberg/egbert](https://github.com/hkniberg/egbert)
+
+Here is a Minecraft screenshot of Egbert poking fun at a player who just died.
 
 ![](../.gitbook/assets/440-minecraft.png)
 
@@ -113,9 +119,11 @@ Then when I pasted in chapter 2 it gave feedback and then suggested a lead-in to
 
 This continued, until things started getting _really_ weird.
 
-After I pasted in Chapter 4, it didn't give me feedback. Instead, it responded with the complete Chapter 5. It had misunderstood its job, figuring that its role was to write the next chapter rather than give feedback. The big shock was that its version of Chapter 5 mostly matched what I actually wrote. It not only predicted what the next chapter would be about, but predicted most of the content correctly too. I nearly fell off my chair.
+After I pasted in Chapter 4, it didn't give me feedback. Instead, it responded with the complete Chapter 5!
 
-And this continued. When I pasted in Chapter 6, it responded with Chapter 7, predicting correctly what I was going to write. Not to the exact word, but in essence, and even matching my style of writing. If you want to see an example of that, see [The Metachapter](../2-extra/210-meta.md).
+It had misunderstood its job, figuring that its role was to write the next chapter rather than give feedback. The big shock was that its version of Chapter 5 mostly matched what I actually wrote. It not only predicted what the next chapter would be about, but predicted most of the content correctly too. I nearly fell off my chair.
+
+And this continued. When I pasted in Chapter 6, it responded with Chapter 7, predicting correctly what I was going to write. Not to the exact word, but in essence, and even matching my style of writing. If you want to see an example of AI mimicking my writing style, see [The Metachapter](../2-extra/210-meta.md).
 
 At that point, I had to take a step back, breath, and think. I decided that this was incredibly cool, but not what I wanted. My next prompt was:
 
