@@ -12,4 +12,4 @@ Here are the key things I hope you will remember.
 
 So my best tip is, experiment. Make this part of your day-to-day life, and the learning happens automatically.
 
-In the rest of this book we'll dive into some more advanced topics, concrete tips and examples, and some silliness. Some may be relevan to you, some not, so I suggest you browse the chapter names and pick and choose what you want to read.
+In the rest of this book we'll dive into some more advanced topics, concrete tips and examples, and some silliness. Some may be relevant to you, some not, so I suggest you browse the chapter names and pick and choose what you want to read.
