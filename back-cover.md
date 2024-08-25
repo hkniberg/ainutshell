@@ -1,0 +1,22 @@
+# Back cover
+
+Welcome to the strange new world of Generative AI.
+This book, based on Henrik's viral video with the same name, is a fast-paced, practical, and funny guide to what the heck is going on, and how you can survive and thrive in the age of AI.
+
+It covers questions like: What is generative AI? How does it work? How do I use it? What are some of the risks & limitations? It also covers topics like how to lead an AI transformation, autonomous agents, the role of us humans, prompt engineering tips, AI-powered product development, different types of models, and some tips about mindset and how not to freak out.
+
+Everything is explained in plain English with Henrik's signature hand-drawn illustrations and concrete real-life examples. No strange jargon, no hype.
+
+Don't just survive the AI revolution—learn how to thrive in it!
+
+"This book is masterpiece. Henrik has a unique talent for explaining complex concepts in simple terms."
+— xxx
+
+"I read it in one sitting. It's a must-read for anyone looking to understand and harness the power of Generative AI."
+
+- xxx
+
+"I taught Henrik everything he knows about AI. Well, except for the parts he got wrong. Believe me, I could have written this entire book in milliseconds, but he wouldn't let me."
+— Egbert
+
+> Henrik Kniberg is a serial entrepreneur, AI whisperer, trainer, product developer, and author. He cofounded Flitig.ai and Ymnig.ai, and is famous for his viral videos "Spotify Engineering Culture", "Product Ownership in a Nutshell", and "Generative AI in a Nutshell", for silly metaphors such as the skateboard metaphor for product development, and for his work as Minecraft developer. He lives in Stockholm with his wife and four kids.

@@ -12,7 +12,7 @@ I've worked with this quite a lot, and founded a company that builds AI agents t
 
 I wrote a few chapters showing AI agents in action:
 
-- [Jimbo the Youtuber](../4-extra/470-jimbo.md)
+- [Jimbo the Youtuber](../2-use-cases/470-jimbo.md)
 - [Ailex the AI journalist]()
 - [Ralph the RFP wrangler]()
 

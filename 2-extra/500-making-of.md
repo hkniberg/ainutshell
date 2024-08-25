@@ -38,7 +38,7 @@ I didn't want to spend too much time on this book, because this industry is movi
 
 So I decided to give it a week. As with the video, I cleared a week in my calendar and headed out to the cabin. That's where I am right now, typing this text. Whatever I can do in a week, that will be enough. Plus, most people don't read long books anyway, so I want to keep it short (like my previous books).
 
-This would not have been possible without AI assistance. See the chapter on [Book editing](../2-use-cases/240-book-editing.md) for more details. AI took care of a lot of grunt work, so I could focus on the content and writing. And through brainstorming sessions and feedback, it also helped me write a better book.
+This would not have been possible without AI assistance. See the chapter on [Book editing](240-book-editing.mdils. AI took care of a lot of grunt work, so I could focus on the content and writing. And through brainstorming sessions and feedback, it also helped me write a better book.
 
 As repeated throughout this book, Human + AI, that's where the magic lies.
 

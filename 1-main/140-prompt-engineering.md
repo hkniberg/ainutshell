@@ -68,7 +68,7 @@ So all that time I thought the models were incapable of asking questions or driv
 
 There are plenty of courses, books, videos, and articles to help you learn this.
 
-This book also contains a chapter called [Prompt Engineering Techniques](../4-extra/460-prompt-engineering-techniques.md), with more specific tips and examples.
+This book also contains a chapter called [Prompt Engineering Techniques](../2-use-cases/460-prompt-engineering-techniques.md), with more specific tips and examples.
 
 But the most important thing is to practice, and learn by doing. Try using AI for all kinds of things, even silly things, or things that AI isn't good at (although it may surprise you). By toying around and testing the limits you will build your skills.
 

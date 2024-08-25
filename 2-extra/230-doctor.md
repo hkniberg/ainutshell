@@ -26,7 +26,7 @@ The model had "proven" that it knew what it was talking about, so I felt comfort
 
 When I met the kidney experts again, I was better equipped to discuss with them, since I had a deeper understanding of the problem. The AI doctor and human doctor both agreed that the immediate remedy was blood pressure meds. Once my blood pressure came down to normal levels, my kidney values improved. Part of the disease is chronic, but the worst of it is over and I'm no longer in immediate danger. Whew.
 
-Another thing I needed to do live a healthier lifestyle - more exercise, better sleep, less stress, and a better diet. AI helped me with that too. The most useful thing was that I built a little AI nutrionist to help me eat right. More on that in the chapter [AI Nutritionist](../2-use-cases/235-nutritionist.md).
+Another thing I needed to do live a healthier lifestyle - more exercise, better sleep, less stress, and a better diet. AI helped me with that too. The most useful thing was that I built a little AI nutrionist to help me eat right. More on that in the chapter [AI Nutritionist](235-nutritionist.md).
 
 ## So should you use AI as your doctor?
 

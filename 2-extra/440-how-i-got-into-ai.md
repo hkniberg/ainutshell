@@ -80,7 +80,20 @@ How could it just work? Because:
 
 To be clear: AI code generation doesn't always work this flawlessly, and working with third-party APIs often requires some manual tweaking. I got a bit lucky that one time. But just seeing that it CAN work was enough.
 
-This experience blew my mind. I realized that if the technology is this capable already now, and is improving at an exponential rate, then my friend was right - computers will take over coding every soon. Ever since then, I've always coded with AI at my side, using modern tools like Cursor, an IDE that integrates AI, so it can see and edit your code directly instead of having to copy/paste back and forth all the time.
+This experience blew my mind. I realized that if the technology is this capable already now, and is improving at an exponential rate, then my friend was right - computers will take over coding every soon.
+
+Ever since then, I've always coded with AI at my side, using modern tools like Cursor, an IDE that integrates AI, so it can see and edit your code directly instead of having to copy/paste back and forth all the time.
+
+Main benefits:
+
+1. I get stuff done so much faster. Things that used to take days can be done in hours. Things that used to take hours can be done in minutes. I estimate that my average productivity is about 10x higher than before.
+2. I learn faster. Whenever I get stuck or don't understand the generated code, I ask for explanation. This greatly accelerates my learning, it's like having a personal tutor with me at all times.
+
+Despite this, I still it find it useful to work with other people, if nothing else for the social connection. The ideal scenario is a small mob with 2 people + AI.
+
+However, I've realized that even though AI is brilliant at coding, I'm still needed as an architect. I'm the one writing the prompts, giving feedback, spotting hallucinations, and noticing when we're stuck in a can of worms. At the moment, AI works best together with a professional human coder. But for simple tasks, we're already getting to the point where a person with zero coding experience can actually build and implement code.
+
+This is why I believe that developers who don't understand this technology might become unemployable - they'll simply be too slow. It's one of the reasons I decided to make this career shift. I want others to taste this level of productivity, to experience the feeling of going from idea to production in such a short time.
 
 ## Aha 2: It can write like a pro!
 
