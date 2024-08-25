@@ -1,10 +1,8 @@
 # Using AI vs building AI-powered products
 
-## Using AI vs building AI-powered products
+(Warning: This chapter contains code. If you don't like code, or are allergic to it, please skip to the next chapter.)
 
 ![](../.gitbook/assets/130-using-vs-building.png)
-
-(Warning: This chapter contains code. If you don't like code, or are allergic to it, please skip to the next chapter.)
 
 It's important to distinguish between the models, and the products that build on them.
 
@@ -12,7 +10,7 @@ As a user, you don't interact directly with the model. Instead, you interact wit
 
 Products add capabilities and data that aren't part of the model itself, but can also introduce limitations.
 
-### Existing AI products
+## Using existing AI products
 
 There are hundreds of AI powered products out there, they are popping up everywhere. However, the quality varies a lot. Some are super useful, while others look impressive at first glance but aren't so useful in practice.
 
@@ -23,7 +21,7 @@ Here are some examples of useful AI products in 2024:
 - **GitHub Copilot** - an AI-powered coding assistant. It integrates with various development environments, analyzes the context of your code, and suggests new code as you type. It doesn't really have a user interface, it works in the background like some kind of ghost coder.
 - **Perplexity** - a search engine that uses AI to provide more relevant and accurate results, with references. It is basically an alternative to Google search, that focuses on delivering answers and knowledge rather than page links.
 
-### Building your own AI products
+## Building your own AI products
 
 As a developer, or have acces to a development team, you can build your own AI-powered products and features.
 
@@ -42,13 +40,13 @@ For example:
 
 In each of these examples, your users interact with your product, and your product interacts with the model.
 
-### Build or buy?
+## Build or buy?
 
 Often if you have an idea for an AI powered tool or product, others have had that idea too. So you can often find third party tools that do what you want, or something similar enough. Sometimes the products are free, sometimes they are paid.
 
 So should you build it yourself, or buy it? As always, that depends on product complexity vs your development knowledge, and what kinds of products are available. If it is super simple, just build it. Otherwise, look around and test some third party products first before building your own.
 
-### Code example 1: Talking to GPT
+## Code example 1: Talking to GPT
 
 Here is an example of JavaScript using OpenAI API to talk to GPT. Not a lot of code needed, and you can get this code directly from the OpenAI API documentation.
 
@@ -79,7 +77,7 @@ They don't have the guts!
 
 OK, not very useful. But it is a start.
 
-### Code example 2: Candidate evaluation
+## Code example 2: Candidate evaluation
 
 Now let's build something more useful. Let's build the AI-powered candidate evaluation tool I talked about above. In the first version, it will evaluate the CV of a job candidate, and evaluate his/her suitability for a given job description. Most of this code was AI written by the way (but with input & tweaking from me).
 
@@ -311,6 +309,8 @@ The result:
 > But in this reality, let's continue the search for a candidate whose qualifications actually include culinary triumphs over a buttery, laminated dough or a perfectly piped frosting.
 
 Pretty powerful right? This little script took less than an hour to write and tune (with AI help), and now I have a little tool that takes about 10 seconds to evaluate any number of CVs for any given job. And with small changes to the prompt I have complete control over the style, format, and length of the response.
+
+## Reflection
 
 These AI models essentially give you access to an external brain to insert intelligence into your products.
 
