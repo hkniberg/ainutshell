@@ -32,10 +32,6 @@
 - [The very serious AI art critic](2-use-cases/250-art-critic.md)
 - [Other use cases](2-use-cases/290-other-use-cases.md)
 
-## Transformation guide
-
-- [Intro: What is an AI transformation?](3-transformation/300-intro.md)
-
 ## Extra material
 
 - [How I got into AI](4-extra/440-how-i-got-into-ai.md)
@@ -46,4 +42,4 @@
 - [Prompt Engineering Techniques](4-extra/460-prompt-engineering-techniques.md)
 - [The story of Jimbo, the AI youtuber](4-extra/470-jimbo.md)
 - [The story of Ailex, the AI journalist](4-extra/480-journalist.md)
-- [Energy usage](4-extra/490-energy-usage.md)
+- [AI transformation guide](4-extra/510-transformation.md)
