@@ -43,3 +43,4 @@
 - [The story of Jimbo, the AI youtuber](4-extra/470-jimbo.md)
 - [The story of Ailex, the AI journalist](4-extra/480-journalist.md)
 - [AI transformation guide](4-extra/510-transformation.md)
+- [Whodunit - the AI powered mystery game](4-extra/490-whodunit.md)
