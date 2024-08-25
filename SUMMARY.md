@@ -5,7 +5,7 @@
 - [Foreword by Egbert](005-foreword.md)
 - [How to read this book](006-how-to-read.md)
 
-## Main part
+## In a nutshell
 
 - [Computers have gotten smarter](1-main/010-computers-have-gotten-smarter.md)
 - [Einstein in Your Basement](1-main/020-einstein-in-your-basement.md)
@@ -24,7 +24,7 @@
 - [Autonomous agents with tools](1-main/150-autonomous-agents-with-tools.md)
 - [Wrapup](1-main/160-wrapup.md)
 
-## Extra material
+## Inspiration and Insights
 
 - [AI Doctor](2-extra/230-doctor.md)
 - [AI Nutritionist](2-extra/235-nutritionist.md)

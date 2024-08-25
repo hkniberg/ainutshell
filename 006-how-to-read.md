@@ -2,25 +2,26 @@
 
 This book has two sections:
 
-## Main part
+## In a nutshell
 
-This is the main "in a nutshell" introduction to Generative AI. Similar to my video [Generative AI in a Nutshell - how to survive and thrive in the Age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw), but with some more depth and detail.
+This is the main section, the "in a nutshell" introduction to Generative AI. Similar to my video [Generative AI in a Nutshell - how to survive and thrive in the Age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw), but with some more depth and detail.
 
 I recommend reading this from start to finish, since each chapter builds on the previous ones and it all fits into a coherent story.
 
-## Extra material
+## Inspiration and Insights
 
-These are independent chapters that dive into specific areas, such as:
+These are independent chapters that dive into specific areas to provide inspiration and insights.
+
+For example:
 
 - Stories and case studies
-- Examples of interesting ways to use AI
-- How to use AI to transform your work or business
+- Examples of interesting ways to use AI such as the AI doctor, nutritionist, book editor, etc.
+- AI transformation guide for business leaders
 - Examples of autonomous agents
 - Some silly chapters that don't fit anywhere else
-- How I got into this, and how the book was written
+- My story of how I got into AI.
 
-Here it makes sense to skip around and read only those chapters that interest you.
-The chapters aren't really in any particular order.
+Those chapters are in no particular order, so feel free to skip around and read those that are most interesting to you.
 
 Oh yeah, you've probably also noticed my side-kick Egbert. You can ignore him if you like, he can be a bit of a nuisance. I felt bad not to include him though, since he is an AI and, well, this is a book about AI.
 
