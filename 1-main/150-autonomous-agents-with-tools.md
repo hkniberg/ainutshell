@@ -19,7 +19,7 @@ I also described an RFP agent in the chapter on [AI transformation](../2-extra/5
 
 With autonomous AI agents, prompt engineering becomes even more important. Because your autonomous tool-wielding agent can do a lot of good or a lot of harm depending on how you craft your mission statement and prompts.
 
-![alt text](../.gitbook/assets/150-dragons.png)
+![](../.gitbook/assets/150-dragons.png)
 
 ## Example: a bug fixing agent
 
