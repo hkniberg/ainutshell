@@ -1,6 +1,6 @@
 # Use case: Personal Nutritionist
 
-In the [AI Doctor](230-doctor.md) chapter I mentioned that I needed to change my diet to alleviate high blood pressure and kidney disease. For example reduce salt and meat.
+In the [AI Doctor](./230-doctor.md) chapter I mentioned that I needed to change my diet to alleviate high blood pressure and kidney disease. For example reduce salt and meat.
 
 This diet changed needed to be permament, not a quick fix. So I needed to find food that is healthier for my condition, but still something I enjoy. Otherwise the habit won't stick.
 
