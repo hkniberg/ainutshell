@@ -41,3 +41,8 @@
 - [The AI journalist who became a TV star](2-extra/480-journalist.md)
 - [AI transformation guide](2-extra/510-transformation.md)
 - [Whodunit - the AI powered mystery game](2-extra/490-whodunit.md)
+
+## Ending
+
+- [Epilogue](900-epilogue.md)
+- [Acknowledgments](910-acknowledgements.md)
