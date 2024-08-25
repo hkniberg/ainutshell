@@ -87,4 +87,6 @@ I've got some plans for Jimbo's future, if I get around to it:
 - Maybe once a week, creating a video based on audience votes
 - Having Jimbo reach out to famous or interesting people for interviews. Imagine a video of Jimbo interviewing a person, like a podcast host.
 
-This experiment with Jimbo later led to another agent who became a TV star. Read about it in the next chapter: [The AI Journalist Who Became a TV Star](480-journalist.md).
+This experiment with Jimbo later led to another agent, an AI journalist.
+
+Read about it in the next chapter: [The AI Journalist Who Became a TV Star](480-journalist.md).
