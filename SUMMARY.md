@@ -1,5 +1,6 @@
 # Table of contents
 
+- [Front cover](000-front-cover.md)
 - [Welcome](README.md)
 - [Foreword by Egbert](005-foreword.md)
 
