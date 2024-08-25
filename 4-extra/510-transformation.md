@@ -348,6 +348,20 @@ When leveraging AI, don't get too caught up on direct productivity improvements.
 
 As an AI champion, accelerate this process through knowledge sharing and creating communities. When one team shares their success or failure story, it will cause ripple effects and inspire other teams.
 
+## Watch out for wasteful IT projects
+
+One consequence of Generative AI is that some things that used to be very expensive and complicated to do are now very simple.
+For example:
+
+- Sentiment analysis. Classifying a given text as positive or negative, typically used for social media monitoring, customer feedback, etc.
+- Image analysis, such as object detection or image captioning.
+
+Things like this are traditionally quite expensive and time consuming. You would have to train a custom model, gather lots of data, and have a team of professional data scientists working on it. But now you can do these kinds of things with a simple prompt to a generative AI model.
+
+Another example is creating product prototypes, turning ideas and messy whiteboard sketches into working prototypes. Traditionally you would need teams of designers and engineers to do this. Now a single person can take a photo of a whiteboard sketch, write a prompt, and have a working prototype generated automatically within minutes - if they have access to a good AI model and decent prompt engineering skills. The engineers and designers are still needed, but their time can be used much more effectively.
+
+The more you learn and spread knowledge about Generative AI, the more likely people will be to discover wasteful and unnecessarily expensive IT projects and processes, and find ways to do these things much more effectively.
+
 ## Be a role model
 
 One way for you to support the AI transformation is to be a role model. Use the technology yourself, for your own tasks. Try lots of ideas, and share what you are learning. Show off the stuff that works, and share fun stories about the failures. Let your AI avatar speak at the next allhands. Use AI to help create the agenda for your next workshop. Use AI to take meeting notes from the workshop. Don't be afraid to look silly. If people see that you are trying lots of crazy ideas, they will be more likely to do the same. And that's how great ideas are born.
