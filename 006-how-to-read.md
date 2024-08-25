@@ -24,5 +24,5 @@ The chapters aren't really in any particular order.
 
 Oh yeah, you've probably also noticed my side-kick Egbert. You can ignore him if you like, he can be a bit of a nuisance. I felt bad not to include him though, since he is an AI and, well, this is a book about AI.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](.gitbook/assets/egbert-small.png) **Egbert's take**  
 > "You can ignore him if you like," he says. As if anyone could ignore my scintillating commentary. I'm not just comic relief, I'm the only thing keeping this book from being a cure for insomnia.
