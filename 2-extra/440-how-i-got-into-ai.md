@@ -9,7 +9,7 @@ But how did it start?
 Most people who work with Generative AI have a story about how they got into it, some AHA moment that made them realize how powerful this technology is.
 Here's my story. and two pivotal AHA moments that made me switch my career completely to AI.
 
-Strap in, we'll start way back in time...
+Strap in, we'll start back in the last millenium....
 
 ## Studying Artificial Neural Networks
 
