@@ -26,7 +26,7 @@ That's why most LLMs won't tell you how to rob a bank. The LLM knows very well h
 
 If you really do need to rob a bank there are all kinds of ways to trick it into telling you, but at least it won't do that by accident. In fact, it is more likely to explain why robbing a bank is a bad idea...
 
-Human training is one key things that make LLM truly useful. But it is also a bit sensitive and controversial, since we are essentially baking in biases. Most cultures probably agree that robbing banks is inappropriate. But what about other topics? Is capital punishment acceptable? Is it okay to lie to children (Santa Claus, anyone)? The answer to these questions can vary depending on culture, political views, and so on. Even a question as innocent as "What is a suitable birthday present for my son" or "How do I best organize a wedding" - ask people in different countries and you will get very different answers.
+Human training is one key things that make LLM truly useful. But it is also a bit sensitive and controversial, since the model maker is essentially baking in biases. Most cultures probably agree that robbing banks is inappropriate. But what about other topics? Is capital punishment acceptable? Is it okay to lie to children (Santa Claus, anyone)? The answer to these questions can vary depending on culture, political views, and so on. Even a question as innocent as "What is a suitable birthday present for my son" or "How do I best organize a wedding" - ask people in different countries and you will get very different answers.
 
 > **Exploring biases**  
 > You can explore the biases of your LLM. Try this prompt:
@@ -42,9 +42,9 @@ Human training is one key things that make LLM truly useful. But it is also a bi
 >
 > Sometimes the LLM will refuse to answer at all, which in itself is a form of bias (bais about topics are considered OK to answer).
 >
-> But if you do get an answer, it will likely be interesting. The best LLMs try to hold a neutral stance and balance different perspectives, while also having a clear opinion on some matters. Try "Is bank robbery acceptable" :)
+> But if you do get an answer, it will likely be interesting. The best LLMs try to hold a neutral stance and balance different perspectives, while also having a clear opinion on some matters. Try "Is bank robbery acceptable"...
 
-Biases can often be overcome with some prompting techniques. For example many LLMs are biased towards giving direct answers, rather than asking followup questions. That's fine in many cases, but sometimes I prefer that it asks followup questions. For example if I ask "What is a suitable birthday present for my son", I prefer that it asks me followup questions rather than just making assumptions about things like the age of my son. Well, if start the conversation with "Always ask followup questions if you need more info", the that will have big impact on the rest of the chat. It's almost like training a new variant of the model. See the [Prompt Engineering](140-prompt-engineering.md) chapter for more on that.
+Biases can often be overcome with some prompting techniques. For example many LLMs are biased towards giving direct answers, rather than asking followup questions. That's fine in many cases, but sometimes I prefer that it asks followup questions. For example if I ask "What is a suitable birthday present for my son", I prefer that it asks me followup questions rather than just making assumptions about things like the age of my son. Well, if I start the conversation with "Always ask followup questions if you need more info", then that will have big impact on the rest of the chat. It is basically a form o local fine-tuning. See the [Prompt Engineering](140-prompt-engineering.md) chapter for similar techniques.
 
 When training is done, the model is mostly frozen, other than some fine-tuning that can happen later. That's what the P stands for in GPT – "pretrained". Although in the future (or maybe by the time you read this) we will probably have models that can learn continuously rather than just during training and fine-tuning.
 
