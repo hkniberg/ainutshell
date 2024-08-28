@@ -24,8 +24,14 @@ AI models are similar, except that they get all the data shoved into their virtu
 
 ![](../.gitbook/assets/090-cut-the-rope.png)
 
-What will happen if I use the scissors? The model has probably not been trained on this exact scenario, yet it gave a pretty good answer:
+I asked:
 
+> **Prompt**  
+> What will happen if I use the scissors?
+
+The model has probably not been trained on this exact scenario, yet it gave a pretty good answer:
+
+> **Response**  
 > The image shows a pair of scissors cutting a rope or a wire of some sort, which is suspending an egg above a pot on a stove. If you were to use the scissors in the depicted manner, the egg would fall into the pot below, presumably to cook or to be part of a recipe being prepared.
 
 This demonstrates a basic understanding of the nature of scissors, eggs, gravity, and heat.
