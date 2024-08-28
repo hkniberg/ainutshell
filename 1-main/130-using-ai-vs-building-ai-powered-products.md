@@ -36,7 +36,7 @@ For example:
 - As an elearning site, you could add a chatbot to answer questions about the courses.
 - As a recruitment company, you could build AI-powered tools to help evaluate candidates.
 - As a restaurant, you could create an AI-driven menu recommendation system based on customer preferences and dietary restrictions.
-- If your company needs to deal with many invoices and RFPs (requests for proposals), you could build an AI-powered tool help analyze these.
+- If your company needs to deal with many invoices or contracts or other documents, you could build an AI-powered tool help analyze those.
 
 In each of these examples, your users interact with your product, and your product interacts with the model.
 
