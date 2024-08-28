@@ -64,7 +64,7 @@ OK that was the last cat picture, I promise!
 
 Audio to text models (sometimes called speech to text) can do things like voice transcriptions and meeting notes, which is very useful. When writing this book, I used speech to text (via the ChatGPT app) all the time, to capture my thoughts while I was out walking.
 
-Speech to text models have been around for a long time. But when OpenAI released their Whisper model, it raised the bar significantly. That model is incredibly good at understanding speech, even in noisy environments, and in multiple languages.
+Speech to text models have been around for a long time. But when OpenAI released their Whisper model (used by ChatGPT), it raised the bar significantly. That model is incredibly good at understanding speech, even in noisy environments, and in multiple languages.
 
 ![](../.gitbook/assets/070-audio-to-text.png)
 
@@ -73,8 +73,8 @@ Speech to text models have been around for a long time. But when OpenAI released
 Text to Audio models can generate music or other audio. For example:
 
 - If you need a jingle for a video:: "Upbeat jingle with a catchy tune and a slap bass solo in the middle"
-- If you are out walking: "Read this text out loud"
-- If you are making a scene in a video game: "People talking in a busy restaurant"
+- If you are out walking and want to listen to an article: "Read this text out loud: ..."
+- If you need ambient sounds for a scene in a video game: "People talking in a busy restaurant"
 - If you are evil: "That horrible screeching sound of chalk on a blackboard"
 
 ![](../.gitbook/assets/070-text-to-audio.png)
