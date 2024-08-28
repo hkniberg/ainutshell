@@ -2,21 +2,21 @@
 
 ![](../.gitbook/assets/120-human-and-ai_1.png)
 
-One important question is:
+One important question is:  
 Is human role X needed in the Age of AI?
 
-For example are Doctors needed? Developers? Lawyers? CEOs? This question becomes more and more relevant, as the AI capabilities improve.
+For example are Doctors needed? Developers? Lawyers? CEOs? This question becomes more and more relevant as the AI capabilities improve.
 
 ## AI as your colleague
 
-Some jobs will disappear for sure. But for most roles, I think we humans are still needed. Someone with domain knowledge needs to decide:
+Some jobs will disappear, yes. But for most roles, I think we humans are still needed. Someone with domain knowledge needs to decide:
 
 - What to ask the AI,
 - How to formulate the prompt,
 - What context needs to be provided,
 - How to evaluate the result.
 
-AI models aren’t perfect. They can be absolutely brilliant, but sometimes also terribly stupid. They can sometimes hallucinate and provide bogus information in a very convincing way.
+LLMs aren’t perfect. They can be absolutely brilliant, but sometimes also terribly stupid. They can sometimes hallucinate and provide bogus information in a very convincing way.
 
 - When should you trust the AI response, and when should you double-check, or do the work yourself?
 - What about legal compliance and data security? What information can we send to an AI model, and where is that data stored?
@@ -39,27 +39,29 @@ For example:
 - As a programmer, my AI colleague can help write, debug, and optimize code, allowing me to spend more time on the big picture - architecture and design - and interacting with my users.
 - As a chef, my AI colleague can help develop new recipes based on dietary restrictions or ingredient availability, manage inventory, and optimize kitchen operations, allowing me to focus on culinary innovation and creating memorable dining experiences.
 
-OK I confess, that last point was AI generated, couldn't resist. This list can go on and on. Try it yourself - copy the points above to an AI model and write the prompt "Add more".
+This list can go on and on. Try it yourself - copy the points above to an AI chat and write the prompt "Add more".
 
 ## What if your job is at risk?
 
-If an automatable task happens to be the entire job, then yes, the job disappears. This has happened throughout human history. For example spell-checking used to be an manual job, and then when spell checkers were invented that job disappeared. Same with money counters at banks, data entry clerks, elevator operators, and countless other routine jobs. I don't think many people miss those job though.
+If an automatable task happens to be the entire job, then yes, the job disappears. This has happened throughout human history. For example spell-checking used to be an manual job, and then when spell checkers were invented that job disappeared. Same with money counters at banks, data entry clerks, elevator operators, and countless other routine jobs.
 
-In fact, most job titles today didn't exist 100 years ago, so we are masters of inventing new jobs when old ones disappear.
+I don't think many people miss those job though. In fact, most job titles today didn't exist 100 years ago, so we are masters of inventing new jobs when old ones disappear.
 
-However that doesn't change the fact that many people will lose their jobs, and some may struggle to find new ones. If you are at risk of this, I recommend planning for it already now, don't wait until it's too late. For starters, learn how to use AI yourself. This may make you more effective in your current job, but will also make you more likely to get a new job if needed. The fact that you are reading this book is a good start!
+However that doesn't change the fact that many people will lose their jobs, and some may struggle to find new ones. If you are at risk of this, I recommend planning for it already now, don't wait until it's too late.
 
-For example let's say your job is to translate or proof-read documents. That job is at risk of being replaced by AI. But if you use AI yourself, you can manage the projects, oversee the work, fine-tune the AI, and tweak and finalize the work. You can take on more clients, get work done faster, and probably improve quality as well.
+For starters, learn how to use AI yourself. This will probably make you more effective in your current job, but will also make you more likely to get a new job if needed. The fact that you are reading this book is a good start!
+
+For example let's say your job is to translate or proof-read documents. That job is at risk of being replaced by AI. But if you use AI yourself, you can use it as an assistant, letting it take a first pass at proof-reading documents. As you get better at prompting it, it will get better at doing the job. Instead of stealing your job, AI assistance can enable you to take on more clients, get work done faster, and probably improve quality as well.
 
 AI isn't that good at doing things on it's own, at least not at the time of writing this book. It needs a human colleague to collaborate with. It needs you.
 
 Either that, or reskill yourself for a job that AI cannot do. Ironically, you can use AI to help identify those jobs.
 
-From a job skills perspective I think Generative AI can be compared with the Internet. Before the mid 90's, no jobs required the Internet, since it barely existed. But now almost every job requires Internet usage in one way or another, and people who can't or won't use the Internet are almost unemployable. I think it will be the same with Generative AI.
+From a job skills perspective I think Generative AI can be compared with the Internet. Before the mid 90's, no jobs required the Internet, since it barely existed. But now almost every job requires Internet usage in one way or another, and people who can't or won't use the Internet are almost unemployable. It will probably be the same with Generative AI.
 
 ## Recalibrate
 
-I think this famous tweet by my friend Kent Beck sums it up nicely:
+This famous tweet by my friend Kent Beck sums it up nicely:
 
 ![alt text](../.gitbook/assets/120-tweet.png)
 
@@ -69,7 +71,7 @@ Here's a simple exercise I recommend, either alone or with your team.
 
 1. Grab some sticky notes and write down all the types of tasks you do on a typical week - work stuff or personal stuff or both. Just take a look in your calendar. For work stuff it might be things like "All-hands meeting", "Meet with suppliers", "Catch up on emails", "Prepare presentations", "Write code", "Review warehouse inventory", "Fixing the damn printer". Or something very different, depending on your context.
 2. Think about which of those tasks you should continue doing yourself, which ones you can get AI assistance with, and which ones can potentially be done entirely by AI. Group the notes accordingly. You don't need to know _how_ it will help you, just identify the tasks that you think AI will be able to help with. The _how_ comes later.
-3. Image that you've managed to get AI help with many of these tasks. That will free up time, right? What will you do that the extra time? That's a nice thing to think about.What are the types of tasks you would love to have more time for? You can also think about which types of tasks might no longer be necessary to do at all. Group the notes accordingly.
+3. Image that you've managed to get AI help with many of these tasks. That will free up time, right? What will you do that the extra time? That's a nice thing to think about. What are the types of tasks you would love to have more time for? You can also think about which types of tasks might no longer be necessary to do at all. Group the notes accordingly.
 4. Take a step back, look at the board, and reflect. Or discuss with your team/boss/spouse/friend/etc.
 5. Decide where to start. Ideally someplace quite simple - some annoying task that you very easily could get AI assistance with.
 6. Experiment with how to get AI assistance with that task. If it turns out to be too difficult, try another one.
@@ -88,7 +90,7 @@ Or the fancier interactive version:
 
 > Interview me about my job, one question at a time, and then suggest how you can help me.
 
-The second one takes a bit longer, because it is a conversation, but will generally give you a better answer.
+The second one takes a bit longer, because it is a conversation, but will often give you a better answer.
 
 Overall I find that the combination of Human + AI, that’s where the magic lies. Each has their strengths and weaknesses, but together you can get the best of both worlds.
 
