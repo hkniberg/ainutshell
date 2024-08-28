@@ -4,11 +4,11 @@
 
 One growing trend is multi-modal AI products. Meaning they combine different models into one product, so you can work with text, images, audio, etc, without switching tools.
 
-ChatGPT was one of the first multimodal AI chat products. You can speak to it, and it can speak back. You can upload images, camera photos, and documents, and it can generate images. I used ChatGPT for all the examples below.
+ChatGPT was one of the first multimodal AI chat products. You can speak to it, and it can speak back. You can upload images, camera photos, and documents, and it can generate images.
+
+Here are some examples of what this can look like in practice.
 
 ## Example: Is my bacon done?
-
-Here's a silly example of multimodality.
 
 ![](../.gitbook/assets/080-bacon.png)
 
