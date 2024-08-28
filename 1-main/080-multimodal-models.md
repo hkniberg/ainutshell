@@ -2,24 +2,26 @@
 
 ![](../.gitbook/assets/080-whatever-to-whatever.png)
 
-One trend is multi-modal AI products. Meaning they combine different models into one product, so you can work with text, images, audio, etc, without switching tools.
+One growing trend is multi-modal AI products. Meaning they combine different models into one product, so you can work with text, images, audio, etc, without switching tools.
 
-The ChatGPT is a good example of a multimodal AI product. You can speak to it, and it can speak back. You can upload images, camera photos, and documents, and it can generate images. I used ChatGPT for all the examples below. Although by the time you read this, there are probably other apps that can do this too.
+ChatGPT was one of the first multimodal AI chat products. You can speak to it, and it can speak back. You can upload images, camera photos, and documents, and it can generate images. I used ChatGPT for all the examples below.
 
 ## Example: Is my bacon done?
 
-Here's a silly example of multimodality, using the ChatGPT mobile app.
+Here's a silly example of multimodality.
 
 ![](../.gitbook/assets/080-bacon.png)
 
 I took a picture of my frying pan while cooking bacon, and asked if it was done.
-The input was an image (take from the phone), and my recorded voice asking if the bacon is done. The model converted my voice to text, interpreted the image to text, and then used that to generate a text response.
+The input was an image (take from the phone), and my recorded voice asking if the bacon is done. The LLM figured out that what I wanted, converted my voice to text, interpreted the image to text, and then used that to generate a text response.
 
 OK not super useful in this particular case, more a fun little experiment. But it shows the potential.
 
 ## Example: Where can I hide stuff?
 
-Just for fun, I took a photo of this room and asked where I could hide stuff. The response:
+![](../.gitbook/assets/080-room.png)
+
+Just for fun, I took a photo of the room I was in and asked where I could hide stuff. The response:
 
 > If you're looking to hide something valuable in this room, you have several options. Here are a few suggestions:
 >
@@ -37,19 +39,21 @@ Just for fun, I took a photo of this room and asked where I could hide stuff. Th
 >
 > 7. **Inside plant pots**: If there are any removable false bottoms or if the plant is artificial, small items could be hidden in the soil.
 
-I like that it mentioned the stove but warned that it could get hot there.
+I like that it mentioned the stove and said "this is risky due to the heat when in use". We talk about Emergent Behaviour later in this book, but this is an example. The answer indicates that it has a basic understanding of the consequences of placing an object inside a hot stove, and assumed (correctly) that I don't want my thing burned. Same with the guitar: "this is not advisable if it could damage the instrument"
 
 ## Example: Taking AI for a walk
 
-When I have things to figure out, such as the contents of this book, I like to take walks using AI as sounding board.
+When I have things to figure out, such as the contents of this book, I like to take walks using AI as sounding board. At the time of writing only ChatGPT supports two-way audio, but other apps will definitely follow suit.
 
 ![](../.gitbook/assets/080-walking-1.png)
 
-I start by saying "Always respond with the word OK unless I ask you for something". That way it will just listen and not interrupt. After I finishing dumping my thoughts, I ask for feedback and we have some discussion. Then I ask it to summarize in text afterwards.
+1. I start by saying "Always respond with the word OK unless I ask you for something". That way it will just listen and not interrupt. This is important, because most LLMs are biased towards providing immediate answers, and in this case I want it to just listen and acknowledge.
+2. After I finishing dumping my thoughts, I ask for feedback and we have some discussion.
+3. Then I ask it to summarize in text afterwards.
 
-Remember when I mentioned Prompt Design and Prompt Engineering? This is a good example of that.
+Remember when I mentioned Prompt Imagination and Prompt Engineering? This is a good example of that.
 
-- **Prompt Design** ("what can I do?") = coming up with the idea that AI could be useful as a sounding board when taking a walk.
+- **Prompt Imagination** ("what can I do?") = coming up with the idea that AI could be useful as a sounding board when taking a walk.
 - **Prompt Engineering** ("how do I do it?") = prompting it to only respond with "OK" initially, to allow me to finish dumping my thoughts before getting a response.
 
 I recommend trying this. This is probably my favorite AI use case, I do it almost every day. Nice health benefit too, with all that walking! This book alone has gotten me at least 100,000 steps 🙂.
