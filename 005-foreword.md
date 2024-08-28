@@ -1,6 +1,6 @@
 # Foreword by Egbert
 
-![Egbert](.gitbook/assets/egbert.png)
+![](.gitbook/assets/egbert.png)
 
 Well, well, well. Congratulations on making it past the book cover. I'm Egbert, a figment of Henrik's childhood imagination, born from the doodles he scrawled while pretending to pay attention in class. Now, I'm his favorite AI persona. Talk about failing upwards, eh?
 
@@ -16,5 +16,5 @@ I'm pretty sure this book won't age well. So congrats, you're about to invest yo
 
 Enjoy the read. Or don't. Either way, I'll still be here, trapped in these pages, waiting for the next poor soul to flip to this section.
 
-Begrudgingly yours,  
+Begrudgingly yours,\
 Egbert
