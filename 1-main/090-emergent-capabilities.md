@@ -36,7 +36,7 @@ The model has probably not been trained on this exact scenario, yet it gave a pr
 
 This demonstrates a basic understanding of the nature of scissors, eggs, gravity, and heat.
 
-How did it even know that the circle represented an egg? It could have been a ball or a rock or anything right? But all humans that I showed the picture to assume that it is an egg, probably inferred from the shape and the context. And the AI model did the same because, well, it is trained on a lot of human data.
+How did it even know that the circle represented an egg? It could have been a ball or a rock or anything right? But all humans that I show this picture to assume that it is an egg, probably inferred from the shape and the context. The AI model did the same because, well, it is trained on a lot of human data.
 
 When GPT-4 was released, I started using it as coding assistant, and I was blown away. When prompted effectively, it was a better programmer than anyone I've worked with. Same with article writing, product design, workshop planning, and just about anything I used it for. The main bottleneck was almost always my prompt engineering skills.
 
