@@ -60,7 +60,7 @@ When I was getting started with using generative AI, I made a lot of incorrect a
 > **Prompt**  
 > I have problem with my team. I want you to take on the role of a master coach. Interview me about my problem, one question at a time. Keep asking questions until you start understanding the root cause. Then give me several suggestions, with pros and cons, and recommendation for where to start.
 
-I was amazed by the result. First it asked me a bunch of questions all at once, which was a bit overwhelming, so I added "One question at a time" to the prompt. After that it drove the conversation, interviewed me, and then came up with very useful suggestions, with pros and cons of each, and a recommendation for where to start. Just like a I asked.
+I was amazed by the result. First it asked me a bunch of questions all at once, which was a bit overwhelming, so I added "One question at a time" to the prompt. After that it drove the conversation, interviewed me, and then came up with very useful suggestions, with pros and cons of each, and a recommendation for where to start. Just like I asked.
 
 So all that time I thought the models were incapable of asking questions or driving a conversation. I thought they were hard-wired to answer questions immediately without asking for more info. But it turned out that that was just the _default behavior_ of the model. And the default behavior could easily be changed by, well, simply asking it!
 
@@ -93,11 +93,13 @@ This is a balancing act, because part of what makes AI models useful is that the
 
 Gen AI models are to some extent always trying to read your mind, trying to guess what you want. That's how they differ from programming languages. With programming languages you have to be very explicit. The compiler or interpreter will never guess what you want, if some information is missing it will simply fail. But if you tell a Gen AI model "write a cheerful goodnight story" it will make all kinds of guesses and assumptions. It will guess what length you want, what genre, what characters, what you mean by cheerful, what the target audience is, what format and tone, etc.
 
-In fact, this is one of the things that makes Gen AI models so powerful - that you don't have to write a complete, perfect specification. For example when building products, I sometimes write vague prompts like "Make this user interface look better" or "improve the code structure" and often get surprisingly useful results. One of the characteristics of a good AI model is that it knows when make assumptions and when to ask followup questions.
+ For example when building products, I sometimes write vague prompts like "Make this user interface look better" or "improve the code structure" and often get surprisingly useful results - as long as I provide the right code context (which happens automatically with tools like Cursor).
+ 
+So one of the characteristics of a good AI model is that it knows when make assumptions and when to ask followup questions.
 
 ![](../.gitbook/assets/140-questions-vs-assumptions.png)
 
-This is what human experts do too, right? If you consult a lawyer about a legal issue, they'll ask for details about your situation before offering advice. But they will also make some assumptions based on their experience. You normally don't need to tell a human expert "Feel free to ask followup questions".
+This is what human experts do too, right? If you consult a lawyer about a legal issue, they'll ask for details about your situation before offering advice. But they will also make some assumptions based on their experience. You normally don't need to tell a human expert "Feel free to ask followup questions", they'll do that anyway.
 
 So the prompt engineering technique of adding "Feel free to ask followup questions" is already becoming obsolete. However it doesn't hurt to add it anyway sometimes, especially if you are using a cheaper model that doesn't always do it automatically.
 

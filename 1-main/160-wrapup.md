@@ -1,6 +1,6 @@
 # Wrapup
 
-Congrats, you've gotten through the most important part of this book!
+Congrats, you've gotten through the main "In a nutshell" section of this book!
 You now have an overview of what Generative AI is, and you've gotten a bunch of concrete tips for how to survive and thrive in the Age of AI!
 
 Here are the key things I hope you will remember.
