@@ -8,7 +8,7 @@ They vary a lot in terms speed, capability, and cost. Some can be downloaded and
 
 ![](../.gitbook/assets/060-model-tradeoffs.png)
 
-Just keep in mind that you generally get what you pay for. At the time of writing, the free models are impressive and fun, but their use is quite limited. For example they tend to hallucinate a lot, and struggle with longer prompts or instructions. I find that a lot of people greatly underestimate the capability of good LLMs, because their first impression was spoiled by a free model.
+Just keep in mind that you generally get what you pay for. At the time of writing, the free models are impressive and fun, but their use is quite limited. For example they tend to hallucinate, and they lose quickly track when the prompt or chat history gets too long. I find that a lot of people greatly underestimate the capability of good LLMs, because their first impression was spoiled by a free model.
 
 With a free model you may just be getting a smart highschool student in your basement, rather than Einstein.
 
