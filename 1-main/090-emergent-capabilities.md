@@ -8,7 +8,7 @@ But as they became larger, and were trained on more data, they started gaining _
 
 ![](../.gitbook/assets/090-large-model.png)
 
-They could role-play, write poetry, write high quality code, discuss company strategy, provide legal and medical advice, coach, teach. Creative and intellectual things that only humans could do previously.
+They could role-play, write poetry, write high quality code, discuss company strategy, provide legal and medical advice, coach, teach. Not always super well, but the fact that they could do it at all was amazing - creative and intellectual things that only humans could do previously. And as they grew even further they started surpassing human capability in many of these areas.
 
 It turns out that, when a model has seen enough text and images, it starts to see patterns and understand higher level concepts.
 

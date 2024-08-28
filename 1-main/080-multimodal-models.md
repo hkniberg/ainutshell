@@ -21,7 +21,9 @@ OK not super useful in this particular case, more a fun little experiment. But i
 
 ![](../.gitbook/assets/080-room.png)
 
-Just for fun, I took a photo of the room I was in and asked where I could hide stuff. The response:
+Just for fun, I took a photo of the room I was in and asked where I could hide stuff.
+
+The response:
 
 > If you're looking to hide something valuable in this room, you have several options. Here are a few suggestions:
 >
@@ -39,7 +41,7 @@ Just for fun, I took a photo of the room I was in and asked where I could hide s
 >
 > 7. **Inside plant pots**: If there are any removable false bottoms or if the plant is artificial, small items could be hidden in the soil.
 
-I like that it mentioned the stove and said "this is risky due to the heat when in use". We talk about Emergent Behaviour later in this book, but this is an example. The answer indicates that it has a basic understanding of the consequences of placing an object inside a hot stove, and assumed (correctly) that I don't want my thing burned. Same with the guitar: "this is not advisable if it could damage the instrument"
+I like that it mentioned the stove and said "this is risky due to the heat when in use". We talk about Emergent Behaviour later in this book, but this is a good example. This response indicates that it has a basic understanding of the consequences of placing an object inside a hot stove, and assumed (correctly) that I don't want my thing burned. Same with the guitar: "this is not advisable if it could damage the instrument"
 
 ## Example: Taking AI for a walk
 
