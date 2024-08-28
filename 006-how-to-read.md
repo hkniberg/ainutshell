@@ -12,10 +12,6 @@ I recommend reading this from start to finish, since each chapter builds on the 
 
 These are independent chapters that dive into specific areas to provide inspiration and insights.
 
-{% content-ref url="1-main/050-training.md" %}
-[050-training.md](1-main/050-training.md)
-{% endcontent-ref %}
-
 For example:
 
 * Stories and case studies
