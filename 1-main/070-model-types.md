@@ -91,7 +91,7 @@ There are even Text to Video models that generate videos from a prompt. This is 
 
 Sooner or later we’ll have infinite movie series that autogenerate the next episode tailored to your tastes, as you are watching. "Gimme another episode! But with less gore and more drama! And make it a bit funnier".
 
-Make note, everyone who hated the ending of the last episode of Game of Thrones. Soon you can stop complaining and just ask it to generate another ending! Or another 5 endings. Maybe people will upload a bunch of alternative endings, and there will be endless votes and debates...
+> Make note, everyone who hated the ending of the last episode of Game of Thrones. Soon you can stop complaining and just ask it to generate another ending! Or another 100 endings. Maybe people will upload a bunch of alternative endings, and there will be endless votes and debates...
 
 Kind of interesting, but also a bit scary if you think about it. Have you ever been stuck on a movie series, and just couldn't stop watching? I bet you have. Well no matter how long the series is, at some point it actually _ends_! And then after a few minutes of disorientation/panic/mourning, you can actually get off the couch and get on with your life.
 
