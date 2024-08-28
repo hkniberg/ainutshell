@@ -12,11 +12,13 @@ They could role-play, write poetry, write high quality code, discuss company str
 
 It turns out that, when a model has seen enough text and images, it starts to see patterns and understand higher level concepts.
 
-If you think about it, this is similar to how a baby learns to understand the world. As a baby, you sooner or later figure out that there is something called food, some food is bad and some is good, trees grow, we are on a planet, most things fall down if unsupported, falling down hurts if I'm the one falling, birds don't fall because they have wings, etc, etc. Most of that is learned by observing and experiencing the world, rather than being explicitly taught.
+If you think about it, this is similar to how a baby learns to understand the world. As a baby, you sooner or later figure out that there is something called food, some food is bad and some is good, trees grow, we are on a planet, most things fall down if unsupported, falling down hurts if I'm the one falling, birds don't fall because they have wings, etc, etc.
+
+Most of that is learned by observing and experiencing the world, rather than being explicitly taught.
 
 ![](../.gitbook/assets/090-tree.png)
 
-Babys are natural scientists. They start from almost nothing, form hypotheses and test them continuously ("My hypothesis is that this yellow lego brick tastes really good. Now let's test!"). Except they cheat because they don't have to write scientific papers.
+Babys are natural scientists. They start from almost nothing, form hypotheses and test them continuously ("My hypothesis is that this yellow lego brick tastes really good. Now let's test!"). Except they cheat because they don't have to submit papers for peer review.
 
 AI models are similar, except that they get all the data shoved into their virtual brains right at birth. Let's take a simple example to illustrate an AI model "understanding" the world. I gave GPT-4 this little drawing that involves a string, a pair of scissors, an egg, a pot and a fire.
 
