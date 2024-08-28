@@ -20,7 +20,7 @@ Text to Image models will generate images. Describe what you want and an image g
 
 This isn't clip art. Each image is uniquely generated from scratch.
 
-For example here are four variants of the same ugly cat, with different facial expressions.
+For example here are four variants of the same ugly cat, with different facial expressions. The labels are my interpretation...
 
 ![](../.gitbook/assets/070-ugly-cat-x4.png)
 
