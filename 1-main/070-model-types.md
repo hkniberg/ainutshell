@@ -98,4 +98,4 @@ Kind of interesting, but also a bit scary if you think about it. Have you ever b
 But what if it _never ends_?!?!
 
 > ![](../.gitbook/assets/egbert-small.png) **Egbert's take**  
-> Ah, perfect! When aliens finally visit Earth, they'll find the remnants of human civilization: skeletons slumped on sofas, eyes fixed on screens. Cause of extinction? Starvation, because no one could tear themselves away from their personalized, never-ending Netflix series. That's how AI takes over the world!
+> Ah, perfect! When aliens finally visit Earth, they'll find the remnants of human civilization: skeletons slumped on sofas, eyes fixed on screens. Cause of extinction? Starvation, because no one could tear themselves away from their personalized, never-ending Netflix series. That's how AI takes over the world! Muahahahaaaaaaa! _cough_
