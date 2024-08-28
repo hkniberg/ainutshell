@@ -36,7 +36,9 @@ Or how about an ugly cat in a couch smoking a pipe?
 
 ## Image to Image
 
-Image to Image models can do things like transforming or combining images. Let's combine "Einstiein the Basement" with "Ugly Cat". Sorry that you won't be able to unsee this...
+Image to Image models can do things like transforming or combining images. Let's combine "Einstiein the Basement" with "Ugly Cat".
+
+WARNING: The result may give you nightmares....
 
 ![](../.gitbook/assets/070-image-to-image.png)
 
