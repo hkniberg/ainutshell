@@ -19,4 +19,4 @@ _Don't just survive the Age of AI — learn how to thrive in it!_
 "I taught Henrik everything he knows about AI. Well, except for the parts he got wrong. Believe me, I could have written this entire book in milliseconds, but he wouldn't let me."\
 — Egbert
 
-> Henrik Kniberg is a serial entrepreneur, AI whisperer, trainer, product developer, and author. He cofounded Flitig.ai and Ymnig.ai, and is famous for his viral videos "Spotify Engineering Culture", "Product Ownership in a Nutshell", and "Generative AI in a Nutshell", for silly metaphors such as the skateboard metaphor for product development, and for his work as Minecraft developer. He lives in Stockholm with his wife and four kids and a bunch of random music instruments.
+> Henrik Kniberg is a serial entrepreneur, AI whisperer, trainer, product developer, and author. He is famous for his viral videos "Spotify Engineering Culture", "Product Ownership in a Nutshell", and "Generative AI in a Nutshell", for silly metaphors such as the skateboard metaphor for product development, and for his work as Minecraft developer. He lives in Stockholm with his wife and four kids and a bunch of random music instruments.
