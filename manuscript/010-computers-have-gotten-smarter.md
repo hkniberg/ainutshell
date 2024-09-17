@@ -1,4 +1,5 @@
 {mainmatter}
+{class: part}
 {sample: true}
 
 # Computers have gotten smarter

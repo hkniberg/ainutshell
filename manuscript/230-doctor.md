@@ -1,4 +1,5 @@
-# Use case: AI Doctor #
+{class: part}
+# Use case: AI Doctor
 
 Most model providers say that you shouldn't use their models to provide medical advice. This is likely because:
 
