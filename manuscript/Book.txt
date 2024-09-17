@@ -1,3 +1,5 @@
 005-foreword.md
 006-how-to-read.md
 010-computers-have-gotten-smarter.md
+020-einstein-in-your-basement.md
+030-terminology.md

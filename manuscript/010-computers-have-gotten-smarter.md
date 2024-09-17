@@ -1,3 +1,5 @@
+{sample: true}
+
 # Computers have gotten smarter
 
 ![](resources/010-calculator-brain.png)

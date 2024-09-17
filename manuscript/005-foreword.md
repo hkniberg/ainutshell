@@ -1,3 +1,5 @@
+{sample: true}
+
 # Foreword by Egbert
 
 ![](resources/egbert.png)

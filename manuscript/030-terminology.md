@@ -1,6 +1,6 @@
 # Terminology
 
-![](../.gitbook/assets/030-terminology.png)
+![](resources/030-terminology.png)
 
 OK enough fluffy metaphors, let’s clarify some terms. I know, I promised this book would contain minimum jargon and buzzwords. But these terms are pretty important.
 
@@ -19,6 +19,3 @@ Technically ChatGPT is more than just an LLM, since it also handles images. That
 Now there are lots of other similar products such as Claude, MS Copilot, Perplexity, and dozens more. They are continuously improving and leap-frogging each other in terms of capabilities and features.&#x20;
 
 In the rest of this book I will use the term "AI chat" as a collective term for these kinds of Generative AI chat applications.
-
-
-

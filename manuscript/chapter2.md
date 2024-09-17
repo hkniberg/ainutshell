@@ -1,3 +1,0 @@
-# Chapter 2
-
-This is chapter 2

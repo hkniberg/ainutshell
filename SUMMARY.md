@@ -9,8 +9,8 @@
 ## In a nutshell
 
 - [Computers have gotten smarter](manuscript/010-computers-have-gotten-smarter.md)
-- [Einstein in Your Basement](1-main/020-einstein-in-your-basement.md)
-- [Terminology](1-main/030-terminology.md)
+- [Einstein in Your Basement](manuscript/020-einstein-in-your-basement.md)
+- [Terminology](manuscript/030-terminology.md)
 - [How it works](1-main/040-how-it-works.md)
 - [Training](1-main/050-training.md)
 - [Models, models everywhere](1-main/060-models-everywhere.md)

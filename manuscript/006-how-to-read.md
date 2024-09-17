@@ -1,3 +1,5 @@
+{sample: true}
+
 # How to read this book
 
 This book has two sections:
