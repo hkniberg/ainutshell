@@ -2,7 +2,7 @@
 
 ![](resources/010-calculator-brain.png)
 
-Ever since computers were invented they’ve really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.&#x20;
+Ever since computers were invented they’ve really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.
 
 But something incredible is happening, something I never expected would happen in my lifetime. Computers have started gaining the ability to learn & think & communicate, in a similar way to us! They can do creative, intellectual work that previously only humans could do.
 
