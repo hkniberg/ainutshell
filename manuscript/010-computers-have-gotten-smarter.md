@@ -1,10 +1,10 @@
 # Computers have gotten smarter
 
-![](../.gitbook/assets/010-calculator-brain.png)
+![](resources/010-calculator-brain.png)
 
 Ever since computers were invented they’ve really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.&#x20;
 
-But something incredible is happening, something I never expected would happen in my lifetime. Computers have started gaining the ability to learn & think & communicate, in a similar way to us!  They can do creative, intellectual work that previously only humans could do.
+But something incredible is happening, something I never expected would happen in my lifetime. Computers have started gaining the ability to learn & think & communicate, in a similar way to us! They can do creative, intellectual work that previously only humans could do.
 
 OK are they really _thinking_? Well, that's a philosophical question, since there is no widely accepted definition of "thinking" or "intelligence". But in practical terms - computers are increasingly able to do tasks that previously required human intelligence, creativity, and intuition.
 

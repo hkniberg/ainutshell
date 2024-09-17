@@ -3,12 +3,12 @@
 - [README](README.md)
 - [Front cover](000-front-cover.md)
 - [Back cover](001-back-cover.md)
-- [Foreword by Egbert](005-foreword.md)
-- [How to read this book](006-how-to-read.md)
+- [Foreword by Egbert](manuscript/005-foreword.md)
+- [How to read this book](manuscript/006-how-to-read.md)
 
 ## In a nutshell
 
-- [Computers have gotten smarter](1-main/010-computers-have-gotten-smarter.md)
+- [Computers have gotten smarter](manuscript/010-computers-have-gotten-smarter.md)
 - [Einstein in Your Basement](1-main/020-einstein-in-your-basement.md)
 - [Terminology](1-main/030-terminology.md)
 - [How it works](1-main/040-how-it-works.md)
