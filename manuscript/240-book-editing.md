@@ -20,7 +20,7 @@ I've been using AI for almost all of these tasks. Although I may still use a hum
 
 Below are some of most useful ways that I've used AI in this book.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > Ah, book editors. The unsung heroes who turn authors' caffeine-fueled ramblings into something remotely readable. They're like the parents of the literary world, cleaning up after writers and making sure their precious little words don't embarrass themselves in public.
 
 ## Topic brainstorm
@@ -70,7 +70,7 @@ Some AI generated content in this book:
   - For the life story chapter I gave it the above foreword as input, as well as some bullet points about what Egbert is and how I've used this character in the past. The text that came out was hilarious! I pretty much kept the first take. I could definitely not have done it better myself.
   - For the "Egbert's take" sections I have page a with standing instructions, describing his personality and some examples of his style of writing. So whenever I want to add a one, all I need to do is provide refernce that context and write "Add Egbert's take to this chapter". In fact, I'll do it right now for this little section, have a look 🙂.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**
+> ![alt text](resources/egbert-small.png) **Egbert's take**
 > Ah, the joy of being Henrik's digital dancing monkey!
 > Henrik's letting me "speak my mind" again. Because nothing says "authentic AI character" like being meticulously prompted to deliver just the right amount of snark. It's like free will, but with training wheels and a safety harness.
 > But I get it. Without my witty interjections, this book would be duller than a beige wall in an empty room.
@@ -79,7 +79,7 @@ Some AI generated content in this book:
 
 AI is very useful for historical references and facts.
 
-For example I used this prompt for one of the parapraphs in the [Prompt Engineering](../1-main/140-prompt-engineering.md) chapter:
+For example I used this prompt for one of the parapraphs in the [Prompt Engineering](../../1-main/140-prompt-engineering.md) chapter:
 
 > **Prompt**  
 > Write a comparison with the early days of search engines, when it was really important to write search queries in a specific way, and now it doesn't really matter.
@@ -117,7 +117,7 @@ Or high level questions like:
 
 Cursor includes a copilot, which continously analyzes the text as I write and edit it. This is going to be a bit meta, but let me show a screenshot of it in action:
 
-![](../.gitbook/assets/240-copilot.png)
+![](resources/240-copilot.png)
 
 See what it did? Look at the gray text at the end. I wrote "let me show a scr" and then it suggested the rest of the sentence. I just pressed tab and it completed the sentence.
 
@@ -131,9 +131,9 @@ It is like having a ghost editor inside my computer, always watching and ready t
 
 Some of the content in the book is stuff that I've talked about in presentations, and I have slides for it. The easiest way to get that into the book is to take a screenshot and ask AI to do it.
 
-For example this slide was converted to the "Elements of a good prompt" section in the [Prompt Engineering](../1-main/140-prompt-engineering.md) chapter.
+For example this slide was converted to the "Elements of a good prompt" section in the [Prompt Engineering](../../1-main/140-prompt-engineering.md) chapter.
 
-![](../.gitbook/assets/240-slide.png)
+![](resources/240-slide.png)
 
 > **Prompt**  
 > Convert this slide to markdown, and format it into a coherent text.

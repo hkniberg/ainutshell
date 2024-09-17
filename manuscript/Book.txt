@@ -3,3 +3,6 @@
 010-computers-have-gotten-smarter.md
 020-einstein-in-your-basement.md
 030-terminology.md
+230-doctor.md
+235-nutritionist.md
+240-book-editing.md

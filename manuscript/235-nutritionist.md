@@ -28,35 +28,35 @@ So, whenever I see any kind of food or ingredient that I'm curious about, I just
 
 For example I asked gave her this photo:
 
-![](../.gitbook/assets/235-meal-1.png)
+![](resources/235-meal-1.png)
 
 The response:
 
-![](../.gitbook/assets/235-meal-1-response.png)
+![](resources/235-meal-1-response.png)
 
 OK so not that great. But she gave very concrete recommendations, whis is good!
 
 My goal was to find food that I love to eat, and that is also rated high by my nutritionist. After a while I started getting pretty good at it! For example this:
 
-![](../.gitbook/assets/235-meal-2.png)
+![](resources/235-meal-2.png)
 
 Her comment:
 
-![](../.gitbook/assets/235-meal-2-response.png)
+![](resources/235-meal-2-response.png)
 
 7/10! Not perfect, but good enough.
 
 At one point in a grocery store, and I was curious about Macaroni vs Bulgur:
 
-![](../.gitbook/assets/235-macaroni-vs-bulgur.png)
+![](resources/235-macaroni-vs-bulgur.png)
 
 Interesting! So now Bulgur is my default choice for carbohydrates. Before it used to be rice or pasta. Does't feel like much of a sacrifice.
 
 How about a snack?
 
-![](../.gitbook/assets/235-snacks.png)
+![](resources/235-snacks.png)
 
-![](../.gitbook/assets/235-snack-response.png)
+![](resources/235-snack-response.png)
 
 OK that was fairly predictable. But it's nice to learn also WHY something is good or bad for my health.
 
@@ -64,11 +64,11 @@ I haven't _entirely_ stopped eating chips and cookies entirely, I've just reduce
 
 Once I has out for lunch with some colleagues. We were on a street with several restaurants, wondering where to go. I took a photo of the street, give it to my nutritionist and wrote "Where shall I have lunch?". She responded:
 
-![](../.gitbook/assets/235-sushi.png)
+![](resources/235-sushi.png)
 
 Here I took a picture of a fruit yoghurt.
 
-![](../.gitbook/assets/235-yoghurt.png)
+![](resources/235-yoghurt.png)
 
 She suggested I may plain yoghurt and add fresh fruits instead, which I did. Great idea, why didn't I think of that myself?
 
