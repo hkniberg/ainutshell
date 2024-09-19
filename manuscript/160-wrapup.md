@@ -11,5 +11,3 @@ Here are the key things I hope you will remember.
 - Prompt Engineering/Design is a crucial skill. Like all new skills, just accept that you will suck at it at first, but you will improve over time with deliberate practice.
 
 So my best tip is, experiment. Make this part of your day-to-day life, and the learning happens automatically.
-
-In the rest of this book we'll dive into some more advanced topics, concrete tips and examples, and some silliness. Some may be relevant to you, some not, so I suggest you browse the chapter names and pick and choose what you want to read.

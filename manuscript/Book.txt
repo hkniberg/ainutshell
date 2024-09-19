@@ -1,5 +1,5 @@
+003-reviewer-guide.md
 005-foreword.md
-006-how-to-read.md
 009-part1.md
 010-computers-have-gotten-smarter.md
 020-einstein-in-your-basement.md
