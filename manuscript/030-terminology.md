@@ -1,3 +1,5 @@
+{sample: true}
+
 # Terminology
 
 ![](resources/030-terminology.png)

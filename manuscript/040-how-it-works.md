@@ -1,3 +1,5 @@
+{sample: true}
+
 # How it works
 
 ![](resources/040-neural-network.png)

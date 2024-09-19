@@ -1,3 +1,5 @@
+{sample: false}
+
 # Training
 
 A large language model may have billions or even trillions of parameters inside its neural network. That's why they are called Large!
