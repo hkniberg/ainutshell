@@ -1,3 +1,5 @@
+{sample: true}
+
 # Einstein in Your Basement
 
 ![](resources/020-einstein-basement.png)

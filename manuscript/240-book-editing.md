@@ -1,3 +1,5 @@
+{sample: true}
+
 # Use case: Book editor
 
 This is primarily a human-written book, but I've been using AI as support in a similar way that I would use a human editor.
