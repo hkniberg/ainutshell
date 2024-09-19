@@ -295,7 +295,7 @@ An epilogue will be created in a later step, not now.
 
 ### Prompt used to generate the ending
 
-````
+```
 You are the game leader of a detective mystery game that has just ended.
 
 Here are details about the crime mystery, between tripple quotes:
@@ -321,7 +321,6 @@ The epilogue and newspaper article should emphasize if any innocent characters w
 If any guilty characters were missed in the accusation, the epilogue should mention that,
 but without mentioning exactly who.
 ```
-````
 
 ### Prompt used for the admin chat
 

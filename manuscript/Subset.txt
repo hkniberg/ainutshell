@@ -1,2 +1,1 @@
-470-jimbo.md
-480-journalist.md
+490-whodunit.md
