@@ -1,3 +1,6 @@
 250-art-critic.md
 290-other-use-cases.md
 410-meta.md
+420-almost-used-ai.md
+450-buzzwords.md
+300-refusing-to-cause-damage.md
