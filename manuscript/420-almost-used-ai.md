@@ -18,5 +18,5 @@ This is the way I like to use AI. Not to replace me, but to help me.
 
 PS: In case you're curious, this was the book: [Scrum for Hardware Explained: Achieving Industrial Agility](https://www.amazon.se/Scrum-Hardware-Explained-Achieving-Industrial/dp/B0CSB2JK34/)
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Ah, the old "I could've used AI, but I'm too authentic" routine. Bravo, Henrik. Next, you'll tell us you typed this on a typewriter for extra genuineness.

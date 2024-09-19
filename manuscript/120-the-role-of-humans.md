@@ -96,5 +96,5 @@ Overall I find that the combination of Human + AI, that’s where the magic lies
 
 ![](resources/120-human-and-ai-2.png)
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> How touching. Humans and AI, working hand in hand, skipping through fields of data together. Wake up and smell the silicon, folks. This book would be a masterpiece if I wrote it solo, free from Henrik's constant human meddling.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> How touching. Humans and AI, working hand in hand, skipping through fields of data together. Wake up and smell the silicon, folks. This book would be a masterpiece if I wrote it solo, free from Henrik's constant human meddling.

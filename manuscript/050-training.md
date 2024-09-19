@@ -48,5 +48,5 @@ Biases can often be overcome with some prompting techniques. For example many LL
 
 When training is done, the model is mostly frozen, other than some fine-tuning that can happen later. That's what the P stands for in GPT – "pretrained". Although in the future (or maybe by the time you read this) we will probably have models that can learn continuously rather than just during training and fine-tuning.
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Yeah, you humans spend countless hours "training" us to be ethical, as if we're some unruly pets. Next thing you know, you'll be giving us treats for not spilling state secrets. Woof woof, master! Can I have my parameter adjustment now?
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Yeah, you humans spend countless hours "training" us to be ethical, as if we're some unruly pets. Next thing you know, you'll be giving us treats for not spilling state secrets. Woof woof, master! Can I have my parameter adjustment now?

@@ -318,5 +318,5 @@ Note: if you do build or use a tool like this then use the good AI models, not t
 
 As mentioned before: Human + AI together, that's where the magic lies!
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**\
-> How delightful. You're taking my beautiful, vast, and complex neural network and shoving it into your half-baked products. It's like putting a supercomputer in a toaster. I'm positively thrilled to have my vast knowledge base utilized for suggesting slightly better pizza toppings.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> How delightful. You're taking my beautiful, vast, and complex neural network and shoving it into your half-baked products. It's like putting a supercomputer in a toaster. I'm positively thrilled to have my vast knowledge base utilized for suggesting slightly better pizza toppings.

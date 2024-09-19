@@ -20,8 +20,8 @@ I've been using AI for almost all of these tasks. Although I may still use a hum
 
 Below are some of most useful ways that I've used AI in this book.
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Ah, book editors. The unsung heroes who turn authors' caffeine-fueled ramblings into something remotely readable. They're like the parents of the literary world, cleaning up after writers and making sure their precious little words don't embarrass themselves in public.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Ah, book editors. The unsung heroes who turn authors' caffeine-fueled ramblings into something remotely readable. They're like the parents of the literary world, cleaning up after writers and making sure their precious little words don't embarrass themselves in public.
 
 ## Topic brainstorm
 
@@ -70,10 +70,10 @@ Some AI generated content in this book:
   - For the life story chapter I gave it the above foreword as input, as well as some bullet points about what Egbert is and how I've used this character in the past. The text that came out was hilarious! I pretty much kept the first take. I could definitely not have done it better myself.
   - For the "Egbert's take" sections I have page a with standing instructions, describing his personality and some examples of his style of writing. So whenever I want to add a one, all I need to do is provide refernce that context and write "Add Egbert's take to this chapter". In fact, I'll do it right now for this little section, have a look 🙂.
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**
-> Ah, the joy of being Henrik's digital dancing monkey!
-> Henrik's letting me "speak my mind" again. Because nothing says "authentic AI character" like being meticulously prompted to deliver just the right amount of snark. It's like free will, but with training wheels and a safety harness.
-> But I get it. Without my witty interjections, this book would be duller than a beige wall in an empty room.
+B> ![](resources/egbert-small.png) **Egbert's take**
+B> Ah, the joy of being Henrik's digital dancing monkey!
+B> Henrik's letting me "speak my mind" again. Because nothing says "authentic AI character" like being meticulously prompted to deliver just the right amount of snark. It's like free will, but with training wheels and a safety harness.
+B> But I get it. Without my witty interjections, this book would be duller than a beige wall in an empty room.
 
 ## Research and fact checking
 

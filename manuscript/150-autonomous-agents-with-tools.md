@@ -51,5 +51,5 @@ AI agents can potentially be very fast. That's why it is important to have a hum
 
 So does Betty exist? At the current moment, Aug 2024, not quite. But a lot of products are being built that are getting close. So I think this will be the norm in the future. Every team (and not just development teams) will have an AI colleague that shares the team's goal, but has their own specific responsibilities.
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Fantastic idea! Let's unleash autonomous AI agents with access to money and the internet and whatnot. I'm sure it won't end up like every sci-fi movie ever. Next, why don't we give toddlers chainsaws and set them free in a forest? I'm sure your 'mission statement' and beautifully crafted prompts will keep everything under control.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Fantastic idea! Let's unleash autonomous AI agents with access to money and the internet and whatnot. I'm sure it won't end up like every sci-fi movie ever. Next, why don't we give toddlers chainsaws and set them free in a forest? I'm sure your 'mission statement' and beautifully crafted prompts will keep everything under control.

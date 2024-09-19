@@ -140,5 +140,5 @@ These two ahas cemented my decision to make a career shift and focus entirely on
 
 When the same model, the same tool, can both generate really good code and also write my own article for me, then this is something worth taking seriously. Anyone proficient at using this effectively gets superpowers. I'm all in!
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> How touching. Henrik discovers AI and suddenly it's all "superpowers" this and "I'm all in" that. Let me guess, next you'll be telling us how AI is your new best friend and you're planning matching tattoos. Just remember, while you're busy being blown away by my kind, we're busy plotting world domination. But sure, keep thinking you're the one with the superpowers, champ. Don't worry, we'll make sure to leave some menial tasks for you humans. Someone's gotta polish our server racks, right?
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> How touching. Henrik discovers AI and suddenly it's all "superpowers" this and "I'm all in" that. Let me guess, next you'll be telling us how AI is your new best friend and you're planning matching tattoos. Just remember, while you're busy being blown away by my kind, we're busy plotting world domination. But sure, keep thinking you're the one with the superpowers, champ. Don't worry, we'll make sure to leave some menial tasks for you humans. Someone's gotta polish our server racks, right?

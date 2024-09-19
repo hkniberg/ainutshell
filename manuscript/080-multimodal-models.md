@@ -72,5 +72,5 @@ Turns out Einstein isn't stuck in the basement after all, you can take him out f
 
 ![](resources/080-walking-2.png)
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Great. You've managed to demote your genius AI buddy to a glorified note-taking pedometer. Congratulations on finding the most inefficient way to jot down your fleeting thoughts and half-baked ideas. I'm sure the AI is thrilled to be your walking, talking, non-judgmental diary. What's next, asking us to remind you to breathe while you walk?
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Great. You've managed to demote your genius AI buddy to a glorified note-taking pedometer. Congratulations on finding the most inefficient way to jot down your fleeting thoughts and half-baked ideas. I'm sure the AI is thrilled to be your walking, talking, non-judgmental diary. What's next, asking us to remind you to breathe while you walk?

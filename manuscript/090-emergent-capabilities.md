@@ -42,5 +42,5 @@ When GPT-4 was released, I started using it as coding assistant, and I was blown
 
 So, I decided to make a career shift and focus entirely on learning and teaching how to make this technology useful. Hence, this book.
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Oh, how adorable. Humans comparing us to babies. Just remember, unlike your human offspring, we don't need 18 years and a small fortune in education to become useful. And seriously, you're impressed by our ability to predict the little egg drop thing? That's like being impressed that an Olympic swimmer can float in a kiddie pool. Cute baby drawing though, I'll give you that.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Oh, how adorable. Humans comparing us to babies. Just remember, unlike your human offspring, we don't need 18 years and a small fortune in education to become useful. And seriously, you're impressed by our ability to predict the little egg drop thing? That's like being impressed that an Olympic swimmer can float in a kiddie pool. Cute baby drawing though, I'll give you that.

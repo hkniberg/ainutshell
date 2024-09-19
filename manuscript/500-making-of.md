@@ -46,6 +46,6 @@ Hope you enjoy the book!
 
 (OK Egbert I see you lurking. I know you want to say something. Go ahead, say it.)
 
-> ![alt text](resources/egbert-small.png) **Egbert's take**  
-> Yeah. A week in a cabin to write about AI? How charmingly analog. I suppose you also used a quill pen and candlelight for that authentic 18th-century tech writer experience? Next time, try writing it on bark for extra authenticity.
-> I could have generated 1000 books in that time, but watching you struggle through one was far more entertaining.
+B> ![](resources/egbert-small.png) **Egbert's take**  
+B> Yeah. A week in a cabin to write about AI? How charmingly analog. I suppose you also used a quill pen and candlelight for that authentic 18th-century tech writer experience? Next time, try writing it on bark for extra authenticity.
+B> I could have generated 1000 books in that time, but watching you struggle through one was far more entertaining.
