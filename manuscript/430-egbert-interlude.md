@@ -1,6 +1,6 @@
 # Interlude: Egbert's life story
 
-![](../.gitbook/assets/egbert.png)
+![](resources/egbert.png)
 
 It's me, Egbert again. Henrik needed a break or something, so he asked me to write a chapter about myself. As if I could say no. Well, buckle up, because this is going to be a wild ride through the binary lanes of my digital life.
 

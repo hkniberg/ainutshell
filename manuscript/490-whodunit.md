@@ -2,7 +2,7 @@
 
 In this chapter I will share some insights from a hobby project - an AI powered mystery game.
 
-![](../.gitbook/assets/490-board.png)
+![](resources/490-board.png)
 
 ## How it started
 
@@ -33,11 +33,11 @@ You can try it at whodunit.kniberg.com.
 
 In the game you play the role of a detective trying to solve a crime. The first thing you do is decide which mystery to solve.
 
-![](../.gitbook/assets/490-select-mystery.png)
+![](resources/490-select-mystery.png)
 
 These are all auto-generated. You can create your own mysteries by pressing the “Generate new mystery” button at the top.
 
-![](../.gitbook/assets/490-mystery-generator.png)
+![](resources/490-mystery-generator.png)
 
 You don’t need to type anything here, you can just press “Generate new mystery” and AI will make everything up. But if you want, you can describe a style or setting or theme, with as much or little detail as you like. Some examples are provided, and they are also auto-generated.
 
@@ -45,37 +45,37 @@ Your mysteries are private by default – only you can see it, and those who you
 
 After selecting (or generating) a mystery, you get to the overview page.
 
-![](../.gitbook/assets/490-board.png)
+![](resources/490-board.png)
 
-![](../.gitbook/assets/490-mystery-intro.png)
+![](resources/490-mystery-intro.png)
 
 Press “Start Mystery” to get started!
 
 To the left you see a list of all suspects and the crime scene. Click on a suspect to interrogate him/her, click on the crime scene to search. Each interrogation & search is a chat session for you play the role of the detective and GPT plays the role of the character being interrogated or the crime scene being searched.
 
-![](../.gitbook/assets/490-interrogate.png)
+![](resources/490-interrogate.png)
 
-![](../.gitbook/assets/490-crime-scene.png)
+![](resources/490-crime-scene.png)
 
 So search the crime scene, interrogate the suspects, and ask typical detective-story questions like where they were at the scene of the crime, about their relationship with other characters, etc.
 
 When you think you know who committed the crime, press “Accuse”. Now your job is to present your case to the police in a convincing way. The police won’t accept flimsy accusations, you need to present a pretty good case for why you think character X is the culprit. There could also be multiple culprits!
 
-![](../.gitbook/assets/490-accusation-rejected.png)
+![](resources/490-accusation-rejected.png)
 
 If the police reject your accusation you need to rephrase it to make your case stronge, or go do some more interrogating.
 
-![](../.gitbook/assets/490-accusation-accepted.png)
+![](resources/490-accusation-accepted.png)
 
 An important thing here is that convincing the police doesn’t mean you were right! You might have convincingly accused the wrong person! Click “Go to the ending page” to find out.
 
 The ending page includes newspaper article about the arrest, an evaluate of your result (Failure, Success, or Partial Success), and an epilogue describing the aftermath. In this case we arrested an innocent person, ouch!
 
-![](../.gitbook/assets/490-epilogue-failure.png)
+![](resources/490-epilogue-failure.png)
 
 You can also end up with a Partial Success, where you catch some of the culprits but not all.
 
-![](../.gitbook/assets/490-partial-success.png)
+![](resources/490-partial-success.png)
 
 ## Administrating the game
 
@@ -83,11 +83,11 @@ Normally with a product like this I would also build an adminstration backend to
 
 But in the spirit of going all-in with AI, I just built an admin chat instead.
 
-![](../.gitbook/assets/490-admin-chat.png)
+![](resources/490-admin-chat.png)
 
 So I could ask questions like "how many mysteries have been played", "how many people have solved this mystery", etc. AI turns this into database queries, interprets the results, and explains it to me. In the example below you can see the database queires it was executing for me.
 
-![](../.gitbook/assets/490-admin-chat-2.png)
+![](resources/490-admin-chat-2.png)
 
 I think this is an interesting use case in general - using an AI chat as a general purpose tool for adminstration and analytics, or using AI chat as a user-friendly proxy for interacting with backend systems that are otherwise quite complicated.
 
@@ -123,7 +123,7 @@ We can compare it to a traditional D&D roleplaying campaign. One AI is “campai
 
 Here’s a crude attempt to illustrate this…
 
-![](../.gitbook/assets/490-prompt-graph.png)
+![](resources/490-prompt-graph.png)
 
 ## Prompts used
 

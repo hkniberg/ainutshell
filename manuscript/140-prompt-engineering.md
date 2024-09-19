@@ -68,13 +68,13 @@ So all that time I thought the models were incapable of asking questions or driv
 
 There are plenty of courses, books, videos, and articles to help you learn this.
 
-This book also contains a chapter called [Prompt Engineering Techniques](../2-extra/460-prompt-engineering-techniques.md), with more specific tips and examples.
+This book also contains a chapter called [Prompt Engineering Techniques](460-prompt-engineering-techniques.md), with more specific tips and examples.
 
 But the most important thing is to practice, and learn by doing. Try using AI for all kinds of things, even silly things, or things that AI isn't good at (although it may surprise you). By toying around and testing the limits you will build your skills.
 
 A nice side effect is that you will become better at communicating in general, since Prompt Engineering is really all about clarity and effective communication.
 
-![](../.gitbook/assets/140-people-talking.png)
+![](resources/140-people-talking.png)
 
 ## Will prompt engineering still matter when models improve?
 
@@ -93,11 +93,11 @@ This is a balancing act, because part of what makes AI models useful is that the
 
 Gen AI models are to some extent always trying to read your mind, trying to guess what you want. That's how they differ from programming languages. With programming languages you have to be very explicit. The compiler or interpreter will never guess what you want, if some information is missing it will simply fail. But if you tell a Gen AI model "write a cheerful goodnight story" it will make all kinds of guesses and assumptions. It will guess what length you want, what genre, what characters, what you mean by cheerful, what the target audience is, what format and tone, etc.
 
- For example when building products, I sometimes write vague prompts like "Make this user interface look better" or "improve the code structure" and often get surprisingly useful results - as long as I provide the right code context (which happens automatically with tools like Cursor).
- 
+For example when building products, I sometimes write vague prompts like "Make this user interface look better" or "improve the code structure" and often get surprisingly useful results - as long as I provide the right code context (which happens automatically with tools like Cursor).
+
 So one of the characteristics of a good AI model is that it knows when make assumptions and when to ask followup questions.
 
-![](../.gitbook/assets/140-questions-vs-assumptions.png)
+![](resources/140-questions-vs-assumptions.png)
 
 This is what human experts do too, right? If you consult a lawyer about a legal issue, they'll ask for details about your situation before offering advice. But they will also make some assumptions based on their experience. You normally don't need to tell a human expert "Feel free to ask followup questions", they'll do that anyway.
 

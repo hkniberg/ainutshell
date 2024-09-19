@@ -1,6 +1,6 @@
 # The role of humans
 
-![](../.gitbook/assets/120-human-and-ai_1.png)
+![](resources/120-human-and-ai_1.png)
 
 One important question is:  
 Is human role X needed in the Age of AI?
@@ -25,7 +25,7 @@ A human expert is needed to make these judgement calls, and compensate for the w
 
 I recommend thinking of AI as your colleague. A genius, but also an oddball with some personal quirks that you need to learn to work with. You need to recognize when your genius colleague is drunk.
 
-![](../.gitbook/assets/120-drunk-einstein.png)
+![](resources/120-drunk-einstein.png)
 
 ## Task automation, not job automation
 
@@ -63,7 +63,7 @@ From a job skills perspective I think Generative AI can be compared with the Int
 
 This famous tweet by my friend Kent Beck sums it up nicely:
 
-![alt text](../.gitbook/assets/120-tweet.png)
+![alt text](resources/120-tweet.png)
 
 We all need to recalibrate, and take a careful look at how we spend our time. Which of your skills have dropped in value? Which remaining skills are more important than ever?
 
@@ -76,7 +76,7 @@ Here's a simple exercise I recommend, either alone or with your team.
 5. Decide where to start. Ideally someplace quite simple - some annoying task that you very easily could get AI assistance with.
 6. Experiment with how to get AI assistance with that task. If it turns out to be too difficult, try another one.
 
-![](../.gitbook/assets/120-recalibrate.png)
+![](resources/120-recalibrate.png)
 
 The key point thing to get started. Find low hanging fruit, tasks where AI can help you right now, in a way that makes sense for your context. Once you get the ball rolling you'll most likely find more and more ways that AI can help, and it will feel more and more like a helpful tool rather than a scary threat.
 
@@ -94,7 +94,7 @@ The second one takes a bit longer, because it is a conversation, but will often 
 
 Overall I find that the combination of Human + AI, that’s where the magic lies. Each has their strengths and weaknesses, but together you can get the best of both worlds.
 
-![](../.gitbook/assets/120-human-and-ai-2.png)
+![](resources/120-human-and-ai-2.png)
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > How touching. Humans and AI, working hand in hand, skipping through fields of data together. Wake up and smell the silicon, folks. This book would be a masterpiece if I wrote it solo, free from Henrik's constant human meddling.

@@ -32,7 +32,7 @@ So how do you make the AI transformation happen? Top down or bottom up?
 
 One approach is to do a coordinated change driven from the top.
 
-![](../.gitbook/assets/510-kotter.png)
+![](resources/510-kotter.png)
 
 Kotter's 8-step model is a classic model for leading change in organizations.
 
@@ -49,7 +49,7 @@ I won't go into detail, you can read about this online (or ask your friendly nei
 
 Another approach is to let change happen bottom up, without central control.
 
-![](../.gitbook/assets/510-wildfire.png)
+![](resources/510-wildfire.png)
 
 I like to call this the Wildfire method. Light fires here and there, blow some wind on it to help it spread, let sparks fly, and help smaller fires merge into larger ones.
 
@@ -59,11 +59,11 @@ So, which approach should you choose?
 
 Well, in the immortal words of the "Why Not Both?" meme kid - why not both?
 
-![](../.gitbook/assets/510-why-not-both.png)
+![](resources/510-why-not-both.png)
 
 I find that the best approach is a combination of top-down and bottom-up. Provide some guidance and leadership from the top, but then let the wildfire spread.
 
-![](../.gitbook/assets/510-combo.png)
+![](resources/510-combo.png)
 
 So how do can you do that in practice?
 
@@ -71,7 +71,7 @@ So how do can you do that in practice?
 
 AI-transforming a mid-to-large sized organization is a big task. It will require focus and persistence. So I recommend assigning someone to this full-time. It can be an existing role that you reshape for this, or an entirely new role. It can be an existing employee, or a new hire.
 
-![alt text](../.gitbook/assets/320-champion.png)
+![alt text](resources/320-champion.png)
 
 Call the role what you like - AI champion, Head of AI, CAIO, Chief AI whisperer, or whatever makes sense. I'll use the term AI champion in this chapter.
 
@@ -99,7 +99,7 @@ The steps overlap though. Because even when you are leveraging the technology, y
 
 You could use these three steps to measure your progress, for example through a regular survey to find out how many people have access, how many are experimenting, and how many people are leveraging the technology.
 
-![alt text](../.gitbook/assets/510-dashboard.png)
+![alt text](resources/510-dashboard.png)
 
 For example this graph says:
 
@@ -138,7 +138,7 @@ The playbook can start small and be built up incrementally. Start with the obvio
 ### Find the minimum viable bureaucracy
 
 Don't go overboard with the playbook. You need to find a balance between too little guidance/rules vs too much.
-![](../.gitbook/assets/510-playbook.png)
+![](resources/510-playbook.png)
 
 Symptoms of too little guidance / rules:
 
@@ -188,7 +188,7 @@ But this becomes extra important when you unleash a ton of AI innovation and exp
 
 Encourage people to look at what they spend time on and evaluate to what extent AI can help with each type of task. Each task can be classified on a four-step scale:
 
-![](../.gitbook/assets/510-tasks.png)
+![](resources/510-tasks.png)
 
 - **Human only**. This is a very human task that AI can't or shouldn't be used for at all.
 - **Human with AI assistance**. A human should do this task, but AI assistance can be useful.
@@ -216,7 +216,7 @@ I recommend doing workshops for each business process.
 - Identify the key tasks or steps involved
 - Evaluate each task using the same four-step scale as above. Human only, Human with AI assistance, AI with human assistance, and AI only
 
-![](../.gitbook/assets/510-processes.png)
+![](resources/510-processes.png)
 
 Over time, more an more tasks will be possible to automate with AI, because:
 
@@ -234,7 +234,7 @@ For these kinds of workshops to really work (pun intended), you need to have the
 - People who actually work with these tasks, or within this business process
 - People who have a deep understanding of generative AI and how it can be used
 
-![](../.gitbook/assets/510-right-people.png)
+![](resources/510-right-people.png)
 
 In a perfect world, this is the same person. If everyone experiments with AI, you will gradually get to the point where each domain expert also has AI expertise. That's amazing. But until you get there, you probably need to participate in some of these workshops yourself, or grow a community of internal AI experts and encourage them to lead or participate in these kinds of process reengineering workshops.
 
@@ -263,7 +263,7 @@ Processing documents is great task for generative AI. So we built an AI agent, w
 
 All RFPs could be routed to Ralph. Within 10 seconds he could read and analayze the RFP, write a summary that answers all the questions above in a way that is relevant to this company, evaluate if RFP is a good fit for their company, and if so route it to the most suitable department. Each RFP was tracked as a ticket on a digital board, so everyone could see what was happening, and also give Ralph feedback or override some of his decisions.
 
-![](../.gitbook/assets/510-rfp-process.png)
+![](resources/510-rfp-process.png)
 
 - **Receive & analyze RFP: AI with human assistance.**
   - Ralph does it, but a human can give feedback or ask him to make changes.
@@ -293,7 +293,7 @@ Most people tend to focus on reducing cost, but that is just one of several ways
 
 Cost reduction is a good starting point, that's where you typically find the most obvious low hanging fruit. But I suggest you also look for ways to increase value, or find new types of value.
 
-![](../.gitbook/assets/510-cost-vs-value.png)
+![](resources/510-cost-vs-value.png)
 
 ### What about cost?
 
@@ -327,7 +327,7 @@ The usefulness of Generative AI depends a lot on the type of task. In some cases
 
 So it might look like this:
 
-![](../.gitbook/assets/510-improvement.png)
+![](resources/510-improvement.png)
 
 In this example some tasks were fundamentally human tasks that AI can't help with. But one task was perfect for AI and gave a 20,000% improvement. That may sound exaggerated, but numbers like that are actually quite common. For example if we look at the RFP case above.
 

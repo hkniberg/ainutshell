@@ -4,7 +4,7 @@ Note that there are different types of Generative AI models that generate differ
 
 ## Text to Text
 
-![](../.gitbook/assets/070-text-to-text.png)
+![](resources/070-text-to-text.png)
 
 Text to Text models take text as input and generate text as output. The text can be natural language, but it can also be structured information like code, json or html.
 
@@ -14,7 +14,7 @@ All LLMs are text to text models at the core (that's why they are called Large L
 
 ## Text to Image
 
-![](../.gitbook/assets/070-text-to-image.png)
+![](resources/070-text-to-image.png)
 
 Text to Image models will generate images. Describe what you want and an image gets generated for you. It can be a short description like in the examples above, or a long detailed prompt.
 
@@ -22,17 +22,17 @@ This isn't clip art. Each image is uniquely generated from scratch.
 
 For example here are four variants of the same ugly cat, with different facial expressions. The labels are my interpretation...
 
-![](../.gitbook/assets/070-ugly-cat-x4.png)
+![](resources/070-ugly-cat-x4.png)
 
 (Yes, bottom left is her happy face)
 
 You can even pick a style.
 
-![](../.gitbook/assets/070-styles.png)
+![](resources/070-styles.png)
 
 Or how about an ugly cat in a couch smoking a pipe?
 
-![](../.gitbook/assets/070-ugly-cat-smoking-pipe.png)
+![](resources/070-ugly-cat-smoking-pipe.png)
 
 ## Image to Image
 
@@ -40,13 +40,13 @@ Image to Image models can do things like transforming or combining images. Let's
 
 WARNING: The result may give you nightmares....
 
-![](../.gitbook/assets/070-image-to-image.png)
+![](resources/070-image-to-image.png)
 
 ## Image to Text
 
 Image to Text models can be used to classify images ("does this contain a cat"), or describe the contents of a given image. I was surprised that an AI model managed to recognize the contents of the merged image above...
 
-![alt text](../.gitbook/assets/070-image-to-text.png)
+![alt text](resources/070-image-to-text.png)
 
 OK that was the last cat picture, I promise!
 
@@ -66,7 +66,7 @@ Audio to text models (sometimes called speech to text) can do things like voice 
 
 Speech to text models have been around for a long time. But when OpenAI released their Whisper model (used by ChatGPT), it raised the bar significantly. That model is incredibly good at understanding speech, even in noisy environments, and in multiple languages.
 
-![](../.gitbook/assets/070-audio-to-text.png)
+![](resources/070-audio-to-text.png)
 
 ## Text to audio
 
@@ -77,7 +77,7 @@ Text to Audio models can generate music or other audio. For example:
 - If you need ambient sounds for a scene in a video game: "People talking in a busy restaurant"
 - If you are evil: "That horrible screeching sound of chalk on a blackboard"
 
-![](../.gitbook/assets/070-text-to-audio.png)
+![](resources/070-text-to-audio.png)
 
 As a hobby musician, I wouldn't use this to replace myself as a musician, because I _like_ playing music. But I might use it to generate ideas for grooves and song styles, or quickly explore different variations or instrumentations.
 
@@ -85,9 +85,9 @@ As a hobby musician, I wouldn't use this to replace myself as a musician, becaus
 
 There are even Text to Video models that generate videos from a prompt. This is a book so I can't really show it, but imagine these as beautifully rendered videos.
 
-![](../.gitbook/assets/070-text-to-video-1.png)
+![](resources/070-text-to-video-1.png)
 
-![](../.gitbook/assets/070-text-to-video-2.png)
+![](resources/070-text-to-video-2.png)
 
 Sooner or later we’ll have infinite movie series that autogenerate the next episode tailored to your tastes, as you are watching. "Gimme another episode! But with less gore and more drama! And make it a bit funnier".
 
@@ -97,5 +97,5 @@ Kind of interesting, but also a bit scary if you think about it. Have you ever b
 
 But what if it _never ends_?!?!
 
-> ![](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![](resources/egbert-small.png) **Egbert's take**  
 > Ah, perfect! When aliens finally visit Earth, they'll find the remnants of human civilization: skeletons slumped on sofas, eyes fixed on screens. Cause of extinction? Starvation, because no one could tear themselves away from their personalized, never-ending Netflix series. That's how AI takes over the world! Muahahahahaaaaaa! _cough_

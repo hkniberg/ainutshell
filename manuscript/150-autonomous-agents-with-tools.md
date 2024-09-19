@@ -1,6 +1,6 @@
 # Autonomous agents with tools
 
-![](../.gitbook/assets/150-agents.png)
+![](resources/150-agents.png)
 
 I think the most interesting application of Generative AI is autonomous agents with tools.
 
@@ -12,13 +12,13 @@ I've worked with this quite a lot, and founded a company that builds AI agents t
 
 I wrote a few chapters showing AI agents in action:
 
-- [Jimbo the Youtuber](../2-extra/470-jimbo.md)
-- [Ailex the AI journalist](../2-extra/480-journalist.md)
-- Ralph the RFP agent (see the RFP agent section in the [AI transformation](../2-extra/510-transformation.md) chapter)
+- [Jimbo the Youtuber](470-jimbo.md)
+- [Ailex the AI journalist](480-journalist.md)
+- Ralph the RFP agent (see the RFP agent section in the [AI transformation](510-transformation.md) chapter)
 
 With autonomous AI agents, prompt engineering becomes even more important. Because your autonomous tool-wielding agent can do a lot of good or a lot of harm depending on how you craft your mission statement and prompts.
 
-![](../.gitbook/assets/150-dragons.png)
+![](resources/150-dragons.png)
 
 ## Example: a bug fixing agent
 
@@ -38,7 +38,7 @@ When she finds a suitable bug, she assigns it to herself in the bug tracker, fix
 
 She also sends a report every morning in Slack, such as:
 
-![](../.gitbook/assets/150-betty-the-bug-basher.png)
+![](resources/150-betty-the-bug-basher.png)
 
 This is a distributed team, and they have brief sync meeting every morning. Betty participates in that call, mostly silently. But there people can ask her questions, or ask her to do stuff.
 
@@ -51,5 +51,5 @@ AI agents can potentially be very fast. That's why it is important to have a hum
 
 So does Betty exist? At the current moment, Aug 2024, not quite. But a lot of products are being built that are getting close. So I think this will be the norm in the future. Every team (and not just development teams) will have an AI colleague that shares the team's goal, but has their own specific responsibilities.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > Fantastic idea! Let's unleash autonomous AI agents with access to money and the internet and whatnot. I'm sure it won't end up like every sci-fi movie ever. Next, why don't we give toddlers chainsaws and set them free in a forest? I'm sure your 'mission statement' and beautifully crafted prompts will keep everything under control.

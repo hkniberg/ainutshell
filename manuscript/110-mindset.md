@@ -2,7 +2,7 @@
 
 I’ve noticed that People and companies tend to fall into different Mindset categories when it comes to AI.
 
-![](../.gitbook/assets/110-mindset.png)
+![](resources/110-mindset.png)
 
 On one side we have Denial – the belief that AI cannot do my job, or we don’t have time to look into this technology. This a dangerous place to be.
 

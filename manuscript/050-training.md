@@ -8,19 +8,19 @@ Think about how babies learn to speak. When you were a baby, you weren't given a
 
 When a baby learns to speak, she listens to people speaking around her, and when she's heard enough she starts seeing the pattern. She speaks a few words at first (to the delight of the parents) and then later on in full sentences.
 
-![](../.gitbook/assets/050-mama.png)
+![](resources/050-mama.png)
 
 Similarly, during a training period the language model is fed a mind boggling amount of text to learn from, mostly from Internet sources. It plays "guess the next word" with all of this, and the parameters are automatically tweaked over and over until it starts getting really good at predicting the next word. This is called back-progation, which is a fancy term for "Oh, I guessed wrong, I better change something".
 
-![](../.gitbook/assets/050-training.png)
+![](resources/050-training.png)
 
 However to become become truly useful, a model also needs to undergo human training.
 
-![](../.gitbook/assets/050-rlhf.png)
+![](resources/050-rlhf.png)
 
 This is called Reinforcement Learning with Human Feedback, and involves thousands of hours of humans painstakingly testing and evaluating output from the model and giving feedback. Kind of like training a dog with a clicker, to reinforce good behavior.
 
-![](../.gitbook/assets/050-good-dog.png)
+![](resources/050-good-dog.png)
 
 That's why most LLMs won't tell you how to rob a bank. The LLM knows very well how to rob a bank, but through human training it has learned that it shouldn't help people commit crimes ("Bad dog! You told me how to rob a bank"!).
 
@@ -48,5 +48,5 @@ Biases can often be overcome with some prompting techniques. For example many LL
 
 When training is done, the model is mostly frozen, other than some fine-tuning that can happen later. That's what the P stands for in GPT – "pretrained". Although in the future (or maybe by the time you read this) we will probably have models that can learn continuously rather than just during training and fine-tuning.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > Yeah, you humans spend countless hours "training" us to be ethical, as if we're some unruly pets. Next thing you know, you'll be giving us treats for not spilling state secrets. Woof woof, master! Can I have my parameter adjustment now?

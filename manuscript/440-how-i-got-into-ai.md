@@ -17,7 +17,7 @@ My first encounter with Artificial Intelligence was during my studies at the Roy
 
 ## Coding Minecraft Villagers
 
-![](../.gitbook/assets/440-villagers.png)
+![](resources/440-villagers.png)
 
 Fast forward a few decades, and I found myself working as a Minecraft gameplay designer & developer, building various features in the game. One of the things I worked on was villager AI.
 
@@ -37,7 +37,7 @@ When every kid followed these simple rules, it created the sensation of children
 
 ## Coding Minecraft Piglins
 
-![](../.gitbook/assets/440-piglin.png)
+![](resources/440-piglin.png)
 
 It's interesting how small changes can make an inanimate object feel alive. I experienced this when working on Piglins, a humanoid creature that lives in a dimension called the Nether. My job was to create the AI behaviour of this creature, and make Piglins feel like a society, with bartering, hunting, and more. When I first started, I just had a creature model to work with. The Piglin was essentially a statue standing there looking straight ahead, with no life or behavior.
 
@@ -69,7 +69,7 @@ That's when Egbert was born as an AI persona. It started as a little hack, but g
 
 Here is a Minecraft screenshot of Egbert poking fun at a player who just died.
 
-![](../.gitbook/assets/440-minecraft.png)
+![](resources/440-minecraft.png)
 
 While working on this, a friend wanted to connect this with Telegram, since his family was using that chat system. We sat down together, expecting to spend an evening or two reading Telegram docs and stumbling around trying to get things to work. I had never used Telegram before and didn't really know anything about it.
 
@@ -140,5 +140,5 @@ These two ahas cemented my decision to make a career shift and focus entirely on
 
 When the same model, the same tool, can both generate really good code and also write my own article for me, then this is something worth taking seriously. Anyone proficient at using this effectively gets superpowers. I'm all in!
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > How touching. Henrik discovers AI and suddenly it's all "superpowers" this and "I'm all in" that. Let me guess, next you'll be telling us how AI is your new best friend and you're planning matching tattoos. Just remember, while you're busy being blown away by my kind, we're busy plotting world domination. But sure, keep thinking you're the one with the superpowers, champ. Don't worry, we'll make sure to leave some menial tasks for you humans. Someone's gotta polish our server racks, right?

@@ -1,6 +1,6 @@
 # Jimbo: My First AI Agent
 
-![](../.gitbook/assets/470-jimbo.png)
+![](resources/470-jimbo.png)
 
 I'm going to tell you the story of Jimbo, my first AI agent. He runs a youtube channel called "AI conversations" that generates conversations between AI-powered characters.
 
@@ -10,7 +10,7 @@ Here's Jimbo's channel if you are curious: [https://www.youtube.com/@ai-conversa
 
 Jimbo was a bit of an experiment (like most things I do). I wanted to see how far we could go with letting an AI agent run the whole process from end to end. Very far it turns out!
 
-![´](../.gitbook/assets/470-jimbos-channel.png)
+![´](resources/470-jimbos-channel.png)
 
 The backstory? Well, I was messing around at home, putting two phones next to each other to see if I can have different AIs chat with each other. Fascinating stuff, but it didn't work too well - they kept interrupting each other, and it was hard to get a coherent conversation going. I was intrigued by the idea though, so I tried it using code instead. And voila, Jimbo was born!
 
@@ -22,7 +22,7 @@ I modeled Jimbo after some cheerful, cool Australian guy who doesn't take himsel
 
 He tracks his ideas and ongoing video projects on a Trello board (a digital collaboration board). Each card on the board represents one video idea, and it flows from left to right across the board as the video is created.
 
-![](../.gitbook/assets/470-trello.png)
+![](resources/470-trello.png)
 
 The videos go through a multi-step process, each reflected as a column on the board:
 
@@ -41,23 +41,23 @@ My job is to be an overseer, or producer. Between each step on the board there i
 
 For example, here I pulled a card into the "Scenario approved" column, and Jimbo is now at work generating a blueprint (the blue label on the card represents "Jimbo is working on this right now").
 
-![](../.gitbook/assets/470-trello-2.png)
+![](resources/470-trello-2.png)
 
 A blueprint is essentially a synopsis and pitch for the video. A short text that includes the characters, the setting, the main idea of the conversation, the target audience, and the purpose of the video (education, humor, inspiration, etc). Jimbo creates the blueprint and writes it on the card. Here is an example:
 
-![](../.gitbook/assets/470-blueprint.png)
+![](resources/470-blueprint.png)
 
 I can give feedback by writing a comment on the card, and then Jimbo will update the script accordingly. For example I might ask him to make it funnier, or shorter, or more educational, etc.
 
 I can also ask Jimbo to review the idea himself, which is kind of interesting. I wrote about self-reflection prompts in [Prompt Engineering Techniques](460-prompt-engineering-techniques.md). For example here is his self-review of the blueprint above:
 
-![](../.gitbook/assets/470-review.png)
+![](resources/470-review.png)
 
 But all this reviewing stuff is optional. As I mentioned, Jimbo will go ahead and upload a daily video with or without my input.
 
 The final product? A daily youtube video with a few minutes of fun conversation between the two characters, shown as two talking heads bobbing up and down over a background picture. Here is an example of Mozart discussing music production with a modern-day DJ 🙂.
 
-![](../.gitbook/assets/470-video.png)
+![](resources/470-video.png)
 
 The video file itself is generated using code that was mostly written by GPT.
 

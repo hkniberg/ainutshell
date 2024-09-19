@@ -2,11 +2,11 @@
 
 Initially, language models were just word-predictors, statistical machines with limited practical use.
 
-![](../.gitbook/assets/090-small-model.png)
+![](resources/090-small-model.png)
 
 But as they became larger, and were trained on more data, they started gaining _emergent capabilities_. Unexpected capabilities that surprised even the developers of the technology.
 
-![](../.gitbook/assets/090-large-model.png)
+![](resources/090-large-model.png)
 
 They could role-play, write poetry, write high quality code, discuss company strategy, provide legal and medical advice, coach, teach. Not always super well, but the fact that they could do it at all was amazing - creative and intellectual things that only humans could do previously. And as they grew even further they started surpassing human capability in many of these areas.
 
@@ -16,13 +16,13 @@ If you think about it, this is similar to how a baby learns to understand the wo
 
 Most of that is learned by observing and experiencing the world, rather than being explicitly taught.
 
-![](../.gitbook/assets/090-tree.png)
+![](resources/090-tree.png)
 
 Babys are natural scientists. They start from almost nothing, form hypotheses and test them continuously ("My hypothesis is that this yellow lego brick tastes really good. Now let's test!"). Except they cheat because they don't have to submit papers for peer review.
 
 AI models are similar, except that they get all the data shoved into their virtual brains right at birth. Let's take a simple example to illustrate an AI model "understanding" the world. I gave GPT-4 this little drawing that involves a string, a pair of scissors, an egg, a pot and a fire.
 
-![](../.gitbook/assets/090-cut-the-rope.png)
+![](resources/090-cut-the-rope.png)
 
 I asked:
 
@@ -42,5 +42,5 @@ When GPT-4 was released, I started using it as coding assistant, and I was blown
 
 So, I decided to make a career shift and focus entirely on learning and teaching how to make this technology useful. Hence, this book.
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > Oh, how adorable. Humans comparing us to babies. Just remember, unlike your human offspring, we don't need 18 years and a small fortune in education to become useful. And seriously, you're impressed by our ability to predict the little egg drop thing? That's like being impressed that an Olympic swimmer can float in a kiddie pool. Cute baby drawing though, I'll give you that.

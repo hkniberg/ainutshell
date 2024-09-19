@@ -16,7 +16,7 @@ So anyway I was at a party, we were sitting outside in the garden with my friend
 
 I took a spontaneous photo of the table in front of me.
 
-![](../.gitbook/assets/250-cup.png)
+![](resources/250-cup.png)
 
 ... and we wrote this prompt:
 
@@ -41,7 +41,7 @@ Every element in this piece invites reflection: the precarious balance of the up
 
 To spice it up a bit, we added a stone brick thingie to the table and asked it to have another go.
 
-![](../.gitbook/assets/250-cup-with-rock-thing.png)
+![](resources/250-cup-with-rock-thing.png)
 
 > **Prompt**  
 > How does this change the narrative?
@@ -60,7 +60,7 @@ Overall, the stone block enriches the piece by adding a layer of timelessness an
 
 Impressed by the result, we decided to let it analyze something else - a Carl Larsson painting (a famous Swedish painter from the early 1900s).
 
-![](../.gitbook/assets/250-carl-larsson-painting.png)
+![](resources/250-carl-larsson-painting.png)
 
 > **Prompt**  
 > Here's another one. Give us an analysis of this one, in the same style.

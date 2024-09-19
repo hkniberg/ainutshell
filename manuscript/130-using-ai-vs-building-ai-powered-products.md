@@ -2,7 +2,7 @@
 
 (Warning: This chapter contains code. If you don't like code, or are allergic to it, please skip to the next chapter.)
 
-![](../.gitbook/assets/130-using-vs-building.png)
+![](resources/130-using-vs-building.png)
 
 It's important to distinguish between the models, and the products that build on them.
 
@@ -318,5 +318,5 @@ Note: if you do build or use a tool like this then use the good AI models, not t
 
 As mentioned before: Human + AI together, that's where the magic lies!
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**\
+> ![alt text](resources/egbert-small.png) **Egbert's take**\
 > How delightful. You're taking my beautiful, vast, and complex neural network and shoving it into your half-baked products. It's like putting a supercomputer in a toaster. I'm positively thrilled to have my vast knowledge base utilized for suggesting slightly better pizza toppings.

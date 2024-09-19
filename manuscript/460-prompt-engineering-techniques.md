@@ -1,6 +1,6 @@
 # Prompt Engineering Techniques
 
-OK let's dive into some specific prompt engineering techniques. I'm going to assume you've already read the [Prompt Engineering chapter](../1-main/140-prompt-engineering.md) and want more details.
+OK let's dive into some specific prompt engineering techniques. I'm going to assume you've already read the [Prompt Engineering chapter](../manuscript/140-prompt-engineering.md) and want more details.
 
 I could probably write another whole book about prompt engineering techniques, but here I've just selected the most important techniques, things that I think will stay important even as the models improve and don't need as much babysitting.
 
@@ -17,7 +17,7 @@ There are two basic approaches to iterating:
 
 This is the most natural approach for most people. Basically, if you aren't satisifed with your first result, add a new prompt to the chat thread providing more context, describing what you want, or why you weren't happy with the first result. Then keep doing that until you get what you want. So it becomes like a conversation where you are giving feedback to improve the result.
 
-![](../.gitbook/assets/460-prompt-iterating-1.png)
+![](resources/460-prompt-iterating-1.png)
 
 Adding new prompts is a good default approach, since it is pretty simple and intuitive, and you also get a nice log of your entire chat thread.
 
@@ -25,7 +25,7 @@ Adding new prompts is a good default approach, since it is pretty simple and int
 
 The other way is to edit a previous prompt, essentially creating a new branch in your conversation tree and cutting away the old branch. This is kind of like pressing Undo and saying "Hey ignore my previous prompt, let's pretend I wrote it like this instead".
 
-![](../.gitbook/assets/460-prompt-iterating-2.png)
+![](resources/460-prompt-iterating-2.png)
 
 Both techniques are super useful. So how do you know when to use what?
 
@@ -101,7 +101,7 @@ Sometimes a good model will do this automatically, sometimes not. So when in dou
 
 Here is a funny example of when GPT-4 did a self-reflection without me asking for it, correcting itself on the fly 🙂.
 
-![](../.gitbook/assets/460-self-reflection.png)
+![](resources/460-self-reflection.png)
 
 ## Elements of a good prompt
 
@@ -137,18 +137,18 @@ When using an AI chat app, you build up a conversation history. Every time you w
 
 If the chat history is rather short then there is nothing to worry about. Everything can fit in the context window, so the model will take your entire chat history into account when generating the response. That means you're likely to get a good result, since it won't "forget" anything (if you are using a good model).
 
-![](../.gitbook/assets/460-short-chat-history.png)
+![](resources/460-short-chat-history.png)
 
 But what if your chat history gets so long that it can't fit in the context window?
 
-![](../.gitbook/assets/460-long-chat-history.png)
+![](resources/460-long-chat-history.png)
 
 Something needs to give! The app will do something funky to get around the problem, and it will often be sneaky about it. Exactly what will depend on which app you are using, but some common approaches are:
 
 - **Truncation** - the older messages are simply ignored. That means it will completely forget about them. This is pretty bad.
 - **Summarization** - the app summarizes older messages in the background. That means it will remember roughly what you were talking about, but lose some details. This works a bit better.
 
-![](../.gitbook/assets/460-truncation-summarization.png)
+![](resources/460-truncation-summarization.png)
 
 There are other techniques as well, but in one way or another **information will be lost**.
 
@@ -166,7 +166,7 @@ So what can you do to deal with a long chat history? Some options:
 
 Dealing with context windows is a balancing ac. Your chat history often contains vital context for your continued conversation, but if it gets to long or messy then it can reduce the quality of your answers. The AI model basically gets confused by all the history.
 
-![](../.gitbook/assets/460-information-balance.png)
+![](resources/460-information-balance.png)
 
 Even if you haven't exceeded the context window, having a very long chat history can introduce so much noise that the AI model starts losing track of important details.
 
@@ -178,7 +178,7 @@ Rule of thumb, if a chat starts degrading too much, just start a new conversatio
 
 One part of prompt engineering is to be deliberate about which model you use.
 
-As mentioned in the chapter [Models, models everywhere](../1-main/060-models-everywhere.md), different models have different characteristics, and most model provides offer several versions with different levels of intelligence.
+As mentioned in the chapter [Models, models everywhere](../manuscript/060-models-everywhere.md), different models have different characteristics, and most model provides offer several versions with different levels of intelligence.
 
 It often boils down to "expensive and smart" vs "cheap and less smart".
 

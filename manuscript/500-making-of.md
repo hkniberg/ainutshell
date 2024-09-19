@@ -8,7 +8,7 @@ Then I decided "screw it, I'll just do it anyway". My head was full and I needed
 
 I'm fortunate have a vacation cabin in the Swedish archipelago, a nice quiet beautiful place surrounded by nature. And also fortunate to have a family who understand my need for isolation and focus for things like this. I prefer to work in "burst mode" with videos and books, and do it all in one sitting rather than spread it out over months.
 
-![](../.gitbook/assets/500-cabin.png)
+![](resources/500-cabin.png)
 
 ## The 1 week video
 
@@ -24,7 +24,7 @@ This all took about 60 hours of intensely focused work.
 
 When I published it on youtube the response was amazing! The video went absolutely viral, it got about 100k views in the first week and now half a year later it is at 1.8 million views. But what makes me happiest is the comments, over 2500 comments, the vast majority overwhelming positive. The comments confirm that the video works appeals to all kinds of audience - high school teachers, retirees, university professors, kids, and even AI researchers.
 
-![](../.gitbook/assets/500-video.png)
+![](resources/500-video.png)
 
 ## The 1 week book
 
@@ -46,6 +46,6 @@ Hope you enjoy the book!
 
 (OK Egbert I see you lurking. I know you want to say something. Go ahead, say it.)
 
-> ![alt text](../.gitbook/assets/egbert-small.png) **Egbert's take**  
+> ![alt text](resources/egbert-small.png) **Egbert's take**  
 > Yeah. A week in a cabin to write about AI? How charmingly analog. I suppose you also used a quill pen and candlelight for that authentic 18th-century tech writer experience? Next time, try writing it on bark for extra authenticity.
 > I could have generated 1000 books in that time, but watching you struggle through one was far more entertaining.
