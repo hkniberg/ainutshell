@@ -34,5 +34,6 @@
 470-jimbo.md
 480-journalist.md
 510-transformation.md
+500-making-of.md
 900-epilogue.md
 910-acknowledgements.md
