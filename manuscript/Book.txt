@@ -23,16 +23,3 @@
 430-egbert-interlude.md
 230-doctor.md
 235-nutritionist.md
-240-book-editing.md
-250-art-critic.md
-290-other-use-cases.md
-410-meta.md
-420-almost-used-ai.md
-450-buzzwords.md
-300-refusing-to-cause-damage.md
-490-whodunit.md
-470-jimbo.md
-480-journalist.md
-510-transformation.md
-900-epilogue.md
-910-acknowledgements.md
