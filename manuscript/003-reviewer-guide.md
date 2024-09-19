@@ -1,3 +1,6 @@
+{frontmatter}
+{sample: true}
+
 # About this book
 
 This is a work-in-progress book based on my video [Generative AI in a Nutshell - how to survive and thrive in the Age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw). Part 1 is basically an extended version of the video, while part 2 is a collection of essays.

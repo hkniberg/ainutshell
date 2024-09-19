@@ -1,4 +1,3 @@
-{frontmatter}
 {sample: true}
 
 # Foreword by Egbert
