@@ -131,7 +131,7 @@ It is like having a ghost editor inside my computer, always watching and ready t
 
 Some of the content in the book is stuff that I've talked about in presentations, and I have slides for it. The easiest way to get that into the book is to take a screenshot and ask AI to do it.
 
-For example this slide was converted to the "Elements of a good prompt" section in the [Prompt Engineering](../../1-main/140-prompt-engineering.md) chapter.
+For example this slide was converted to the "Elements of a good prompt" section in the [Prompt Engineering](140-prompt-engineering.md) chapter.
 
 ![](resources/240-slide.png)
 
