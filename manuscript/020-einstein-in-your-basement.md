@@ -2,7 +2,7 @@
 
 # Einstein in Your Basement
 
-{height: 20%}
+{height: 40%}
 ![](resources/020-einstein-basement.png)
 
 So here’s a silly mental model for this: You have Einstein in your basement. In fact everyone does. This is just a metaphor. I don't really mean Einstein as an individual, think of it as the combination of every smart person who ever lived.
@@ -15,7 +15,7 @@ Just for fun, I asked ChatGPT "What are you? Explain in 1 sentence to a 10 year 
 
 Your Einstein can take on any role you want - a comedian, poet, doctor, coach. Whatever role you give him, he will be an expert within that field. You can also give him any personality, any communication style, any goal or motive. This genius in your basement is very malleable and somewhat schitzofrenic.
 
-![](resources/020-roles.png)
+![Images by Midjourney](resources/020-roles.png)
 
 He has some human-like limitations. He can make mistakes, jump to conclusions, or misunderstand you. Sometimes he can even lie or spew out absolute nonsense in a very convincing way.
 
@@ -24,10 +24,12 @@ But the biggest limitation is your imagination, and your ability to communicate 
 - Prompt Imagination = Your ability to come up with useful ways to use Generative AI.
 - Prompt Engineering (or Prompt Design) = Your ability to get the results you want.
 
+{width: 80%}
 ![](resources/020-prompt-imagination-engineering.png)
 
 Most people vastly underestimate what this Einstein in your basement can do. It’s like going to the real Einstein, and asking him to proof-read a high school report. Or hiring a world class 5 star chef and having him chop onions.
 
+{width: 50%}
 ![](resources/020-chef.png)
 
 The more you interact with Einstein, the more you will discover surprising and powerful ways for him to help you, your family, your team, or your company.
