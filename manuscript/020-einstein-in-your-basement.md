@@ -30,7 +30,7 @@ But the biggest limitation is your imagination, and your ability to communicate 
 Most people vastly underestimate what this Einstein in your basement can do. It’s like going to the real Einstein, and asking him to proof-read a high school report. Or hiring a world class 5 star chef and having him chop onions.
 
 {width: 50%}
-![](resources/020-chef.png)
+![Image by Midjourney](resources/020-chef.png)
 
 The more you interact with Einstein, the more you will discover surprising and powerful ways for him to help you, your family, your team, or your company.
 
