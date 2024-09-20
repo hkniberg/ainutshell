@@ -2,6 +2,7 @@
 
 # Einstein in Your Basement
 
+{height: 20%}
 ![](resources/020-einstein-basement.png)
 
 So here’s a silly mental model for this: You have Einstein in your basement. In fact everyone does. This is just a metaphor. I don't really mean Einstein as an individual, think of it as the combination of every smart person who ever lived.
