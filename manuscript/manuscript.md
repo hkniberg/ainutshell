@@ -1,5 +1,3 @@
-# Generative AI in a Nutshell
-
 {sample: true}
 
 # Foreword by Egbert
