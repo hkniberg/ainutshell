@@ -1,6 +1,6 @@
-# Generative AI in a Nutshell - how to survive and thrive in the Age of AI
+# Generative AI in a Nutshell - book source
 
-This is the source code for the book Generative AI in a Nutshell.
+This is the source code for the book "Generative AI in a Nutshell - How to Survive and Thrive in the Age of AI". The book is based on the [video with the same title](https://www.youtube.com/watch?v=2IK3DFHRFfw).
 
 This repository is public to enable community-submitted improvements to the AI-translated versions. See below for more details.
 
@@ -11,7 +11,7 @@ The book is distributed on LeanPub (ebook) and Amazon (kindle, paperback, hardco
 - https://leanpub.com/ainutshell
 - https://www.amazon.com/dp/B0DSBFN12W
 
-Technically you access the book content here for free, but I prefer if you buy it. You'll get a nicely formatted book (rather than raw markdown files), and you'll support my work.
+Technically you can access the book content here for free, but I prefer if you buy it. You'll get a nicely formatted book (rather than raw markdown files), and you'll support my work.
 
 ## How to help improve a translation
 
