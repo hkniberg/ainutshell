@@ -47,36 +47,37 @@ If you need support or have a question, feel free to submit an issue on this rep
 ## Translation improvement status
 
 ![](https://img.shields.io/badge/todo-red) = the book still has the original AI translation, and human improvements are probably needed.
+
 ![](https://img.shields.io/badge/complete-green) = a human-improved translation has been done, so we probably don't need to do anything more.
 
-![](https://img.shields.io/badge/todo-red) Arabic
-![](https://img.shields.io/badge/todo-red) Bosnian
-![](https://img.shields.io/badge/todo-red) Chinese (Simplified)
-![](https://img.shields.io/badge/todo-red) Chinese (Traditional)
-![](https://img.shields.io/badge/todo-red) Croatian
-![](https://img.shields.io/badge/todo-red) Czech
-![](https://img.shields.io/badge/todo-red) Danish
-![](https://img.shields.io/badge/todo-red) Dutch
-![](https://img.shields.io/badge/todo-red) French
-![](https://img.shields.io/badge/todo-red) German
-![](https://img.shields.io/badge/todo-red) Greek
-![](https://img.shields.io/badge/todo-red) Hebrew
-![](https://img.shields.io/badge/todo-red) Hindi
-![](https://img.shields.io/badge/todo-red) Hungarian
-![](https://img.shields.io/badge/todo-red) Indonesian
-![](https://img.shields.io/badge/todo-red) Italian
-![](https://img.shields.io/badge/todo-red) Japanese
-![](https://img.shields.io/badge/todo-red) Korean
-![](https://img.shields.io/badge/todo-red) Norwegian (Bokmål)
-![](https://img.shields.io/badge/todo-red) Polish
-![](https://img.shields.io/badge/todo-red) Portuguese (Brazilian)
-![](https://img.shields.io/badge/todo-red) Portuguese (European)
-![](https://img.shields.io/badge/todo-red) Punjabi
-![](https://img.shields.io/badge/todo-red) Romanian
-![](https://img.shields.io/badge/todo-red) Serbian (Cyrillic)
-![](https://img.shields.io/badge/todo-red) Spanish
-![](https://img.shields.io/badge/todo-red) Swedish
-![](https://img.shields.io/badge/todo-red) Thai
-![](https://img.shields.io/badge/todo-red) Turkish
-![](https://img.shields.io/badge/todo-red) Ukrainian
-![](https://img.shields.io/badge/todo-red) Vietnamese
+- ![](https://img.shields.io/badge/todo-red) Arabic
+- ![](https://img.shields.io/badge/todo-red) Bosnian
+- ![](https://img.shields.io/badge/todo-red) Chinese (Simplified)
+- ![](https://img.shields.io/badge/todo-red) Chinese (Traditional)
+- ![](https://img.shields.io/badge/todo-red) Croatian
+- ![](https://img.shields.io/badge/todo-red) Czech
+- ![](https://img.shields.io/badge/todo-red) Danish
+- ![](https://img.shields.io/badge/todo-red) Dutch
+- ![](https://img.shields.io/badge/todo-red) French
+- ![](https://img.shields.io/badge/todo-red) German
+- ![](https://img.shields.io/badge/todo-red) Greek
+- ![](https://img.shields.io/badge/todo-red) Hebrew
+- ![](https://img.shields.io/badge/todo-red) Hindi
+- ![](https://img.shields.io/badge/todo-red) Hungarian
+- ![](https://img.shields.io/badge/todo-red) Indonesian
+- ![](https://img.shields.io/badge/todo-red) Italian
+- ![](https://img.shields.io/badge/todo-red) Japanese
+- ![](https://img.shields.io/badge/todo-red) Korean
+- ![](https://img.shields.io/badge/todo-red) Norwegian (Bokmål)
+- ![](https://img.shields.io/badge/todo-red) Polish
+- ![](https://img.shields.io/badge/todo-red) Portuguese (Brazilian)
+- ![](https://img.shields.io/badge/todo-red) Portuguese (European)
+- ![](https://img.shields.io/badge/todo-red) Punjabi
+- ![](https://img.shields.io/badge/todo-red) Romanian
+- ![](https://img.shields.io/badge/todo-red) Serbian (Cyrillic)
+- ![](https://img.shields.io/badge/todo-red) Spanish
+- ![](https://img.shields.io/badge/todo-red) Swedish
+- ![](https://img.shields.io/badge/todo-red) Thai
+- ![](https://img.shields.io/badge/todo-red) Turkish
+- ![](https://img.shields.io/badge/todo-red) Ukrainian
+- ![](https://img.shields.io/badge/todo-red) Vietnamese
