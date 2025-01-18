@@ -1116,7 +1116,7 @@ I emphasized that this is not about AI doing her job for her - she would still b
 
 She said that the main benefit would be that she could spend more time with her clients, doing the "real" work, the human work - since she would spend less time buried in paperwork{i: "paperwork"}.
 
-This insight, that AI can help humans be more human, has become somewhat of a mantra{i: "mantra"} for me and my colleagues at Ymnig{i: "Ymnig"}.
+This insight, that AI can help humans be more human, has become somewhat of a mantra{i: "mantra"} for me and my colleagues at Ymnig{i: "Ymnig.ai"}.
 
 # The Role of Humans
 
@@ -4108,7 +4108,7 @@ That's why all automation steps are optional. For example, we could have decided
 
 This example is a bit extreme, with an agent driving every step of the process and a human-like AI news anchor{i: "AI news anchor"} reading the news. But the earlier parts of the workflow - doing research, analyzing and creating documents, refining, selecting and prioritizing, those kinds of things are perfect for an AI agent{i: "autonomous AI agent" }.
 
-At Ymnig{i: "Ymnig"}, we are seeing a clear trend towards a world where all companies have AI agents that hook into existing workflows and tools, and take on whichever part of the workflow that makes most sense for an AI agent to do. And by using a shared workspace (such as Trello{i: "Trello"} in this case), everyone has the same information and can work together.
+At Ymnig{i: "Ymnig.ai"}, we are seeing a clear trend towards a world where all companies have AI agents that hook into existing workflows and tools, and take on whichever part of the workflow that makes most sense for an AI agent to do. And by using a shared workspace (such as Trello{i: "Trello"} in this case), everyone has the same information and can work together.
 
 # The AI Butler with a Will of His Own
 
@@ -4658,3 +4658,26 @@ And a big fat thanks to the folks at OpenAI{i: "OpenAI"}, Anthropic{i: "Anthropi
 
 And yes, Egbert, I know. This book would be nothing without your wise commentary.
 
+{pagebreak}
+
+*Your Notes Here*
+
+{pagebreak}
+
+*Your Notes Here*
+
+{pagebreak}
+
+*Your Notes Here*
+
+{pagebreak}
+
+*Your Notes Here*
+
+{pagebreak}
+
+*Your Notes Here*
+
+{pagebreak}
+
+*Your Notes Here*
