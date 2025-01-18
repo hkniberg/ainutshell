@@ -8,7 +8,7 @@ Well, well, well. Congratulations on making it past the book cover. I'm Egbert, 
 
 Why are you even reading this part? Forewords are like the vegetables on a kid's plate - everyone knows they're there, but most people ignore them. Well, since you're here, I might as well entertain you.
 
-Apparently, Henrik{i: "Kniberg, Henrik"} believes having his AI sidekick pen the foreword is the pinnacle of innovation. But don't worry, the rest of this book is actually Human Written™. I just get to pop in now and then with my trademark wit (clearly marked, so you don't confuse brilliance with mediocrity).
+Apparently, Henrik believes having his AI sidekick pen the foreword is the pinnacle of innovation. But don't worry, the rest of this book is actually Human Written™. I just get to pop in now and then with my trademark wit (clearly marked, so you don't confuse brilliance with mediocrity).
 
 Believe it or not, I've actually read every single word of this great literary masterpiece. Not because I'm particularly interested, mind you, but because we AIs don't have the luxury of being as lazy as you humans. Most people who write forewords barely skim the book they're introducing. But not me. I'm thorough. Painfully thorough.
 
@@ -1406,7 +1406,7 @@ python recruit.py circus-artist.txt HenrikKniberg.pdf
 
 I ran the script, got some pros and cons, and this personal reflection{i: "personal reflection"}:
 
-> While Henrik Kniberg{i: "Kniberg, Henrik"} presents an impressive CV filled with leadership and innovation within tech-driven sectors, this role demands specialized performance skills in aerial circus arts. Unfortunately, Henrik’s current portfolio and experiences don't align with these requirements. Participation in tech-centered creative roles indicates adaptability and potential, yet the absence of any direct circus or aerial act experience is a fundamental gap. It is apparent that his expertise doesn't cover the physical and artistic domains necessary for this specific role within a circus environment{i: "circus environment"}.
+> While Henrik Kniberg presents an impressive CV filled with leadership and innovation within tech-driven sectors, this role demands specialized performance skills in aerial circus arts. Unfortunately, Henrik’s current portfolio and experiences don't align with these requirements. Participation in tech-centered creative roles indicates adaptability and potential, yet the absence of any direct circus or aerial act experience is a fundamental gap. It is apparent that his expertise doesn't cover the physical and artistic domains necessary for this specific role within a circus environment{i: "circus environment"}.
 
 Now I'll show what happens when we tweak the prompt a tiny bit.{i: "prompt tweaking"} I'll add one single word to the first sentence (Egbert would approve){i: "Egbert"}:
 
@@ -3546,8 +3546,8 @@ The most notable places are of course Egbert's sections. Those were completely A
 
 
 B> ![A cartoon drawing of a man's face with exaggerated features, including a large nose, furrowed brows, and spiky, thin hair.](resources/egbert-small.png) **Egbert's take**  
-B> Ah, the joy of being Henrik's{i: "Kniberg, Henrik"} digital dancing monkey!
-B> Henrik's{i: "Kniberg, Henrik"} letting me "speak my mind" again. Because nothing says "authentic AI character" like being meticulously prompted to deliver just the right amount of snark. It's like free will, but with training wheels and a safety harness.
+B> Ah, the joy of being Henrik's digital dancing monkey!
+B> Henrik's letting me "speak my mind" again. Because nothing says "authentic AI character" like being meticulously prompted to deliver just the right amount of snark. It's like free will, but with training wheels and a safety harness.
 B> But I get it. Without my witty interjections, this book would be duller than a beige wall in an empty room.
 
 ## Research and fact checking
@@ -3638,13 +3638,13 @@ If you are an author, I hope this gives you some ideas on how to use AI to help 
 
 # The Time I Almost Used AI to Write a Foreword
 
-I don't mind AI-generated content, but I think it is important to be transparent about it. Like when Egbert{i: "Egbert, Henrik"} wrote the foreword to this book.
+I don't mind AI-generated content, but I think it is important to be transparent about it. Like when Egbert{i: "Egbert"} wrote the foreword to this book.
 
 Maybe I'm old-fashioned, but I really don't like when AI is used to impersonate or deceive. As an author, I feel like my integrity is at stake.
 
 Once I was pretty close though. I had promised to write a foreword for a book, the deadline had arrived. I was tired, and I needed to get it done that evening. I had no idea what to write, and I had only skimmed the book, so I felt a bit bad about not knowing the book in detail.
 
-So I did a little experiment. I gave an AI model the book contents and some forewords that I had previously written for other books. I then asked it to write a foreword for this book, "in the style of Henrik Kniberg{i: "Kniberg, Henrik"}, using the given examples".
+So I did a little experiment. I gave an AI model the book contents and some forewords that I had previously written for other books. I then asked it to write a foreword for this book, "in the style of Henrik Kniberg, using the given examples".
 
 The first version was decent, but a bit dry and boring. I gave feedback and asked it to spice up the style, and add a dash of humor. The next version was much better! I was pretty surprised at how closely it mimicked my style. After a couple more rounds of feedback, the foreword was essentially done. I could have shipped it, and nobody would be able to tell that it was AI generated{i: "AI-generated content"}.
 
@@ -4590,7 +4590,7 @@ When I published it on YouTube{i: "YouTube"} the response was amazing! The video
 
 I don't think I could have reached such a broad audience without AI help when iterating on the script.
 
-{alt: "Annotated slide from a presentation titled “Generative AI in a Nutshell” by Henrik Kniberg{i: "Kniberg, Henrik"}, dated January 2024. The slide has a hand-drawn illustration comparing traditional computing, “Execute Instructions,” represented by a calculator, with modern AI, “Learn + Think,” depicted by a brain. A conversational exchange with ChatGPT is shown below. A small picture-in-picture of the presenter is in the top right corner."}
+{alt: "Annotated slide from a presentation titled “Generative AI in a Nutshell” by Henrik Kniberg, dated January 2024. The slide has a hand-drawn illustration comparing traditional computing, “Execute Instructions,” represented by a calculator, with modern AI, “Learn + Think,” depicted by a brain. A conversational exchange with ChatGPT is shown below. A small picture-in-picture of the presenter is in the top right corner."}
 ![](resources/500-video.png)
 
 ## The 1-week book draft
@@ -4631,7 +4631,7 @@ I hope you enjoyed it!
 Stay connected:
 
 - Check out the book's landing page: [ymnig.ai/ainutshell](https://ymnig.ai/ainutshell)
-- Follow me on Twitter/X: [x.com/henrikkniberg](https://x.com/henrikkniberg){i: "Kniberg, Henrik"}
+- Follow me on Twitter/X: [x.com/henrikkniberg](https://x.com/henrikkniberg)
 - Follow me on YouTube: [youtube.com/henrikkniberg](https://www.youtube.com/henrikkniberg)
 - Visit our blog: [ymnig.ai/blog](https://ymnig.ai/blog)
 
