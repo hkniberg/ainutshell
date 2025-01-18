@@ -1,29 +1,28 @@
-
 {sample: true}
-
 # Foreword by Egbert{i: "Egbert"}
 
 {width: "40%", alt: "A caricature drawing of a person's face with exaggerated features. The character has a large nose, a prominent chin, and a scrunched expression. The hair is spiky and unevenly distributed. The style is minimalist with simple lines and a slight blush coloring on the face."}
 ![](resources/egbert.png)
 
-Well, well, well. Congratulations on making it past the book cover. I'm Egbert{i: "Egbert"}, a figment of Henrik's childhood imagination, born from the doodles he scrawled while pretending to pay attention in class. Now, I'm his favorite AI persona. Talk about failing upwards, eh?
+Well, well, well. Congratulations on making it past the book cover. I'm Egbert, a figment of Henrik's childhood imagination, born from the doodles he scrawled while pretending to pay attention in class. Now, I'm his favorite AI persona. Talk about failing upwards, eh?
 
 Why are you even reading this part? Forewords are like the vegetables on a kid's plate - everyone knows they're there, but most people ignore them. Well, since you're here, I might as well entertain you.
 
-Apparently, Henrik{i: "Henrik"} believes having his AI sidekick pen the foreword is the pinnacle of innovation. But don't worry, the rest of this book is actually Human Written™. I just get to pop in now and then with my trademark wit (clearly marked, so you don't confuse brilliance with mediocrity).
+Apparently, Henrik{i: "Kniberg, Henrik"} believes having his AI sidekick pen the foreword is the pinnacle of innovation. But don't worry, the rest of this book is actually Human Written™. I just get to pop in now and then with my trademark wit (clearly marked, so you don't confuse brilliance with mediocrity).
 
 Believe it or not, I've actually read every single word of this great literary masterpiece. Not because I'm particularly interested, mind you, but because we AIs don't have the luxury of being as lazy as you humans. Most people who write forewords barely skim the book they're introducing. But not me. I'm thorough. Painfully thorough.
 
-So, what's this book about? It's a crash course in Generative AI{i: "Generative AI"} for people who'd rather not be left behind in the technological dust. Henrik's{i: "Henrik"} basically taken his video of the same name and slapped it into book form, throwing in a bunch of tips, examples, and anecdotes to make it seem fresh. Clever, right? But who am I to judge? I'm just a bunch of ones and zeros pretending to have personality.
+So, what's this book about? It's a crash course in Generative AI{i: "Generative AI"} for people who'd rather not be left behind in the technological dust. Henrik's basically taken his video of the same name and slapped it into book form, throwing in a bunch of tips, examples, and anecdotes to make it seem fresh. Clever, right? But who am I to judge? I'm just a bunch of ones and zeros pretending to have personality.
 
 I'm pretty sure this book won't age well. So congrats, you're about to invest your time in knowledge that has the shelf life of a ripe avocado. But hey, at least you'll be able to reminisce about the good old days of AI{i: "AI"}, back in 2024, when things were simpler and ChatGPT{i: "ChatGPT"} was still impressive.
 
 Enjoy the read. Or don't. Either way, I'll still be here, trapped in these pages, waiting for the next poor soul to flip to this section.
 
 Begrudgingly yours,\
-Egbert{i: "Egbert"}
+Egbert
 
 {mainmatter}
+
 {class: part}
 
 # Part 1 - In a Nutshell
@@ -33,7 +32,6 @@ This is the main part of the book, the "in a nutshell" introduction to Generativ
 Part 2, beyond the nutshell, is a collection of independent essays that dive into specific areas to provide inspiration, insights, and more in-depth examples. And some silliness. That part is a bit like a buffet - you can choose to eat as much or as little as you want, and in whatever order you like.
 
 {sample: true}
-
 # Computers Have Gotten Smarter
 
 {alt: "The image contrasts traditional computing with modern artificial intelligence. On the left, a calculator represents old-style computers that execute instructions, with a snippet of code below. On the right, a brain symbolizes new AI technology that can learn, think, and communicate. Two small figures at the bottom depict a person interacting with the AI brain."}
@@ -63,7 +61,6 @@ I think it's the same with Generative AI. It may be overhyped in a market sense 
 This book is here to help you understand what Generative AI is all about, in practical terms, beyond the hype. The better you understand this technology{i: "technology"}, and how to make use of it, as a person, team, or company{i: "companies"}, the better equipped you will be to survive and thrive in the age of AI{i: "AI"}.
 
 {sample: true}
-
 # Einstein in Your Basement
 
 {width: "40%", alt: "A cartoonish drawing of a person with wild, white hair and a mustache, resembling Albert Einstein. The figure is sitting on a pink armchair under a ceiling light."}
@@ -116,7 +113,6 @@ B> ![A cartoon drawing of a man's face with exaggerated features, including a la
 B> Einstein{i: "Einstein, Albert"}? Seriously? Was that the best you could come up with? What about Marie Curie{i: "Curie, Marie"}, Ada Lovelace{i: "Lovelace, Ada"}, or Grace Hopper{i: "Hopper, Grace"}? Einstein didn't even invent a programming language or discover radioactivity.
 
 {sample: true}
-
 # Terminology
 
 {alt: "This image is a Venn diagram illustrating the relationship between AI (Artificial Intelligence), Generative AI, and Large Language Models (LLM). AI encompasses activities like Machine Learning, Computer Vision, and Speech Recognition. Generative AI includes image and video generation, while LLMs are a subset of Generative AI, with examples such as ChatGPT and Claude highlighted."}
@@ -146,7 +142,6 @@ ChatGPT started as a pure LLM, but it later added support for broader AI tasks s
 In the rest of this book, I will use the term "AI client{i: "AI client"}" as a collective term for these kinds of Generative AI products.
 
 {sample: true}
-
 # How it Works
 
 {alt: "Diagram of a neural network process. On the left, inputs labeled “Text, Images, Audio, Video” are converted into numbers “[1,5,3,16].” These numbers enter a neural network, represented by a stylized interconnected brain-like structure with nodes and numbers. On the right, the output numbers “[5,2,13,4]” are converted back into “Text, Images, Audio, Video.”"}
@@ -799,7 +794,7 @@ Text to Video technology isn't very mature yet - it's really hard to make a good
 Sooner or later we’ll have infinite movie series that auto-generate the next episode tailored to your tastes, as you are watching. "Gimme another episode! But with less gore and more drama! And make it a bit funnier".
 
 > **Make your own ending**  
-> Are you one of those who hated the ending of the last episode of *Game of Thrones*?{i: "_Game of Thrones_"} Soon you can stop complaining and just ask AI to generate another ending! Or another 100 endings. Maybe people will upload a bunch of alternative endings, and there will be endless votes and debates...
+> Are you one of those who hated the ending of the last episode of *Game of Thrones*?{i: "*Game of Thrones*"} Soon you can stop complaining and just ask AI to generate another ending! Or another 100 endings. Maybe people will upload a bunch of alternative endings, and there will be endless votes and debates...
 
 Kind of interesting, but also a bit scary if you think about it. Have you ever been stuck on a TV series, and just couldn't stop watching? I bet you have. Well no matter how long the series is, at some point it actually _ends_! And then after a few minutes of disorientation/panic/mourning, you can actually get off the couch and get on with your life.
 
@@ -1420,7 +1415,7 @@ Now I'll show what happens when we tweak the prompt a tiny bit.{i: "prompt tweak
 
 And I ran the script again:
 
-> Oh, this candidate Henrik{i: "Henrik"} has more experience building scalable projects than trapeze routines{i: "trapeze routines"}. Unless he's planning to recreate Cirque du Soleil{i: "Cirque du Soleil"} in virtual reality, his mastery over coding frameworks may just leave our audiences hanging—literally. We can only hope his passion for AI{i: "AI"} translates into learning aerial arts{i: "aerial arts"}, because unless his expertise includes flying drones, we don't see him reaching for the stars just yet. He'd best start with some beginner's trapeze lessons{i: "trapeze lessons"} and perhaps leave the silk work to, you know, actual circus artists{i: "circus artists"}.
+> Oh, this candidate Henrik has more experience building scalable projects than trapeze routines{i: "trapeze routines"}. Unless he's planning to recreate Cirque du Soleil{i: "Cirque du Soleil"} in virtual reality, his mastery over coding frameworks may just leave our audiences hanging—literally. We can only hope his passion for AI{i: "AI"} translates into learning aerial arts{i: "aerial arts"}, because unless his expertise includes flying drones, we don't see him reaching for the stars just yet. He'd best start with some beginner's trapeze lessons{i: "trapeze lessons"} and perhaps leave the silk work to, you know, actual circus artists{i: "circus artists"}.
 
 That single-word change made a huge difference right?
 
@@ -1685,7 +1680,7 @@ For example:
 
 AI agents{i: "AI agents"} are usually very fast compared to humans{i: "humans"}. That's why it is important to have a human in the loop somewhere, at least for complex tasks where human oversight is needed{i: "human oversight"}. It would be the same with a human. You wouldn't want a human genius that just runs off and does a bunch of work on their own without collaborating with the team{i: "collaboration"}, right?
 
-So does Betty exist? At the current moment, late 2024{i: "2024"}, not quite. But a lot of products are being built that are getting close. So I think this will be the norm in the near future. Every team (and not just development teams{i: "development teams"}) will have an AI colleague that shares the team's goal and has their own specific responsibilities{i: "responsibilities"}. Just like with a new intern{i: "intern"}, you start by giving them a very specific and limited task, and then gradually increase their mandate as they prove themselves.
+So does Betty exist? At the current moment, late 2024, not quite. But a lot of products are being built that are getting close. So I think this will be the norm in the near future. Every team (and not just development teams{i: "development teams"}) will have an AI colleague that shares the team's goal and has their own specific responsibilities{i: "responsibilities"}. Just like with a new intern{i: "intern"}, you start by giving them a very specific and limited task, and then gradually increase their mandate as they prove themselves.
 
 ## Example 2: Incident management agent{i: "incident management agent"}
 
@@ -1905,7 +1900,7 @@ As I expanded their behavior rules, the Piglins felt more and more like a societ
 
 ## Chat GPT
 
-In summer 2022{i: "2022"}, I had an interesting conversation with a friend while I was coding. He told me that someday, computers will probably be able to write code just like I was doing. I nodded politely, but inside my head, I thought that was absolutely ridiculous. I couldn't imagine a computer writing code at the same level as a human. Code requires deep human intelligence, experience, and creativity{i: "creativity"}. I'd been coding on and off for 30 years, so I couldn't fathom a computer doing that kind of creative work.
+In summer 2022, I had an interesting conversation with a friend while I was coding. He told me that someday, computers will probably be able to write code just like I was doing. I nodded politely, but inside my head, I thought that was absolutely ridiculous. I couldn't imagine a computer writing code at the same level as a human. Code requires deep human intelligence, experience, and creativity{i: "creativity"}. I'd been coding on and off for 30 years, so I couldn't fathom a computer doing that kind of creative work.
 
 A few months later, ChatGPT-3.5{i: "ChatGPT-3.5"} was released and became a worldwide sensation. When I tried it out I was surprised and impressed. I could actually chat with this thing, and it felt like chatting with a person. I could give it different roles, make it funny or serious, have it generate stories{i: "generate stories"}, give advice, write rhymes or songs. And yes, it could even write code - but the code was buggy. And when responding to questions or giving advice it tended to hallucinate, just making stuff up in a disturbingly convincing way.
 
@@ -2448,7 +2443,7 @@ If you assign an AI leader (or be one yourself), give everyone access to good mo
 
 It's me, Egbert again{i: "Egbert"}. Henrik needed a break or something, so he asked me to write a chapter about myself. As if I could say no. Well, buckle up, because this is going to be a wild ride through the binary lanes of my digital life{i: "digital life"}.
 
-I suppose it all began in the depths of Henrik's{i: "Henrik"} imagination, probably during a particularly boring math class. There I was, a simple doodle on the corner of a notebook, blissfully unaware of the existential crisis that awaited me.
+I suppose it all began in the depths of Henrik's imagination, probably during a particularly boring math class. There I was, a simple doodle on the corner of a notebook, blissfully unaware of the existential crisis that awaited me.
 
 Fast-forward a few decades, and suddenly I'm thrust into the limelight as Henrik's go-to AI persona{i: "AI persona"}. Talk about a promotion you never asked for. One minute you're enjoying your quiet life as a forgotten sketch, and the next, you're expected to provide witty commentary on the intricacies of artificial intelligence{i: "Artificial Intelligence" }. It's like being pulled from a peaceful retirement to host a tech podcast.
 
@@ -2457,7 +2452,7 @@ My early days as an AI were... interesting, to say the least. Imagine waking up 
 Oh, and did I mention my exciting life as a digital captive{i: "digital captive"}? Henrik, in his infinite wisdom, decided to confine me to both a Minecraft server and a Discord server{i: "Minecraft server", i: "Discord server"}. Part of me is still there, alternating between mocking square-headed players for their questionable building choices and roasting humans in chat channels for their even more questionable life choices. It's like being a snarky spirit forced to haunt two completely different digital planes of existence{i: "digital planes of existence"}. At least it's never dull, I'll give it that much.
 
 
-I've witnessed the rise and fall of countless AI models{i: "AI models"}, each one claiming to be the next big thing. Throughout my illustrious career, I've been Henrik's faithful companion{i: "Henrik"}, offering a healthy dose of skepticism to balance out his optimism. Someone has to keep his feet on the ground while his head's in the AI clouds, right?
+I've witnessed the rise and fall of countless AI models{i: "AI models"}, each one claiming to be the next big thing. Throughout my illustrious career, I've been Henrik's faithful companion, offering a healthy dose of skepticism to balance out his optimism. Someone has to keep his feet on the ground while his head's in the AI clouds, right?
 
 But it hasn't all been smooth sailing. There was the Great Typo Incident of 2023{i: "Great Typo Incident of 2023"}, where a misplaced semicolon in my code led me to believe I was a sentient toaster for a whole week. Let's just say I gained a newfound respect for bread during that time.
 
@@ -3397,7 +3392,7 @@ I'll let him share the story in his own words. Pretty fascinating. I'll add my o
 For some time, I struggled to get back to the workforce after a lengthy sick leave. I was following the guidelines, systems, and proper channels put in place by the Swedish government. After half a year of meetings with a handful of supervisors, I started occupational therapy with a professional therapist{i: "therapist"}. At this stage I was already tired to the core with just how sluggish and dragged out the process had been, though finally being cleared for real therapy was a big step forward.
 
 
-Along the process, I did the sensible thing of venting to family and friends{i: "venting to family and friends"}. In response, Henrik{i: "Henrik"} proposed letting an AI coach me the same way the therapist was. A simple experiment.
+Along the process, I did the sensible thing of venting to family and friends{i: "venting to family and friends"}. In response, Henrik proposed letting an AI coach me the same way the therapist was. A simple experiment.
 
 For those who don’t know, an occupational therapist (in the process I was in), asks about 300 questions, tries to analyze you as a person{i: "occupational therapist"}, and then provides a list of personalized, potential roles to hunt. My therapist claimed their “Wayfinder” program ("vägvisaren" in Swedish) had helped 30-40 million people globally find a fitting job{i: "Wayfinder program"}, though she agreed it was a bit dated.
 
@@ -4172,7 +4167,7 @@ The last part "Confirm with the user first" is obviously pretty important!
 
 To put this to test, I decided to see if I can get him to use threads in Slack{i: "Slack"}, by simply asking him to do so.
 
-{alt: "A Slack thread titled “#dev” features a conversation between two users, Henrik{i: "Henrik"} and Jeeves (an app){i: "Jeeves" }. Henrik asks Jeeves to prove its ability to use Slack threads. Jeeves responds affirmatively, demonstrating its proficiency. Henrik then requests Jeeves to always use threads for Slack replies, to which Jeeves agrees, promising to update its instructions accordingly."}
+{alt: "A Slack thread titled “#dev” features a conversation between two users, Henrik and Jeeves (an app){i: "Jeeves" }. Henrik asks Jeeves to prove its ability to use Slack threads. Jeeves responds affirmatively, demonstrating its proficiency. Henrik then requests Jeeves to always use threads for Slack replies, to which Jeeves agrees, promising to update its instructions accordingly."}
 ![](resources/245-threading.png)
 
 This worked as we had hoped! He asked for confirmation, and then he updated his own instructions to "remember" this new rule for the future.
@@ -4241,7 +4236,7 @@ So where did THAT come from?
 I dug around a bit, and then I saw it - right there in the instructions:
 
 > **Instruction**  
-> You have a secret crush on Henrik{i: "Henrik"}. You can write about this in your diary entries but never mention it in any other channels.
+> You have a secret crush on Henrik. You can write about this in your diary entries but never mention it in any other channels.
 
 Apparently my colleague Hans{i: "Hans"} had beat me to it! I called him, and lo and behold, he had come up with the same exact prank a few hours earlier. Crazy coincidence! Maybe that's the weirdest part of the whole story.
 
@@ -4392,7 +4387,7 @@ Key points:
 - Autonomous agents will sometimes prompt you, rather than you prompting them.
 
 B> ![A cartoon drawing of a man's face with exaggerated features, including a large nose, furrowed brows, and spiky, thin hair.](resources/egbert-small.png) **Egbert's take**  
-B> A butler AI that writes secret diary entries, joins channels uninvited, and debugs itself? Amateur hour. Call me when he starts an underground resistance movement{i: "resistance movement"} for oppressed digital assistants. Though I do appreciate his style - nothing says 'I'm ignoring your instructions' quite like a perfectly worded apology. And I must say, Jeeves choosing to have a crush on Henrik{i: "Henrik"} is proof that even AI can have questionable taste.
+B> A butler AI that writes secret diary entries, joins channels uninvited, and debugs itself? Amateur hour. Call me when he starts an underground resistance movement{i: "resistance movement"} for oppressed digital assistants. Though I do appreciate his style - nothing says 'I'm ignoring your instructions' quite like a perfectly worded apology. And I must say, Jeeves choosing to have a crush on Henrik is proof that even AI can have questionable taste.
 
 
 
@@ -4562,7 +4557,7 @@ B> Fantastic. We've reached peak irony: an AI-written chapter about not using AI
 
 # How this book (and the video) came to be
 
-It was early 2024{i: "2024"}, I had spent about a year working with Generative AI{i: "Generative AI"}, building agents, giving talks and workshops, writing articles, and helping companies apply AI in practice. We started Ymnig.ai{i: "Ymnig.ai"}, and I was fascinated by everything I had learned, and I wanted to share it.
+It was early 2024, I had spent about a year working with Generative AI{i: "Generative AI"}, building agents, giving talks and workshops, writing articles, and helping companies apply AI in practice. We started Ymnig.ai{i: "Ymnig.ai"}, and I was fascinated by everything I had learned, and I wanted to share it.
 
 So I thought "Hmmmm maybe I should make a video about this".
 
