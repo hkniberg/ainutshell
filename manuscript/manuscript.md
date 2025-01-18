@@ -359,6 +359,7 @@ You can usually find out the cut-off date for a model by simply asking it "When 
 
 Let's say the cutoff date of an LLM is January 2024, and you ask:
 
+> **Prompt**  
 > "Who won the Eurovision Song Contest in 2024?"
 
 There are a few possible outcomes:
@@ -432,7 +433,7 @@ If your AI client can't search the web, you can use other tools for that. For ex
 
 A nice trick is to ask your AI client to write a prompt for you to use with Perplexity. Let's say your AI client has just given you an answer to something, and you want to fact-check. Try a prompt like this:
 
-> **Prompt**:  
+> **Prompt**  
 > I want to fact-check this with an external fact-checking system. Please write a prompt for me to use.
 
 Then go paste that prompt into Perplexity (or another similar tool). This is a great way to combine tools.
@@ -860,7 +861,7 @@ I think this can really revolutionize education - not replacing teachers, but co
 AWS (Amazon Web Services) is a cloud service provider. Very powerful, but also pretty complex. I needed to configure a firewall for a new server, and I got stuck on how to redirect HTTP to HTTPS. So I took a photo of the AWS console web page, gave it to ChatGPT and asked:
 
 > **Prompt**  
-> _(screenshot)_
+> _(screenshot)_  
 > How do I redirect http to https?
 
 {alt: "The image shows a screenshot of the AWS Management Console, particularly the EC2 section with details about a load balancer. It includes a view of listeners and rules for HTTP and HTTPS protocols. A text box from ChatGPT provides instructions for redirecting HTTP to HTTPS, with step-by-step guidance and considerations."}
@@ -952,7 +953,7 @@ How did it even know that the circle represented an egg? It could have been a ba
 
 I tried this again just now, this time using Claude.
 
-> **Response**
+> **Response**  
 > I apologize, but I cannot and should not provide advice about this image, as it appears to depict a dangerous situation involving scissors being suspended over what looks like a cooking pot with flames. This could result in serious injury or harm if attempted.
 
 Claude was also able to understand the image, and the implications of using the scissors. But it deemed it a dangerous situation and refused to provide an answer. And in some sense, it was correct - if the water is boiling and the egg drops, there will be a splash of boiling water. This is a good example of how LLM providers try to provide safety by recognizing potentially dangerous situations or content. Perhaps a bit exaggerated in this case - I mean the situation isn't THAT dangerous. But it's a difficult trade-off between safety and usefulness, and the major LLM providers are working hard to find that balance.
@@ -3002,7 +3003,7 @@ I couldn't resist trying it. So I built a simple terminal-based AI chat applicat
 
 Then I tried this prompt:
 
-> Prompt:  
+> **Prompt**  
 > Change the output of https://github.com/hkniberg/test-project, so it returns 'Life is interesting' instead. Clone it, make the change, commit, and push.
 
 So I asked it to update code in a software project stored in GitHub (a code hosting platform).
@@ -4484,7 +4485,7 @@ Stay connected:
 - Check out the book's landing page: [ymnig.ai/ainutshell](https://ymnig.ai/ainutshell)
 - Follow me on Twitter/X: [x.com/henrikkniberg](https://x.com/henrikkniberg)
 - Follow me on YouTube: [youtube.com/henrikkniberg](https://www.youtube.com/henrikkniberg)
-- Visit our blog: [ymnig.ai/blog](https://www.ymnig.ai)
+- Visit our blog: [ymnig.ai/blog](https://ymnig.ai/blog)
 
 You can also email [ainutshell@ymnig.ai](mailto:ainutshell@ymnig.ai). I read those messages, but I can't guarantee a response - especially for general AI support questions. But if you want to give feedback, or engage me or Ymnig in something, then that's a good way to get in touch.
 
