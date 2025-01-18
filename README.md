@@ -8,7 +8,7 @@ This repository is public to enable community-submitted improvements to the AI-t
 
 ## Where to buy the book
 
-The book is distributed on LeanPub (ebook) and Amazon (kindle, paperback, hardcover).
+The book is distributed on Leanpub (ebook) and Amazon (kindle, paperback, hardcover).
 
 - https://leanpub.com/ainutshell
 - https://www.amazon.com/dp/B0DSBFN12W
@@ -29,8 +29,8 @@ Here's how to do it (I'll probably provide a more detailed version of this later
 4. Also edit the file `manuscript/metadata.md` which contains the title, subtitle, and back cover text.
 5. Commit the changes.
 6. When you are finished reviewing and improving the translation, submit a Pull Request back to the `preview-xx` branch.
-7. Me and Egbert (my AI sidekick) will review it, and if it seems OK we'll publish it to LeanPub, and the ebook version will be updated.
-8. After some time, the Amazon version will be updated as well (that is a manual process done by LeanPub once roughly once per quarter).
+7. Me and Egbert (my AI sidekick) will review it, and if it seems OK we'll publish it to Leanpub, and the ebook version will be updated.
+8. After some time, the Amazon version will be updated as well (that is a manual process done by Leanpub once roughly once per quarter).
 
 ## Translation improvement guidelines
 
