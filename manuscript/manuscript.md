@@ -4658,9 +4658,9 @@ And a big fat thanks to the folks at OpenAI{i: "OpenAI"}, Anthropic{i: "Anthropi
 
 And yes, Egbert, I know. This book would be nothing without your wise commentary.
 
-{pagebreak}
+# Your Notes
 
-*Your Notes Here*
+*This is becoming a print book as well as a Leanpub ebook, so we've left a few pages at the end for you to take notes or doodle...*
 
 {pagebreak}
 
