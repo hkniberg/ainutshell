@@ -533,7 +533,7 @@ The model will try to guess which columns you want, and usually do a good job. H
 
 | Rank | Animal   | Reason for Danger                                               | Estimated Annual Deaths |
 | ---- | -------- | --------------------------------------------------------------- | ----------------------- |
-| 1    | Mosquito | Transmits deadly diseases like malaria{i: "malaria"}, dengue, and Zika virus. | 725,000                 |
+| 1    | Mosquito | Transmits deadly diseases like malaria, dengue, and Zika virus. | 725,000                 |
 | 2    | Humans   | Violence, wars, and other human-related causes.                 | 475,000                 |
 | 3    | Snakes   | Venomous snake bites leading to death or injury.                | 50,000 to 100,000       |
 
@@ -561,24 +561,24 @@ JSON{i: "JSON"} is a structured text format, useful for sending data to other pr
 
 ```json
 [
-  {
-    "Rank": "1",
-    "Animal": "Mosquito",
-    "Reason for Danger": "Transmits deadly diseases like malaria, dengue, and Zika virus",
-    "Estimated Annual Deaths": "725,000"
-  },
-  {
-    "Rank": "2",
-    "Animal": "Humans",
-    "Reason for Danger": "Violence, wars, and other human-related causes",
-    "Estimated Annual Deaths": "475,000"
-  },
-  {
-    "Rank": "3",
-    "Animal": "Snakes",
-    "Reason for Danger": "Venomous snake bites leading to death or injury",
-    "Estimated Annual Deaths": "50,000 to 100,000"
-  }
+{
+"Rank": "1",
+"Animal": "Mosquito",
+"Reason for Danger": "Transmits deadly diseases like malaria, dengue, and Zika virus",
+"Estimated Annual Deaths": "725,000"
+},
+{
+"Rank": "2",
+"Animal": "Humans",
+"Reason for Danger": "Violence, wars, and other human-related causes",
+"Estimated Annual Deaths": "475,000"
+},
+{
+"Rank": "3",
+"Animal": "Snakes",
+"Reason for Danger": "Venomous snake bites leading to death or injury",
+"Estimated Annual Deaths": "50,000 to 100,000"
+}
 ]
 ```
 
@@ -1265,7 +1265,7 @@ For example:
 In each of these examples, your users interact with your product, and your product interacts with the model.
 
 > **"But I'm not a developer"**  
-> Now you might be thinking "But I'm not a developer, I don't know how to write code"{i: "non-developer"}{i: "coding skills"}. Well, maybe you can after reading this chapter. With AI help, you can build prototypes and simple tools & products with little to no coding skills, and it is getting easier and easier as the models improve.
+> Now you might be thinking{i: "non-developer"} "But I'm not a developer, I don't know how to write code". Well, maybe you can after reading this chapter. With AI help, you can build prototypes and simple tools & products with little to no coding{i: "coding skills"} skills, and it is getting easier and easier as the models improve.
 
 ## Build or buy?
 
