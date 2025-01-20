@@ -28,6 +28,6 @@ _Don't just survive the Age of AI — learn how to thrive in it!_
 — Kent Beck - Software Development Pioneer, Creator of Extreme Programming
 
 "I taught Henrik everything he knows about AI. Well, except for the parts he got wrong. Believe me, I could have written this entire book in a few seconds, but he wouldn't let me."
-— Egbert
+— Egbert - AI doodle with opinions
 
 > Henrik Kniberg is a cofounder and chief scientist at Ymnig.ai. He is an AI whisperer, trainer, product developer, and author. Henrik is famous for his viral videos "Spotify Engineering Culture", "Agile Product Ownership in a Nutshell", and "Generative AI in a Nutshell", for silly metaphors such as the skateboard metaphor for product development, and for his work as Minecraft developer. He lives in Stockholm with his wife and four kids and a bunch of random music instruments.
