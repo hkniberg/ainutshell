@@ -41,6 +41,9 @@ Here's how to do it (I'll probably provide a more detailed version of this later
 - Don't use AI to translate! The whole point of this is to get human translation to complement the existing AI translations. But you could use AI to bounce ideas.
 - If a sentence or paragraph is hard to direct-translate, feel free to replace it with a different phrasing that makes sense in the target language. You can take some liberties here, as long as you stick to the overall intent of the paragraph (and my informal writing style).
 - Some images in the book contain text. Those are not translated by default, and I don't expect you to translate them, since it involve some finicky image editing work. But if you do, that is really awesome! The images are in the manuscript/resources folder.
+- Special tags:
+  - `{i: "electricity"}` are used to generate the book index.
+  - `{alt: "..."}` are used to generate the alt text for images, which makes the book more accessible to visually impaired readers who use screen readers.
 
 ## Questions / support
 
