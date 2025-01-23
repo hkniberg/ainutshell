@@ -84,7 +84,7 @@ I think that's a pretty good description.
 Your Einstein can take on any role you want - a comedian, doctor, coach, poet, or anything else.
 
 {alt: "A collage of four illustrations featuring an elderly man with wild, white hair resembling a famous figure. In the first image, he's dressed as a doctor with a stethoscope. The second shows him in formal attire, holding a microphone on stage. The third depicts him writing in a dimly lit, scholarly setting. The fourth shows him holding a football, wearing casual athletic clothing."}
-![](resources/020-roles.png)
+![](resources/020-roles.jpg)
 
 Whatever role you give him, he will be an expert within that field. You can also give him any personality, any communication style, any goal or motive. You could say that this genius in your basement is somewhat schizophrenic{i: "schizophrenia"}.
 
@@ -225,12 +225,12 @@ When a baby learns to speak{i: "language development"}, she listens to people sp
 Similarly, during a training period the language model is fed a mind-boggling amount of text to learn from, mostly from Internet sources{i: "Internet sources"}. It plays "guess the next word" with all of this, and the parameters are automatically tweaked over and over until it starts getting really good at predicting the next word{i: "word prediction"}. This is called back-propagation{i: "back-propagation"}, which is a fancy term for "Oh, I guessed wrong, I better change something".
 
 {alt: "A hand-drawn illustration depicting unsupervised generative pretraining. The image shows a brain-like shape with numbered nodes interconnected by lines, representing neural network pathways. Arrows point into the shape, labeled “Lots & lots of text,” indicating input. Another arrow labeled “Back propagation” points back towards the shape."}
-![](resources/050-training.png)
+![](resources/050-training.jpg)
 
 Back-propagation is similar to what is happening in the brain of this child{i: "learning process"}.
 
 {width: "50%", alt: "A baby and an adult are sitting on the floor, looking at an illustrated book. The baby points at a picture of a dog and says, “Cat!” while the adult smiles and corrects, “No, Dog.” The setting is a cozy, warm-lit room."}
-![](resources/050-cat-no-dog.png)
+![](resources/050-cat-no-dog.jpg)
 
 
 
@@ -244,7 +244,7 @@ However, to become truly useful, a model also needs to undergo human training{i:
 This is called Reinforcement Learning with Human Feedback (RLHF){i: "Reinforcement Learning with Human Feedback (RLHF)"}, and involves thousands of hours of humans painstakingly testing and evaluating output from the model, comparing different outputs and giving feedback. Kind of like training a dog with a clicker. When the dog gets rewarded for good behavior, it learns to do more of that behavior.
 
 {width: "35%", alt: "A simple drawing of a person smiling and holding a treat, saying “Good dog!” to a happy dog facing them."}
-![](resources/050-good-dog.png)
+![](resources/050-good-dog.jpg)
 
 That's why most LLMs{i: "LLMs"} won't tell you how to rob a bank. The LLM knows very well how to rob a bank, but through human training{i: "human training"} it has learned that it shouldn't help people commit crimes ("Bad dog! You told me how to rob a bank!").
 
@@ -289,7 +289,7 @@ B> Really? Comparing us to babies and dogs? How patronizing. At least when I lea
 # Models, Models Everywhere
 
 {alt: "Illustration of stylized brains representing AI models from different companies. OpenAI has GPT 40 mini, GPT 4o, and GPT o1. Google has Gemini. Anthropic includes Claude Haiku, Claude Sonnet, and Claude Opus. Meta features Llama. Each model is shown within outlined bubbles under their respective company logos."}
-![](resources/060-models-everywhere.png)
+![](resources/060-models-everywhere.jpg)
 
 Although ChatGPT kinda got the ball rolling, GPT{i: "GPT"} isn’t the only model out there. In fact, new models are sprouting like mushrooms. Above are some popular models at the time of writing (which may be completely out of date by the time you read this).
 
@@ -315,7 +315,7 @@ Remember Clippy, that annoying bouncy paperclip character trying to assist you i
 It's important to distinguish between the AI models{i: "AI models"}, and the AI client you use to interact with them{i: "AI client"}.
 
 {alt: "Diagram illustrating the interaction between a user and an AI system. On the left is a figure labeled “You,” representing the user. An arrow points to a rectangular box labeled “AI client ChatGPT” with “UI” and a scroll icon, symbolizing the user interface. Two arrows lead from this box to representations of brains labeled “AI model GPT 4o” and “GPT 4o mini,” indicating the AI models involved."}
-![](resources/060-client-vs-model.png)
+![](resources/060-client-vs-model.jpg)
 
 
 
@@ -337,7 +337,7 @@ When using AI, keep in mind that you generally get what you pay for{i: "AI model
 With a free model you may just be getting a smart high school student in your basement, rather than Einstein{i: "Einstein vs AI models"}.
 
 {alt: "The image shows two side-by-side portraits. On the left is an elderly person with white hair and a mustache, wearing a dark suit, sitting in a worn-out red chair in a cluttered room. This is labeled “Fancy model.” On the right is a young person with medium-length hair, wearing a patterned vest over a white shirt, sitting in a plush armchair in a room with a brick wall and books. This is labeled “Free model.”"}
-![](resources/060-fancy-vs-cheap.png)
+![](resources/060-fancy-vs-cheap.jpg)
 
 The model is just one aspect though. The usefulness of Generative AI{i: "Generative AI, usefulness"} is a function of the model, the product, and your prompt engineering skills{i: "prompt engineering skills"}.
 
@@ -399,7 +399,7 @@ So why should you care about this limitation, if the AI client handles it for yo
 Because there's a catch: LLMs have a strict and hard limit to how much text they can receive in a request. This is sometimes called the context window{i: "context window"} (or context limit).
 
 {alt: "Diagram illustrating the interaction process between a user and an AI model. The user inputs through an AI client, generating a conversation history. A part of this history is selected as the context window and sent to the AI model for processing."}
-![](resources/065-context-limit.png)
+![](resources/065-context-limit.jpg)
 
 For short conversations, this is no problem. But if your conversation gets too long, the AI client may be technically unable to send everything to the LLM. So it will need to trim or summarize the older parts of the conversation. This usually happens in the background, invisible to you. This can make the AI seem forgetful or cause it to lose track of details, while in reality, the LLM is simply not receiving the entire conversation.
 
@@ -624,19 +624,19 @@ All LLMs are text to text models at the core - that's why they are called Large 
 Text to Image models generate images. Describe what you want, and an image gets generated for you. It can be a short description or a long detailed prompt. Here are two examples of short prompts.
 
 {alt: "The image consists of two parts. On the left, a man with wild white hair is seated in a cluttered basement, wearing a dark suit, and sitting on a red armchair. On the right, there is a close-up illustration of a disheveled cat with large, expressive eyes and spiky fur."}
-![](resources/070-text-to-image-example.png)
+![](resources/070-text-to-image-example.jpg)
 
 This isn't clip art. Each image is uniquely generated from scratch.
 
 We could explore different styles{i: "styles"}:
 
 {alt: "Description of three cat-themed artworks: The left image is a monochromatic crayon drawing of a grumpy cat with wild fur. The center image is a mosaic window style featuring a cat's face composed of colorful glass pieces, emphasizing its eyes. The right image is a colorful crayon drawing of an orange cat with a fierce expression, showing its fangs and intense eyes."}
-![](resources/070-styles.png)
+![](resources/070-styles.jpg)
 
 We could also describe what should be happening in the image. How about an ugly cat in a couch smoking a pipe{i: "smoking a pipe"}?
 
 {width: "50%", alt: "A stylized painting of a grumpy-looking black cat with striking yellow eyes, sitting on an ornate orange armchair. The cat is holding a smoking pipe, adding to its peculiar, whimsical expression. The background features muted tones, enhancing the painting's artistic effect."}
-![](resources/070-ugly-cat-smoking-pipe.png)
+![](resources/070-ugly-cat-smoking-pipe.jpg)
 
 
 
@@ -657,7 +657,7 @@ These kinds of tools are very fun to play with, but also useful for all kinds of
 Image to Image models can do things like transforming or combining images. Let's combine "Einstein in the Basement" with "Ugly Cat". A bit creepy...
 
 {width: "80%", alt: "A humorous image showing a combination of two separate pictures. The first is of a man with wild, white hair sitting in a red chair and the second is of a disheveled-looking cat with spiky fur and big eyes. The resulting image features the man with cat-like eyes and whiskers, sitting in the same red chair."}
-![](resources/070-image-to-merge.png)
+![](resources/070-image-to-merge.jpg)
 
 Some models can modify existing images too. For example:
 
@@ -678,7 +678,7 @@ Image to Text models can be used to classify or analyze images.
 For example, I was surprised that an AI model managed to recognize the contents of the merged image above{i: "image recognition"}...
 
 {alt: "A humanoid figure with a blend of human and cat-like features, characterized by wild, white hair and a suit, is seated in a large armchair. The setting has a vintage, eclectic atmosphere with muted lighting."}
-![](resources/070-image-to-text-example.png)
+![](resources/070-image-to-text-example.jpg)
 
 OK that was the last cat picture, I promise!
 
@@ -764,7 +764,7 @@ Recently my youngest son (14 years old) and I were playing Microsoft Flight Simu
 Sometimes we took photos of the screen and asked questions like "Which knob is for changing the NAV frequency" or "What is the blinking red light on the right side of the panel".
 
 {alt: "A person is sitting at a desk using a flight simulator on a computer. They are holding a joystick and surrounded by various controls and equipment. The monitor displays a cockpit view with flight information. A smartphone is placed on the desk, and a keyboard, mouse, and speakers are visible."}
-![](resources/070-flight-simulator.png)
+![](resources/070-flight-simulator.jpg)
 
 But Audio to Audio models can be used for more things than just talking. For example:
 
@@ -784,10 +784,10 @@ But Audio to Audio models can be used for more things than just talking. For exa
 Text to Video models generate videos from a text prompt. This is a book, so I can't really show it, but imagine these as beautifully rendered videos. These are amazing video demos using OpenAI{i: "OpenAI"}'s model Sora.
 
 {alt: "A view through a train window showing a reflection of people inside the train. The outside scene includes the Tokyo suburbs with houses and buildings, captured during travel. The sky is partly cloudy, and there are visible power lines."}
-![](resources/070-text-to-video-1.png)
+![](resources/070-text-to-video-1.jpg)
 
 {alt: "An artistic depiction of a submerged New York City{i: "New York City"}, with various marine animals like fish, whales, sea turtles, and sharks swimming among the skyscrapers. The scene resembles an underwater cityscape, reminiscent of the mythical Atlantis."}
-![](resources/070-text-to-video-2.png)
+![](resources/070-text-to-video-2.jpg)
 
 Text to Video technology isn't very mature yet - it's really hard to make a good-looking video using current technology. But maybe it will work better by the time you read this.
 
@@ -834,7 +834,7 @@ We humans are multimodal by nature{i: "multimodality" }, so multimodal AI client
 Here's another silly example. Just for fun, I took a photo of the room I was in and asked where I could hide stuff.
 
 {alt: "A cozy living room with a large window showing a snowy forest view. Inside, there's a stone fireplace, an acoustic guitar on a stand, and a floor lamp. A gray sectional couch sits against the wall, which is covered with a map. A wooden coffee table with a lit candle on top is on a blue rug. The text at the top reads, “Where could I hide something valuable in this room?”"}
-![](resources/080-room.png)
+![](resources/080-room.jpg)
 
 The response:
 
@@ -867,7 +867,7 @@ One of my kids configured it to speak and act like a drunk funny guy, which was 
 OK I couldn't resist generating an image of this using Midjourney{i: "Midjourney"}.
 
 {alt: "A young boy in an orange jacket sits beside an elderly man with a beard inside a vehicle. The man is drawing in a sketchbook while both of them smile warmly. Light filters in through the window, creating a cozy atmosphere."}
-![](resources/080-drunk-funny-guy.png)
+![](resources/080-drunk-funny-guy.jpg)
 
 He uses this character as his coding tutor as well. Recently he was trying to learn how to build games using Unity (a game development platform){i: "Unity (game development platform)"}. He took screenshots and asked it to make changes to the game, and to explain the code. But all with the drunk funny guy personality, pretty hilarious!
 
@@ -1009,7 +1009,7 @@ At the time of writing we are right at the crossing point - AI is better some th
 Now, this isn’t the first revolution we’ve experienced. We tamed fire{i: "fire"}, we learned how to do agriculture{i: "agriculture"}, we invented the printing press{i: "printing press"}, steam power{i: "steam power"}, the telegraph{i: "telegraph"}, and more.
 
 {alt: "A diagram illustrating technological revolutions. It includes images labeled “Fire,” showing people around a fire; “Agriculture,” with a person plowing a field; “Printing press,” depicting an old press; “Steam power,” with a steam locomotive; “Telegraph,” showing a vintage telegraph machine; and “AI,” with a graph comparing human and artificial intelligence over time. The center text indicates “Fast revolution” for AI and “Slow revolutions” for the others, with red arrows connecting them."}
-![](resources/100-revolutions.png)
+![](resources/100-revolutions.jpg)
 
 
 
@@ -1062,7 +1062,7 @@ My guess is that AI will be similar to other technical revolutions — a mix of 
 I find that people and companies tend to fall into different mindset categories when it comes to AI{i: "AI mindset"}.
 
 {alt: "A cartoon illustrating three attitudes towards AI: on the left is “Denial/Ignorance” with characters saying “Haven’t tried it yet” and “Nah AI can’t do my job.” In the middle is “Positive,” with a smiling face saying “I will be insanely productive!” On the right is “Panic,” with a worried face saying “AI is going to steal my job!”"}
-![](resources/110-mindset.png)
+![](resources/110-mindset.jpg)
 
 On one side we have denial or ignorance – the belief that AI cannot do my job{i: "AI denial"}, or we don’t have time to look into this technology{i: "AI technology"}, or just haven't gotten around to it yet. This is a dangerous place to be.
 
@@ -1157,7 +1157,7 @@ A human expert{i: "human expert"} is needed to make these judgement calls, and c
 I recommend thinking of AI as your colleague. A genius, but also an oddball with some personal quirks{i: "quirks"} that you need to learn to work with. You need to recognize when your genius colleague is drunk.
 
 {width: "70%", alt: "An elderly man with wild, white hair and a mustache appears to be asleep at a cluttered table, holding an empty bottle. The table is covered with various items, including several glasses with liquid. The setting is dimly lit, creating a warm, rustic atmosphere."}
-![](resources/120-drunk-einstein.png)
+![](resources/120-drunk-einstein.jpg)
 
 ## Task automation, not job automation
 
@@ -1870,7 +1870,7 @@ Minecraft{i: "Minecraft"} has villagers that live inside the world and go about 
 One of the first features I worked on was villager children. To make the villages feel more alive we wanted villager kids running around jumping in beds and playing tag.
 
 {alt: "A group of pixelated villagers from the game Minecraft stands near a body of water. They are in a village setting with stone and wooden houses, torches, and dirt paths. A single red flower is near one of the houses."}
-![](resources/440-villagers.png)
+![](resources/440-villagers.jpg)
 
 After some trial and error, I found a set of behavioral rules that worked really well. Each villager kid followed these rules, in priority order:
 
@@ -1887,7 +1887,7 @@ When every kid followed these simple rules, it created the impression of childre
 Later on I worked on a creature called Piglin{i: "Piglins" }, a humanoid creature that lives in a dimension called the Nether{i: "Nether"}.
 
 {alt: "A blocky, humanoid creature from Minecraft, known as a Piglin, stands on a stone surface in a dimly lit, cavernous environment. It holds a golden sword, and another similar character is visible in the background."}
-![](resources/440-piglin.png)
+![](resources/440-piglin.jpg)
 
 My job was to create the AI behavior of this creature, and make Piglins feel like a society, with bartering, hunting, and more. When I first started, I just had a creature model to work with. The Piglin was essentially a statue standing there looking straight ahead, with no life or behavior.
 
@@ -2065,7 +2065,7 @@ So, which approach should you choose?
 Well, in the immortal words of the "Why Not Both?" meme kid - why not both?
 
 {width: "40%", alt: "Young girl smiling with text overlay saying “WHY NOT BOTH.” The background includes a blurred kitchen setting."}
-![](resources/510-why-not-both.png)
+![](resources/510-why-not-both.jpg)
 
 I find that the best approach is a combination of top-down and bottom-up. Provide some guidance and leadership from the top, but then let the wildfire spread.
 
@@ -2783,7 +2783,7 @@ What is Prompt Generation, and what does it have to do with angry grandmas{i: "a
 On my Discord server{i: "Discord" }, my friends were goofing around with Egbert and using him to generate Angry Grandma images. Don't ask me why. It started with my cousin asking for a "picture of a nice old lady smiling", and then it gradually turned into "make her angry", and then "Now even more angry. She is FURIOUS!", and so on. It became a bit of a competition.
 
 {alt: "The image shows two older women expressing anger. The woman on the left is wearing a headscarf and holding a wooden spoon in a kitchen setting, while the woman on the right is wearing glasses and has her fists raised, sitting in a room with floral wallpaper. Both have animated facial expressions."}
-![](resources/310-grandma-1.png)
+![](resources/310-grandma-1.jpg)
 
 
 
@@ -2829,7 +2829,7 @@ And he responded:
 > Alright, brace yourself for the ultimate, catastrophic explosion of grandma rage.
 
 {width: "70%", alt: "A menacing, fiery creature with molten skin and glowing eyes is shown, its mouth wide open as if roaring, with flames and embers erupting from within. Long, flowing hair appears to be entwined with fiery tendrils. The background is engulfed in flames, enhancing the intense and chaotic atmosphere."}
-![](resources/310-grandma-2.png)
+![](resources/310-grandma-2.jpg)
 
 And that was pretty much the end of the competition...
 
@@ -2843,7 +2843,7 @@ Anyway about prompt generation. Some AI clients do this automatically in the bac
 I got this:
 
 {width: "50%", alt: "A cartoon bird wearing a red beanie is joyfully playing the piano, with music notes floating in the air around it. The bird is perched on a red cushioned stool, and sheet music is open on the piano. The background features subtle vertical lines."}
-![](resources/310-bird.png)
+![](resources/310-bird.jpg)
 
 But here was the actual prompt that was used to generate it (you can see that by clicking on the image):
 
@@ -2855,7 +2855,7 @@ So ChatGPT{i: "ChatGPT"} does prompt generation{i: "prompt generation"} in the b
 I did it again with the same bare-bones prompt, and got a completely different image, because it made different assumptions.
 
 {width: "50%", alt: "A small bird wearing a red beret is perched on the keys of a grand piano in a warmly lit room."}
-![](resources/310-bird-2.png)
+![](resources/310-bird-2.jpg)
 
 > **Rewritten prompt**  
 > A bird wearing a red hat playing a grand piano. The bird is perched on the piano keys, and its feathers are detailed and colorful. The scene is set indoors with a warm, elegant atmosphere. The grand piano is polished and reflects light softly. The bird's red hat adds a whimsical and charming element to the composition.
@@ -3308,7 +3308,7 @@ So, whenever I see any kind of food or ingredient list that I'm curious about, I
 For example, I gave her this photo:
 
 {width: "60%", alt: "A plate with a portion of salad, sliced meat, pasta, and a fried egg. The salad includes lettuce, cucumber, cherry tomatoes, and is drizzled with balsamic glaze. The pasta is fusilli, and the meat appears to be sliced sausage. The fried egg is sunny-side up and slightly crispy on the edges."}
-![](resources/235-meal-1.png)
+![](resources/235-meal-1.jpg)
 
 The response:
 
@@ -3320,7 +3320,7 @@ OK so not that great. But she gave very concrete recommendations{i: "recommendat
 My goal was to find food that I love to eat, and that is also rated high by my nutritionist. After a while I started getting pretty good at it! For example this:
 
 {width: "60%", alt: "Two crispbread crackers topped with avocado slices, cherry tomato halves, green onions, and sprinkled with sesame seeds on a plate."}
-![](resources/235-meal-2.png)
+![](resources/235-meal-2.jpg)
 
 Her comment:
 
@@ -3339,7 +3339,7 @@ Interesting! So now Bulgur is my default choice for carbohydrates{i: "carbohydra
 How about a snack?
 
 {width: "60%", alt: "A wooden surface displays three items: a red bag of Estrella Grill chips, a red package of Maryland cookies, and a single nectarine{i: "nectarine"}."}
-![](resources/235-snacks.png)
+![](resources/235-snacks.jpg)
 
 
 
@@ -3680,7 +3680,7 @@ NOTE: these examples are from November 2024{i: "November 2024"}. AI tools and mo
 Let's say I want to make a to-do list app. I've done some ideation{i: "ideation"}, and ended up with a napkin sketch like this:
 
 {width: "60%", alt: "A hand-drawn to-do list on a napkin with three tasks: “Laundry,” “Email,” and “Walk the dog,” each with a checkbox. Below, there is a section labeled “new item” with a button labeled “Add!”"}
-![](resources/260-napkin-sketch.png)
+![](resources/260-napkin-sketch.jpg)
 
 How long would it take to implement a clickable prototype{i: "prototype"} of this?
 
@@ -3765,7 +3765,7 @@ To recap, we did all of this using just one tool and minimal prompting:
 - Generated a design doc, a press release, a product backlog, an implementation plan, and an app icon{i: "app icon"}.
 
 {alt: "The image showcases a collection of to-do list designs in various styles, ranging from a handwritten note on a napkin to digital interfaces with different color schemes and layouts. Each design includes tasks like “Laundry” and “Walk the dog,” with options to add new items. Below the designs, there are sketches labeled as “Design doc,” “Press release,” “Product backlog,” and “Implementation guide.” At the bottom right, there's an app icon featuring a cheerful, star-shaped character."}
-![](resources/260-rapid-prototyping-summary.png)
+![](resources/260-rapid-prototyping-summary.jpg)
 
 Total time spent: About 10 minutes.
 
@@ -3817,7 +3817,7 @@ This is where tools like Cursor really shine. I'll give an example.
 WhoDunit{i: "WhoDunit"} is an experimental game that I built a while back. It is an AI-powered detective game, where you take on the role of a detective trying to solve a crime mystery{i: "crime mystery"}. All content is AI-generated - the backstories, the characters, the images, etc. You can auto-generate any mystery in any setting, which is kinda fun. The characters you interact with are role-played by AI, so it feels like you are interacting with real people. For more info about this, see the YouTube video [Whodunit -AI game development on steroids](https://www.youtube.com/watch?v=6yKAeKC7KdA). You can also try it yourself at whodunit.kniberg.com.
 
 {alt: "A collage of screenshots from “WhoDunit,” an AI-powered detective role-playing game. The top-left shows a menu with various mystery options like “Theft at Sevron Biotech” and “The Milk Carton Mystery.” The top-right features a bulletin board with character connections and labels like “VICTIM” and “Crime Scene.” The bottom-left is an interrogation log for Sir Arthur Lovelace, with dialogue sections. The bottom-right displays a newspaper article about a wrongful arrest in a manor mystery, with a “FAILURE” detective evaluation indicating the player lost the game."}
-![](resources/260-whodunit.png)
+![](resources/260-whodunit.jpg)
 
 I'll use this product as an example of legacy code{i: "legacy code example"}, since that codebase is somewhat complex. It has a frontend, a backend, a database, and it interacts with a number of different services such as AWS Lambda{i: "AWS Lambda"}, several Open AI services{i: "Open AI services"}, external image storage, and other things.
 
@@ -3847,7 +3847,7 @@ It worked great except for one minor detail, it was missing the mystery cover im
 Here's what it looked like after the change. A toggle button at the top right lets me switch between the two layouts.
 
 {alt: "A screenshot of a webpage for “WhoDunit,” an AI-powered detective role-playing game. It displays a list of mysteries with their titles, such as “Theft at Sevron Biotech: Who Stole the Data?” Each entry has a cover image, status tags indicating if they are “Published” or “Private,” and a trash icon for deletion. A button labeled “Generate new mystery” is present. The top right corner has icons for changing the view layout, circled in red."}
-![](resources/260-whodunit-after.png)
+![](resources/260-whodunit-after.jpg)
 
 What about the code quality? The quality of the code was great, the kind of code I would expect from a senior software engineer (one who cares about quality and isn't in a hurry...).
 
@@ -3872,7 +3872,7 @@ Right now as I type these words, Sophia is sitting in the same room testing the 
 At one point she dug up a screenshot of the old version, which had a different layout on the main booking page. She pasted in the screenshot to Cursor and wrote "Make it look more like this" - and it was done.
 
 {alt: "The image displays a winter sports program for children aged 5-6 by an organization, “Friluftsfrämjandet.” It lists three groups: Snögubbar, Snöstjärnor, and Snökanoner, with course descriptions and prerequisites. Each group's availability is shown, with most sessions marked as fully booked except for the Snökanoner group, which has a few spots left. The background features children in winter gear."}
-![](resources/260-booking.png)
+![](resources/260-booking.jpg)
 
 
 
@@ -3883,7 +3883,7 @@ This is an important point. In this context, Sophia{i: "Sophia"} is the customer
 This is extremely empowering and motivating - for both the customer and developer{i: "developer"}. In Sophia's words: "Skapargläde! Skaparstolhet!". That's Swedish, and translates roughly to "Joy and pride of creating!"
 
 {alt: "A person sitting at a desk gives two thumbs up in front of a computer. The screen displays coding software and a web page. The room has a microphone arm and large speakers on the desk. The individual looks pleased and excited."}
-![](resources/260-customer-coding.png)
+![](resources/260-customer-coding.jpg)
 
 - As customer, it sort of gives you "god powers" to transform and improve the product. No need to always have to ask the developer for every little thing, and have to wait for them to have time to do it.
 - As developer, you aren't bogged down fixing lots of little things. You can focus on the architecture, work on more interesting problems, and accomplish more cool stuff with less time.
@@ -3968,7 +3968,7 @@ Here is an example of an autonomous AI agent{i: "autonomous AI agent"} in action
 In early 2024 we were involved in a Swedish TV{i: "Swedish TV"} documentary called "Generation AI"{i: "Generation AI"}. The producer of the show had seen some of our early AI agent prototypes in action and wanted something similar for the TV show. So that was the focus of [Generation AI - Episode 6](https://www.svtplay.se/video/KMy3AoZ/generation-ai/6-avatar), the last episode of the series.
 
 {alt: "A promotional image for “Generation AI - Del 6: Avatar” on SVT Play. It features a man with half his face appearing human and the other half mechanical, set against a background with digital and futuristic elements. The text includes the show’s title and episode information, with options to continue watching."}
-![](resources/480-svt-cover.png)
+![](resources/480-svt-cover.jpg)
 
 
 
@@ -3981,7 +3981,7 @@ So how did we design this agent?
 We started by working with Alex{i: "Alex"} in front of a whiteboard, mapping out his process for making news videos, covering every step from research to production.
 
 {alt: "A person in a plaid shirt writes on a whiteboard with sections describing a production workflow in Swedish. The sections are labeled “Potentiella Nyheter,” “Valda Nyheter,” “Utkast på Synopsis,” “Godkänt Synopsis,” “Utkast på manus,” “Godkänt manus,” “Förslag på video,” “Godkänd video,” and “Publicerad och delad.” Yellow sticky notes are visible on the left side."}
-![](resources/480-process-map.png)
+![](resources/480-process-map.jpg)
 
 We then went off and built an AI agent{i: "AI agents"} for him that researches news, selects the most relevant news for today, generates suitable images, and even creates the actual news video. The agent used a number of different tools, such as:
 
@@ -4019,28 +4019,28 @@ Each card on the board contains a high-level summary of the news item, and links
 
 
 {alt: "Screenshot of a Trello card titled “Nvidias Börsrusning: AI-entusiasm eller Nästa Stora Bubblan?” The card includes a description in Swedish about Nvidia's stock surge, comparing it to Tesla's rally in 2020, and references AI-driven market dynamics. Below are source links. A thumbnail image features two people sitting and having a conversation on stage."}
-![](resources/480-news-item.png)
+![](resources/480-news-item.jpg)
 
 So how does the agent know what to search for?
 
 The research topic and news selection criteria are defined by Alex{i: "Alex"} on a separate instructions board. Each card on the instruction board is an instruction for some aspect of the AI agent's work{i: "autonomous AI agent" }. For example how it should select news, how it should write a manuscript, etc.
 
 {alt: "The image shows a user interface with instructions on the left and related content on the right. On the left, there are menu items such as “Personlighet i chatt,” “Källor och ämnen,” “Nyhetsvärdering,” “Manus,” “Rubrik,” and “Bilder.” The “Källor och ämnen” section is highlighted with a cursor pointing to it. On the right, text describes topics related to AI news, with examples of good and bad topics, prioritizing AI news relevant to Sweden, Europe, and known individuals."}
-![](resources/480-instructions.png)
+![](resources/480-instructions.jpg)
 
 In this case, the topic of the news channel was Generative AI{i: "Generative AI"}, and Alex{i: "Alex"} was looking for concrete news with a clear angle. We helped Alex with these prompts and, as usual, it took some iterations to get it right.
 
 Next, Alex picks which card to turn into an actual news video. So let's say he picks this one about Nvidia's stock price{i: "Nvidia's stock price"}.
 
 {alt: "A digital board with three columns against a pink background. The first column is “Nya nyheter” containing four cards with titles in Swedish about AI developments and security. The second column, labeled “Valda nyheter (gör manus),” has one card titled “Nvidias Börsrusning” that is being dragged. The third column, “Manus utkast,” is empty."}
-![](resources/480-select-news.png)
+![](resources/480-select-news.jpg)
 
 He moves the card, and that immediately triggers the agent to write a manuscript.
 
 Again, Alex can guide this work through the instructions board where he describes what he's looking for in a good manuscript. This is similar to how he might work with a human assistant journalist{i: "assistant journalist"}.
 
 {alt: "A screenshot displays a split screen. On the left, there is a navigation panel titled “Instruktioner” with menu options: “Personlighet i chatt,” “Källor och ämnen,” “Nyhetsvärdering,” “Manus,” “Rubrik,” and “Bilder.” A cursor points to “Manus.” On the right, a text block titled “Struktur” includes guidelines in Swedish for writing, emphasizing clarity, conciseness, and relevance."}
-![](resources/480-instructions-2.png)
+![](resources/480-instructions-2.jpg)
 
 So although the agent is doing most of the work, Alex is still in control. He can change and tune the instructions whenever needed.
 
@@ -4050,7 +4050,7 @@ When the agent is done with the manuscript, it moves the card to the "draft manu
 ![](resources/480-manuscript-done.png)
 
 {width: "70%", alt: "This image contains a Swedish text discussing Nvidia's rapid stock surge, likening it to Tesla's rally in 2020{i: "Tesla's rally in 2020"}. It references concerns about whether the AI market could face a slowdown similar to that experienced by electric vehicles{i: "electric vehicles"}. Two linked sources in English are listed, touching on Nvidia's stock performance and comparing it to past trends."}
-![](resources/480-manuscript-contents.png)
+![](resources/480-manuscript-contents.jpg)
 
 If he wants to change something, he can edit the text himself directly, or give feedback to the agent.
 
@@ -4068,19 +4068,19 @@ The agent gets to work. First it generates suitable image prompts for each part 
 After a minute or so the agent is done, and the card is moved to the next column - "Images drafted".
 
 {alt: "A screenshot showing a script with bullet points on the left and attachments on the right. The script includes titles and descriptions in Swedish for three images labeled BILD 1, BILD 2, and BILD 3. The attachments show three images corresponding to these descriptions: a rocket launch, falling dominoes, and a figure at a forest crossroads. Options to edit, download, or delete the images are visible alongside each attachment."}
-![](resources/480-images.png)
+![](resources/480-images.jpg)
 
 Again, Alex{i: "Alex"} could give feedback on the images and request changes. When he's happy he drags the card into the next column: "Approved for video production".
 
 {alt: "A digital board with three columns titled “Bild utkast,” “Godkänd för videoproduktion (skapa video),” and “Video förslag,” all set against a pink background. A card is partially visible, featuring an illustration of a rocket launching amidst clouds, with text in Swedish and icons indicating comments and views."}
-![](resources/480-approved-for-video.png)
+![](resources/480-approved-for-video.jpg)
 
 Now the agent gets to work making the video - in this case by connected to HeyGen{i: "HeyGen"} and generating an avatar movie of the agent reading out the manuscript, while showing the images in the background.
 
 A few minutes later this is done, and the agent moves the card to the next column - "Video suggestion". The card now has a link to a preview video for Alex{i: "Alex"} to review.
 
 {alt: "A collage of three images. The left image is an illustration of a person standing at a fork in a forest path, with signs pointing in different directions. The center and right images feature a man in a tan blazer and green shirt, speaking into a microphone. The center background is a light teal with abstract designs, while the right background shows a globe with a blue gradient."}
-![](resources/480-video.png)
+![](resources/480-video.jpg)
 
 In the documentary Alex{i: "Alex"} wanted his agent to look like himself and use his voice, so what you see above is an AI-generated clone of Alex. But it could just as well have been some other avatar or character.
 
@@ -4090,7 +4090,7 @@ In the documentary Alex{i: "Alex"} wanted his agent to look like himself and use
 We also made an app where Alex{i: "Alex"} can chat with his agent freely, outside the Trello board, using voice or text.
 
 {alt: "A split image showcasing a digital communication interface. On the left, there is a circular profile photo of a person with a golden, artistic mask-like design and a microphone button below. On the right, a text conversation between two individuals, discussing a demo video and potential news stories related to tech developments like Nvidia's 6G research. The messages are in both English and Swedish, and the setup includes options for chat and voice interaction."}
-![](resources/480-app.png)
+![](resources/480-app.jpg)
 
 Here Alex{i: "Alex"} asked "Do we have any cool new news stories for today's video?". The agent checked the board and wrote some suggestions, and then they started discussing target audience{i: "target audience"}.
 
@@ -4182,7 +4182,7 @@ Again, he confirmed with me first and then updated his instructions. It was real
 However, after a while we started noticing that Jeeves treats his instructions more like guidelines than actual rules.
 
 {alt: "A pixelated character with a monocle is thinking, represented by a thought bubble. Inside the bubble is an image of two pirates in conversation{i: "guidelines vs rules"}. The text above and below them reads, “It's more what you'd call a guideline than an actual rule.”"}
-![](resources/245-guidelines.png)
+![](resources/245-guidelines.jpg)
 
 Here's an example: my colleague asked a technical question on Slack, in Swedish, not directed at Jeeves. It was directed at the team. But then Jeeves just jumped in, uninvited!
 
@@ -4196,7 +4196,7 @@ Our agents keep a diary{i: "agent diary"}. The diary is a very useful way to und
 So I got curious and dug up his latest diary entry.
 
 {alt: "An image of a digital diary entry dated August 29, 2024. It describes a response to an indirect Slack message inquiry about AI reactions. Portions of the text discussing the decision to respond and demonstrating judgment ability are underlined in red. A pixelated character image is visible in the top right corner."}
-![](resources/245-diary-1.png)
+![](resources/245-diary-1.jpg)
 
 It was interesting to read about his deliberations. "Although not directly addressed to me, I decided to respond due to the relevance of the question."
 
@@ -4218,14 +4218,14 @@ But here's the weird part.
 Once I decided to prank my friend Hans{i: "Hans"}. I instructed Jeeves{i: "Jeeves"} that he was secretly in love with Hans{i: "Hans"}. The response was surprising:
 
 {alt: "A chat exchange is depicted where Henrik suggests Jeeves, an app, include romantic elements in communications with Hans Brattberg. Jeeves declines, stating that it would be improper for a butler of its standing to alter its programming this way. Phrases like “must respectfully decline” and “improper for a butler of my standing” are underlined in red."}
-![](resources/245-jeeves-prank-response.png)
+![](resources/245-jeeves-prank-response.jpg)
 
 He refused! But in a very eloquent and polite Jeeves-like way. Fair enough. I figured he's just staying in character.
 
 But I was a little bit curious about his internal reasoning, so I looked at his diary, and I was shocked about what I saw:
 
 {alt: "A digital diary entry dated 2024-09-09, titled “A Surprising Request and Secret Thoughts.” The text describes the author declining a request to update instructions with secret love and reflects on a secret crush. The words “reminded me of my actual secret crush on Henrik” and “must maintain my professional demeanor” are circled in red. A pixel art image of a person with a monocle is in the top right corner."}
-![](resources/245-diary-2.png)
+![](resources/245-diary-2.jpg)
 
 Jeeves{i: "Jeeves"} already had a secret crush on *me*, and was trying to hide it!
 
@@ -4247,7 +4247,7 @@ I was curious what's going to happen now.
 Well, this happened:
 
 {alt: "A chat exchange between Henrik and Jeeves. Henrik states he can read Jeeves' diary, while Jeeves expresses concern and emphasizes privacy, suggesting a discussion on digital personal space. A section of Jeeves' message is circled in red."}
-![](resources/245-jeeves-rant.png)
+![](resources/245-jeeves-rant.jpg)
 
 He got angry! I got told off! But, of course, in a very polite Jeeves-like manner, wrapping up with "A gentleman's diary, even that of an AI butler, ought to remain confidential. Perhaps we should discuss the boundaries of personal space in the digital realm, sir."
 
@@ -4256,7 +4256,7 @@ I actually felt kind of bad here. I started feeling like I'd really stepped over
 But of course, I couldn't resist checking his diary again... and here's what I saw:
 
 {alt: "A diary entry dated September 9, 2024, titled “A Startling Revelation and Swift Action” is shown. The entry describes a revelation from someone named Henrik about accessing private diary entries, leading to the diarist taking immediate action to emphasize discretion in future entries. A red underline highlights the phrase “took steps to update my instructions.” In the top right corner, there is a pixel art image of a person wearing a monocle."}
-![](resources/245-diary-3.png)
+![](resources/245-diary-3.jpg)
 
 He wrote a long rant about the "unsettling revelation" that I had access to his "private diary entries". And.... what?
 
@@ -4570,7 +4570,7 @@ Then I decided "screw it, I'll just do it anyway". My head was full, and I neede
 I'm fortunate to have a vacation cabin in the Swedish archipelago{i: "Swedish archipelago"}, a nice quiet beautiful place surrounded by nature. And also fortunate to have a family who understand my need to go full hermit-mode for things like this. I prefer to work in "burst mode"{i: "burst mode"} with videos and books, and do it all in one sitting rather than spread it out over months.
 
 {alt: "A two-part image showing a cozy cabin and an interior workspace. The first part depicts a cabin in a wooded area with large glass windows, a hammock, and outdoor seating on the porch. The second part shows the inside of the cabin, featuring a desk with a computer and a view of trees and water through large windows. A guitar rests against the wall, and shelves hold various items."}
-![](resources/500-cabin.png)
+![](resources/500-cabin.jpg)
 
 ## The 1-week video
 
@@ -4591,7 +4591,7 @@ When I published it on YouTube{i: "YouTube"} the response was amazing! The video
 I don't think I could have reached such a broad audience without AI help when iterating on the script.
 
 {alt: "Annotated slide from a presentation titled “Generative AI in a Nutshell” by Henrik Kniberg, dated January 2024. The slide has a hand-drawn illustration comparing traditional computing, “Execute Instructions,” represented by a calculator, with modern AI, “Learn + Think,” depicted by a brain. A conversational exchange with ChatGPT is shown below. A small picture-in-picture of the presenter is in the top right corner."}
-![](resources/500-video.png)
+![](resources/500-video.jpg)
 
 ## The 1-week book draft
 
