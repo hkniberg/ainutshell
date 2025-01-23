@@ -230,7 +230,7 @@ Similarly, during a training period the language model is fed a mind-boggling am
 Back-propagation is similar to what is happening in the brain of this child{i: "learning process"}.
 
 {width: "50%", alt: "A baby and an adult are sitting on the floor, looking at an illustrated book. The baby points at a picture of a dog and says, “Cat!” while the adult smiles and corrects, “No, Dog.” The setting is a cozy, warm-lit room."}
-![](resources/050-cat-no-dog.png)
+![](resources/050-cat-no-dog.jpg)
 
 
 
@@ -337,7 +337,7 @@ When using AI, keep in mind that you generally get what you pay for{i: "AI model
 With a free model you may just be getting a smart high school student in your basement, rather than Einstein{i: "Einstein vs AI models"}.
 
 {alt: "The image shows two side-by-side portraits. On the left is an elderly person with white hair and a mustache, wearing a dark suit, sitting in a worn-out red chair in a cluttered room. This is labeled “Fancy model.” On the right is a young person with medium-length hair, wearing a patterned vest over a white shirt, sitting in a plush armchair in a room with a brick wall and books. This is labeled “Free model.”"}
-![](resources/060-fancy-vs-cheap.png)
+![](resources/060-fancy-vs-cheap.jpg)
 
 The model is just one aspect though. The usefulness of Generative AI{i: "Generative AI, usefulness"} is a function of the model, the product, and your prompt engineering skills{i: "prompt engineering skills"}.
 
@@ -631,7 +631,7 @@ This isn't clip art. Each image is uniquely generated from scratch.
 We could explore different styles{i: "styles"}:
 
 {alt: "Description of three cat-themed artworks: The left image is a monochromatic crayon drawing of a grumpy cat with wild fur. The center image is a mosaic window style featuring a cat's face composed of colorful glass pieces, emphasizing its eyes. The right image is a colorful crayon drawing of an orange cat with a fierce expression, showing its fangs and intense eyes."}
-![](resources/070-styles.png)
+![](resources/070-styles.jpg)
 
 We could also describe what should be happening in the image. How about an ugly cat in a couch smoking a pipe{i: "smoking a pipe"}?
 
@@ -784,10 +784,10 @@ But Audio to Audio models can be used for more things than just talking. For exa
 Text to Video models generate videos from a text prompt. This is a book, so I can't really show it, but imagine these as beautifully rendered videos. These are amazing video demos using OpenAI{i: "OpenAI"}'s model Sora.
 
 {alt: "A view through a train window showing a reflection of people inside the train. The outside scene includes the Tokyo suburbs with houses and buildings, captured during travel. The sky is partly cloudy, and there are visible power lines."}
-![](resources/070-text-to-video-1.png)
+![](resources/070-text-to-video-1.jpg)
 
 {alt: "An artistic depiction of a submerged New York City{i: "New York City"}, with various marine animals like fish, whales, sea turtles, and sharks swimming among the skyscrapers. The scene resembles an underwater cityscape, reminiscent of the mythical Atlantis."}
-![](resources/070-text-to-video-2.png)
+![](resources/070-text-to-video-2.jpg)
 
 Text to Video technology isn't very mature yet - it's really hard to make a good-looking video using current technology. But maybe it will work better by the time you read this.
 
@@ -867,7 +867,7 @@ One of my kids configured it to speak and act like a drunk funny guy, which was 
 OK I couldn't resist generating an image of this using Midjourney{i: "Midjourney"}.
 
 {alt: "A young boy in an orange jacket sits beside an elderly man with a beard inside a vehicle. The man is drawing in a sketchbook while both of them smile warmly. Light filters in through the window, creating a cozy atmosphere."}
-![](resources/080-drunk-funny-guy.png)
+![](resources/080-drunk-funny-guy.jpg)
 
 He uses this character as his coding tutor as well. Recently he was trying to learn how to build games using Unity (a game development platform){i: "Unity (game development platform)"}. He took screenshots and asked it to make changes to the game, and to explain the code. But all with the drunk funny guy personality, pretty hilarious!
 
@@ -2783,7 +2783,7 @@ What is Prompt Generation, and what does it have to do with angry grandmas{i: "a
 On my Discord server{i: "Discord" }, my friends were goofing around with Egbert and using him to generate Angry Grandma images. Don't ask me why. It started with my cousin asking for a "picture of a nice old lady smiling", and then it gradually turned into "make her angry", and then "Now even more angry. She is FURIOUS!", and so on. It became a bit of a competition.
 
 {alt: "The image shows two older women expressing anger. The woman on the left is wearing a headscarf and holding a wooden spoon in a kitchen setting, while the woman on the right is wearing glasses and has her fists raised, sitting in a room with floral wallpaper. Both have animated facial expressions."}
-![](resources/310-grandma-1.png)
+![](resources/310-grandma-1.jpg)
 
 
 
@@ -3883,7 +3883,7 @@ This is an important point. In this context, Sophia{i: "Sophia"} is the customer
 This is extremely empowering and motivating - for both the customer and developer{i: "developer"}. In Sophia's words: "Skapargläde! Skaparstolhet!". That's Swedish, and translates roughly to "Joy and pride of creating!"
 
 {alt: "A person sitting at a desk gives two thumbs up in front of a computer. The screen displays coding software and a web page. The room has a microphone arm and large speakers on the desk. The individual looks pleased and excited."}
-![](resources/260-customer-coding.png)
+![](resources/260-customer-coding.jpg)
 
 - As customer, it sort of gives you "god powers" to transform and improve the product. No need to always have to ask the developer for every little thing, and have to wait for them to have time to do it.
 - As developer, you aren't bogged down fixing lots of little things. You can focus on the architecture, work on more interesting problems, and accomplish more cool stuff with less time.
