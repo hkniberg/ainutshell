@@ -38,7 +38,7 @@ This is the simplest way to contribute, as it requires no software installation:
    - Replace the commit message with a short description of your changes (for example "Fixed Spanish translation")
    - If you want to say anything more about the changes, you can add a more detailed description under "Extended description", but that is optional.
    - Click "Propose changes"
-7. On the next screen, click "Create pull request"
+7. On the next screen, click "Create pull request". A Pull Request (PR) is a request to merge your changes into the main repository. This will cause a notification to be sent to Henrik's translation AI for review.
 
 You can also edit `metadata.md` the same way if you want to improve the translation of the title, subtitle, or back cover text.
 
