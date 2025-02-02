@@ -1,7 +1,5 @@
 # Generative AI in a Nutshell - book source
 
-**NOTE: Translations aren't up yet, they will be soon.**
-
 <img src="manuscript/resources/title_page.png" width="300" alt="Book Cover">
 
 This is the source code for the book "Generative AI in a Nutshell - How to Survive and Thrive in the Age of AI". The book is based on the [video with the same title](https://www.youtube.com/watch?v=2IK3DFHRFfw).
