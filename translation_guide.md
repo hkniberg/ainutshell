@@ -13,11 +13,10 @@ GitHub is a website that helps people collaborate on software projects and docum
    - Create a password
    - Choose a username
    - Complete any verification steps
-   - Select the free plan (which is all you need)
 
 ## Finding Your Language Branch
 
-1. Go to the [AI Nutshell repository](https://github.com/henrikkniberg/ainutshell)
+1. Go to the [AI Nutshell repository](https://github.com/hkniberg/ainutshell)
 2. Click the dropdown menu that says "preview" (near the top of the page)
 3. In the branch list, look for `preview-xx` where `xx` is your language code. If you don't know the language code, see [this list of language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes).
    - For example, `preview-ja` for Japanese
