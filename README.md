@@ -21,7 +21,7 @@ The original version of the book is in English. We have made AI translations to 
 
 So if you have time to read the book in your language and make the necessary language improvements, that would be great.
 
-You can find the published version of each translation here: https://leanpub.com/ainutshell/ (scroll down)
+You can find the published version of each translation at the bottom of the LeanPub landing page for the book: https://leanpub.com/ainutshell/
 
 ### Detailed guide
 
