@@ -34,8 +34,8 @@ This is the simplest way to contribute, as it requires no software installation:
 4. It will ask if you want to fork the repository. Click "Fork". That basically makes a copy of the repository under your GitHub account.
 5. Make your translation improvements directly in the editor
 6. When you're done editing:
-   - Scroll to the bottom of the page
-   - Add a brief description of your changes in the "Commit changes" box
+   - Click "Commit changes" at the top right
+   - Write a short description of your changes (for example "Fixed Spanish translation")
    - Select "Create a new branch for this commit and start a pull request"
    - Click "Propose changes"
 7. On the next screen, click "Create pull request"
