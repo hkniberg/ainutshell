@@ -21,16 +21,21 @@ The original version of the book is in English. We have made AI translations to 
 
 So if you have time to read the book in your language and make the necessary language improvements, that would be great.
 
-Here's how to do it (I'll probably provide a more detailed version of this later):
+### Detailed guide
 
-1. Create a GitHub account (if you don't have one already)
-2. Open the branch for the language you want to improve: `preview-xx` (where `xx` is the language code, e.g. `ja` for Japanese)
-3. Edit the file `manuscript/manuscript.md`. It uses Markua, which is a Markdown based format. You probably don't need to know the Markua syntax, but you can read more about it here: https://markua.com/
-4. Also edit the file `manuscript/metadata.md` which contains the title, subtitle, and back cover text.
-5. Commit the changes.
-6. When you are finished reviewing and improving the translation, submit a Pull Request back to the `preview-xx` branch.
-7. Me and Egbert (my AI sidekick) will review it, and if it seems OK we'll publish it to Leanpub, and the ebook version will be updated.
-8. After some time, the Amazon version will be updated as well (that is a manual process done by Leanpub once roughly once per quarter).
+If you haven't used GitHub before, [here is a detailed description of how to do it](TRANSLATION_GUIDE.md).
+
+### Quick summary
+
+If you are familiar with GitHub, here is a quick summary:
+
+1. Open the branch for the language you want to improve: `preview-xx` (where `xx` is the language code, e.g. `ja` for Japanese). If you don't know the language code, see [this list of language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes).
+2. Edit the file `manuscript/manuscript.md`. It uses Markua, which is a Markdown based format. You probably don't need to know the Markua syntax, but you can read more about it here: https://markua.com/
+3. Also edit the file `manuscript/metadata.md` which contains the title, subtitle, and back cover text.
+4. Commit the changes.
+5. When you are finished reviewing and improving the translation, submit a Pull Request back to the `preview-xx` branch.
+6. Me and Egbert (my AI sidekick) will review it, and if it seems OK we'll publish it to Leanpub, and the ebook version will be updated.
+7. After some time, the Amazon version will be updated as well (that is a manual process done by Leanpub once roughly once per quarter).
 
 ## Translation improvement guidelines
 
