@@ -23,7 +23,7 @@ So if you have time to read the book in your language and make the necessary lan
 
 ### Detailed guide
 
-If you haven't used GitHub before, [here is a detailed description of how to do it](TRANSLATION_GUIDE.md).
+If you haven't used GitHub before, [here is a detailed description of how to do it](translation_guide.md).
 
 ### Quick summary
 
