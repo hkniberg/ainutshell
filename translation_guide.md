@@ -39,8 +39,10 @@ This is the simplest way to contribute, as it requires no software installation:
    - If you want to say anything more about the changes, you can add a more detailed description under "Extended description", but that is optional.
    - Click "Propose changes"
 7. On the next screen, click "Create pull request". A Pull Request (PR) is a request to merge your changes into the main repository. This will cause a notification to be sent to Henrik's translation AI for review.
+8. You will see a summary of your PR (includig your changes), and optionally you can edit the description. But it will by default use the same as your commit message earlier, which is fine. Just press "Create pull request" again.
+9. If you see a green label "Open" at the top, your PR is ready for review! Congratulations! You should automatically get a notification via GitHub if something happens with your PR (for example if a comment is added, or if the PR is accepted or rejected).
 
-You can also edit `metadata.md` the same way if you want to improve the translation of the title, subtitle, or back cover text.
+   You can also edit `metadata.md` the same way if you want to improve the translation of the title, subtitle, or back cover text.
 
 ## Option 2: Editing Locally on Your Computer
 
