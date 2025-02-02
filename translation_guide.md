@@ -35,8 +35,8 @@ This is the simplest way to contribute, as it requires no software installation:
 5. Make your translation improvements directly in the editor
 6. When you're done editing:
    - Click "Commit changes" at the top right
-   - Write a short description of your changes (for example "Fixed Spanish translation")
-   - Select "Create a new branch for this commit and start a pull request"
+   - Replace the commit message with a short description of your changes (for example "Fixed Spanish translation")
+   - If you want to say anything more about the changes, you can add a more detailed description under "Extended description", but that is optional.
    - Click "Propose changes"
 7. On the next screen, click "Create pull request"
 
