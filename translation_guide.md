@@ -31,13 +31,14 @@ This is the simplest way to contribute, as it requires no software installation:
 1. After finding your language branch, navigate to the `manuscript` folder
 2. Click on `manuscript.md` (this contains the main book content)
 3. Click the pencil icon (🖊️) in the top-right corner of the file view
-4. Make your translation improvements directly in the editor
-5. When you're done editing:
+4. It will ask if you want to fork the repository. Click "Fork". That basically makes a copy of the repository under your GitHub account.
+5. Make your translation improvements directly in the editor
+6. When you're done editing:
    - Scroll to the bottom of the page
    - Add a brief description of your changes in the "Commit changes" box
    - Select "Create a new branch for this commit and start a pull request"
    - Click "Propose changes"
-6. On the next screen, click "Create pull request"
+7. On the next screen, click "Create pull request"
 
 You can also edit `metadata.md` the same way if you want to improve the translation of the title, subtitle, or back cover text.
 
