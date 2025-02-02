@@ -5,7 +5,7 @@
 {width: "40%", alt: "En karikatyrteckning av ett ansikte med överdrivna drag. Karaktären har en stor näsa, en framträdande haka och ett hopskrynklat uttryck. Håret är spretigt och ojämnt fördelat. Stilen är minimalistisk med enkla linjer och en lätt rodnad på ansiktet."}
 ![](resources/egbert.png)
 
-Jaha, jaha, jaha. Grattis till att du kom förbi bokens omslag. Jag är Egbert, ett påhitt från Henriks barndomsfantasi, född ur klottret han ritade medan han låtsades vara uppmärksam på lektionerna. Nu är jag hans favorit-AI-persona. Snacka om att misslyckas uppåt, va?
+Jaha, jaha, jaha. Grattis till att du kom förbi bokens omslag. Jag är Egbert, ett påhitt från Henriks barndomsfantasi, född ur klottret han ritade medan han låtsades vara uppmärksam på lektionerna. Nu är jag hans favorit-AI-persona. Snacka om att misslyckas uppåt, va? sia testar
 
 Varför läser du ens den här delen? Förord är som grönsakerna på ett barns tallrik - alla vet att de finns där, men de flesta struntar i dem. Nåja, när du ändå är här kan jag väl lika gärna underhålla dig.
 
