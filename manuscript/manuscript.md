@@ -2655,7 +2655,7 @@ Mein Chatverlauf wird dann etwa so aussehen:
 
 Nehmen wir an, ich ändere meine Meinung. Fallschirmspringen scheint keine gute Idee zu sein, also möchte ich andere Optionen erkunden.
 
-Ich könnte einfach das Gespräch fortsetzen und sagen "Wie wäre es stattdessen mit einem Escape Room?"{i: "Escape Room"} Das wäre das Natürlichste.
+Ich könnte einfach das Gespräch fortsetzen und sagen{i: "Escape Room"} "Wie wäre es stattdessen mit einem Escape Room?" Das wäre das Natürlichste.
 
 
 
