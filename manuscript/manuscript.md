@@ -741,7 +741,7 @@ Modelos de Texto para Áudio{i: "Texto para Áudio"} podem gerar música ou outr
 
 - Você precisa de uma vinheta para um vídeo: "Vinheta animada com uma melodia cativante e um solo de baixo slap no meio"
 - Você está caminhando e quer ouvir um artigo: "Leia este texto em voz alta: ..."
-- Você precisa de sons ambientes para uma cena em um jogo: "Conversas de fundo em uma taverna medieval"{i: "Conversas de fundo"}
+- Você precisa de sons ambientes para uma cena em um{i: "Conversas de fundo"} jogo: "Conversas de fundo em uma taverna medieval"
 - Você está assistindo a um filme em um idioma que não entende: "Duble isto para português, mas mantenha as vozes dos atores"
 - Você é do mal: "Aquele som horrível e estridente de giz arranhando um quadro-negro"
 
