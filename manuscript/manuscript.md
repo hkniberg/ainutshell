@@ -741,7 +741,7 @@ Os modelos de Texto para Áudio{i: "Texto para Áudio"} podem gerar música ou o
 
 - Precisa de um jingle para um vídeo: "Jingle animado com uma melodia cativante e um solo de baixo slap no meio"
 - Está a caminhar e quer ouvir um artigo: "Lê este texto em voz alta: ..."
-- Precisa de sons ambiente para uma cena num jogo: "Burburinho de fundo numa taberna medieval"{i: "Burburinho de fundo"}
+- Precisa de sons ambiente para uma cena num{i: "Burburinho de fundo"} jogo: "Burburinho de fundo numa taberna medieval"
 - Está a ver um filme numa língua que não compreende: "Dobra isto para inglês, mas mantém as vozes dos atores"
 - É malvado: "Aquele horrível som estridente do giz no quadro"
 
