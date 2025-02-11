@@ -2651,7 +2651,7 @@ Mijn chatgeschiedenis zal er ongeveer zo uitzien:
 
 Laten we zeggen dat ik van gedachten verander. Skydiving lijkt een slecht idee, dus ik wil andere opties verkennen.
 
-Ik zou het gesprek simpelweg kunnen voortzetten en zeggen "Wat dacht je van een escape room in plaats daarvan?"{i: "escape room"} Dat zou het meest natuurlijk zijn om te doen.
+Ik zou het gesprek simpelweg kunnen voortzetten en{i: "escape room"} zeggen "Wat dacht je van een escape room in plaats daarvan?" Dat zou het meest natuurlijk zijn om te doen.
 
 
 
@@ -3030,7 +3030,7 @@ Nu kunnen we een semantische vergelijking maken door simpelweg de afstand tussen
 
 Dit biedt een computationeel efficiënte manier om gerelateerde tekst te vinden.
 
-Hier is een echt voorbeeld. Ik nam de zinnen "Katten zijn schattig"{i: "Katten zijn schattig"}, "Wie heeft mijn broodrooster gestolen"{i: "Wie heeft mijn broodrooster gestolen"}, en "Ik heb honger", en zette elk om in een vectorinbedding met behulp van de OpenAI embeddings API{i: "OpenAI embeddings API"}, wat resulteert in een lijst van ongeveer 1500 getallen per zin.
+Hier is een echt voorbeeld. Ik nam de zinnen "Katten zijn schattig"{i: "Katten zijn schattig"}, "Wie heeft mijn broodrooster gestolen", en{i: "Wie heeft mijn broodrooster gestolen"} "Ik heb honger", en zette elk om in een vectorinbedding met behulp van de OpenAI embeddings API{i: "OpenAI embeddings API"}, wat resulteert in een lijst van ongeveer 1500 getallen per zin.
 
 
 
