@@ -768,7 +768,7 @@ Modele zamiany tekstu na audio{i: "Zamiana tekstu na audio"} potrafią generowa�
 
 - Potrzebujesz dżingla do filmu: "Energiczny dżingiel z chwytliwą melodią i solówką gitary basowej slap w środku"
 - Jesteś na spacerze i chcesz posłuchać artykułu: "Przeczytaj na głos ten tekst: ..."
-- Potrzebujesz dźwięków otoczenia do sceny w grze wideo: "Szum rozmów w średniowiecznej karczmie"{i: "Szum rozmów"}
+- Potrzebujesz dźwięków otoczenia do sceny w grze{i: "Szum rozmów"} wideo: "Szum rozmów w średniowiecznej karczmie"
 - Oglądasz film w języku, którego nie znasz: "Zdubbinguj to na angielski, ale zachowaj głosy aktorów"
 - Jesteś złą osobą: "Ten okropny, przeraźliwy dźwięk kredy piszczącej po tablicy"
 
