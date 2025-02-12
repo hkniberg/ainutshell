@@ -741,7 +741,7 @@ Tekst-til-lyd-modeller{i: "Tekst til lyd"} kan generere musikk eller annen lyd f
 
 - Du trenger en jingle til en video: "Oppløftende jingle med en fengende melodi og en slap bass-solo i midten"
 - Du er ute og går og vil høre på en artikkel: "Les denne teksten høyt: ..."
-- Du trenger bakgrunnslyder til en scene i et videospill: "Bakgrunnssamtale på et middelaldersk vertshus"{i: "Bakgrunnssamtale"}
+- Du trenger bakgrunnslyder til en scene i et{i: "Bakgrunnssamtale"} videospill: "Bakgrunnssamtale på et middelaldersk vertshus"
 - Du ser en film på et språk du ikke forstår: "Dubb dette til engelsk, men behold skuespillernes stemmer"
 - Du er ond: "Den forferdelige skurrende lyden av kritt på en tavle"
 
