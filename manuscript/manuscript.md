@@ -579,24 +579,25 @@ JSON{i: "JSON"}は構造化されたテキスト形式で、他のプログラ�
 
 ```json
 [
-{
-"Rank": "1",
-"Animal": "Mosquito",
-"Reason for Danger": "Transmits deadly diseases like malaria, dengue, and Zika virus",
-"Estimated Annual Deaths": "725,000"
-},
-{
-"Rank": "2",
-"Animal": "Humans",
-"Reason for Danger": "Violence, wars, and other human-related causes",
-"Estimated Annual Deaths": "475,000"
-},
-{
-"Rank": "3",
-"Animal": "Snakes",
-"Reason for Danger": "Venomous snake bites leading to death or injury",
-"Estimated Annual Deaths": "50,000 to 100,000"
-}
+  {
+    "Rank": "1",
+    "Animal": "Mosquito",
+    "Reason for Danger": "Transmits deadly diseases like malaria, dengue, "
+                         "and Zika virus",
+    "Estimated Annual Deaths": "725,000"
+  },
+  {
+    "Rank": "2",
+    "Animal": "Humans",
+    "Reason for Danger": "Violence, wars, and other human-related causes",
+    "Estimated Annual Deaths": "475,000"
+  },
+  {
+    "Rank": "3",
+    "Animal": "Snakes",
+    "Reason for Danger": "Venomous snake bites leading to death or injury",
+    "Estimated Annual Deaths": "50,000 to 100,000"
+  }
 ]
 ```
 
