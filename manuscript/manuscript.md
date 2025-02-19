@@ -582,8 +582,7 @@ JSON{i: "JSON"}は構造化されたテキスト形式で、他のプログラ�
   {
     "Rank": "1",
     "Animal": "Mosquito",
-    "Reason for Danger": "Transmits deadly diseases like malaria, dengue, "
-                         "and Zika virus",
+    "Reason for Danger": "Transmits deadly diseases like malaria, dengue...",
     "Estimated Annual Deaths": "725,000"
   },
   {
