@@ -1,8 +1,11 @@
 This is the technical version of the source code for the book "Generative AI in a Nutshell - How to Survive and Thrive in the Age of AI". The structure is optimized for publishing on leanpub.
 
+
 # Translations
 
 Translations are maintained in the [ainutshell-translations](https://github.com/hkniberg/ainutshell-translations) repo, which is designed to be translator-friendly (no branches, simple structure). See that repo for instructions on how to export translations to this repo.
+
+Note: Leanpub uses `LEANPUB_METADATA.*` files for book metadata, not `metadata.md`. So in the translated branches, metadata.md is ignored.
 
 # Branch structure
 
